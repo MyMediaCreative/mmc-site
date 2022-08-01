@@ -1,0 +1,22 @@
+{
+    "home": {
+        "title": "Home",
+        "desc": "My Media Creative is a creative agency for social change. We do marketing, branding, and content creation for nonprofits, foundations, social enterprises, governments, and charities."
+    },
+    "about": {
+        "title": "About",
+        "desc": "My Media Creative is a creative agency for social change—we create a space where you can be your most brilliant self so we can tell your story brilliantly."
+    },
+    "work": {
+        "title": "Work",
+        "desc": "My Media Creative is a creative agency for social change. Our work in marketing, branding, and content creation is tied together by passion and care for social and environmentally focused organizations."
+    },
+    "services": {
+        "title": "Services",
+        "desc": "My Media Creative is a social change creative agency. We do marketing, branding, video, design, websites, social media, and other creative things for nonprofits, social enterprises, foundations, governments, and charities."
+    },
+    "contact": {
+        "title": "Contact",
+        "desc": "My Media Creative is a creative agency for social change. Are you a nonprofit, foundation, social enterprise, government, or charity? We'd love to work with you. Reach out."
+    }
+}

@@ -1,0 +1,2657 @@
+{
+    "mada": {
+        "portfolio": {
+            "order": 1,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638116/work/MADA_v1_bn37vi.png",
+            "blurb": "Raising $2 million to <br/>fight hunger with "
+        },
+        "seo": {
+            "title": "MADA",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/mada",
+        "color1": "",
+        "color2": "",
+        "name": "MADA",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "greenpeace": {
+        "portfolio": {
+            "order": 2,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/Infaque_v1_rdysby.png",
+            "blurb": "Blurb goes here for "
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/greenpeace",
+        "color1": "",
+        "color2": "",
+        "name": "GreenPeace",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "smarthospital": {
+        "portfolio": {
+            "order": 3,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/SH_v1_bmrlpn.png",
+            "blurb": "Making innovation feel safe<br/> for young parents with the <br/>"
+        },
+        "seo": {
+            "title": "Smart Hospital",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/smarthospital",
+        "color1": "",
+        "color2": "",
+        "name": "Montreal Children's Hospital",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "SEIZE": {
+        "portfolio": {
+            "order": 4,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/SEIZE_v1_wazmkl.png",
+            "blurb": "Activating 4000+ students to <br/>fund a new economy with "
+        },
+        "seo": {
+            "title": "SEIZE",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/seize",
+        "color1": "",
+        "color2": "",
+        "name": "SEIZE",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "aisb": {
+        "portfolio": {
+            "order": 5,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/AisB_v1_naf9gb.png",
+            "blurb": "Educating and mobilizing young<br/> voters with "
+        },
+        "seo": {
+            "title": "Apathy is Boring",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/aisb",
+        "color1": "",
+        "color2": "",
+        "name": "Apathy is Boring",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "yic": {
+        "portfolio": {
+            "order": 6,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/YIC_v1_gy4chm.png",
+            "blurb": "Getting 600+ young<br/> entrepreneurs to pitch their <br/>big idea with "
+        },
+        "seo": {
+            "title": "Youth Impact Challenger",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/yic",
+        "color1": "",
+        "color2": "",
+        "name": "InvestEco and <br/> Renewal Funds",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "cera": {
+        "portfolio": {
+            "order": 7,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733959/work/grid/CERA_Header_xyiid0.png",
+            "blurb": "Video"
+        },
+        "seo": {
+            "title": "CERA",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/cera",
+        "color1": "",
+        "color2": "",
+        "name": "CERA",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "chasm": {
+        "portfolio": {
+            "order": 8,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645638141/work/grid/CHASM_Header_ghro3j.png",
+            "blurb": "Website"
+        },
+        "seo": {
+            "title": "CHASM",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/chasm",
+        "color1": "",
+        "color2": "",
+        "name": "CHASM",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "infaque": {
+        "portfolio": {
+            "order": 9,
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/Infaque_v1_rdysby.png",
+            "blurb": "Strategy"
+        },
+        "seo": {
+            "title": "Infāque",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/infaque",
+        "color1": "#1F5E72",
+        "color2": "#AECBD8",
+        "name": "Infāque SWAP THIS THUMBNAIL",
+        "title": "Rethinking giving for the digital era.",
+        "foci": [
+            "Social Innovation",
+            "Tech For Good"
+        ],
+        "year": "2021",
+        "disciplines": [
+            "Brand Strategy",
+            "Brand Design",
+            "Web Design",
+            "Copywriting",
+            "Campaign Strategy",
+            "Video"
+        ],
+        "header": {
+            "type": "video",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1645639065/case-studies/infaque/Infaque_HeaderLoop_jszbeh.mp4",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1646157418/case-studies/infaque/MOBILE_Infaque_Header_awpyxu.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Brand_zempjb.png"
+        },
+        "numContent": {
+            "intro": "Infāque is a platform that wants to make giving more frictionless, effective, and transparent. Through our research-led work together we identified their audience, market opportunity, and brand strategy. We built this out into a beautiful visual brand and website. Ultimately, we launched the brand across social channels and directly to members of the target market.",
+            "challenge": "Infāque is a platform that wants to make giving more frictionless, effective, and transparent. Through our research-led work together we identified their audience, market opportunity, and brand strategy. We built this out into a beautiful visual brand and website. Ultimately, we launched the brand across social channels and directly to members of the target market.",
+            "dotstrip": "Get people donating again<br/> — by building a brand that <br/>speaks to them.",
+            "approach": "We started with a survey—asking more than 100 young people what their relationship is to charitable giving. We took this data, and more detailed research, to develop our brand strategy. This took the form of a strategic Narrative and Experience Principles—which defined the brand’s audience, market positioning, key values, and it’s &quot;pitch story&quot;. Once that was done, we worked to develop a visual brand and website that reflected our strategic objectives. Finally, with all of this research and brand strategy done—we developed a brand Go-To-Market campaign which went out through social media, direct outreach, and digital advertising.",
+            "execution": "Our principle for this brand campaign was experimentation. Experiment with different approaches to messaging, content, and audience targeting so that we could learn as much as possible about the audience + what would get them to convert. So, we tried several different content approaches: a 2-minute animated video, 1-minute &quot;Explainer&quot; videos, a couple animated GIFs, and static infographic content for social media. We took feedback from our audience as we rolled these pieces out—adjusting our focus, and creative asset, up until we surpassed our established social media followership growth goals for the initial brand campaign.",
+            "outcome": "Our brand strategy work was a game-changer for the product—identifying the audience, market opportunity, and key strategic narrative to tell in order to break into the market. This has been used to great success to acquire speaking opportunities, coverage, and interest from our user base. <br/><br/>The Infāque social media accounts were starting from scratch—so we set reasonable initial goals: 300 followers within the first couple weeks. During the initial two weeks of the brand campaign we received 60,000 impressions and surpassed our follower goal by 200 across platforms. Most importantly, we gathered important data about user preferences through very limited spending—Infāque can use it to shape their decisions when they’re ready to go to market at scale."
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Web_pwim7p.png"
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Illustration_kcblzj.png"
+                    },
+                    {
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1645639066/case-studies/infaque/Fire_Gif_y0gxox.mp4"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639065/case-studies/infaque/Infaque_Social_gqgne7.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Brand2_shyqhy.png",
+                "title": "Branding",
+                "blurb": "We benchmarked tech disruptors and leading nonprofit brands to find the perfect balance between &quot;platform economy&quot; and social good."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Mac_kvmyok.png",
+                "title": "Web Design & Development",
+                "blurb": "We built an illustration-heavy website that playfully welcomes users into the &quot;world of Infāque&quot;."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681649639",
+                "title": "Explainer Video",
+                "blurb": "The concept was novel—but crucial. We built a 2-minute explainer video that focused on inspiring hope in individual action and breaking the core concept of the application down."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681650164",
+                "title": "Rething Giving",
+                "blurb": "We built a three-part social media series that tackled interesting issues in the social sector in a 1-minute video that was styled halfway between a Vox documentary and a TikTok explainer."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Gif_mwgozo.png",
+                "title": "Brand Activation GIFs",
+                "blurb": "The concept was novel—but crucial. We built a 2-minute explainer video that focused on inspiring hope in individual action and breaking the core concept of the application down."
+            }
+        ]
+    },
+    "csi": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/csi",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "mcconnell": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/mcconnell",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "culturalConnection": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/culturalconnection",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "acgc": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/acgc",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "indigirecruit": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/indigirecruit",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "nofish": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/nofish",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "ippnwc": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/ippnwc",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "madaPassover": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/madapassover",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "psystem": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/psystem",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "upstarted": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/upstarted",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "regeneration": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/re_generation",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "mpcc": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/mpcc",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "ecthp": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/ecthp",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "repitHiring": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/repithiring",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "hago": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/hago",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "pop": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/pop",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "divest": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/divest",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "seize": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/seize",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "bsn": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/bsn",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "sherpa": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/sherpa",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "alchemy": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/alchemy",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "somm": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/somm",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "koop": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/koop",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "thrive": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/thrive",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "mealcare": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/mealcare",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "k24": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/k24",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "boabf": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/boabf",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "homie": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/homie",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "storyplanet": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/storyplanet",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "ecwild": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/ecwild",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "repitEmployee": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/repitEmp",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "walksafe": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/walksafe",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "pcp": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/pcp",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "digitalEra": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/digitalera",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "mpa": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/mpa",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    },
+    "madaGala": {
+        "portfolio": {
+            "order": 10,
+            "thumb": "",
+            "blurb": ""
+        },
+        "seo": {
+            "title": "",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/madagala",
+        "color1": "",
+        "color2": "",
+        "name": "",
+        "title": "",
+        "foci": [
+            "",
+            ""
+        ],
+        "year": "2021",
+        "disciplines": [
+            "",
+            ""
+        ],
+        "header": {
+            "type": "",
+            "media": "",
+            "mobile": "",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "",
+            "challenge": "",
+            "dotstrip": "",
+            "approach": "",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "",
+                "media": ""
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ]
+    }
+}
