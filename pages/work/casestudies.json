@@ -8,7 +8,7 @@
             "title": "MADA",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/mada",
         "color1": "",
         "color2": "",

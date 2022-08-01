@@ -113,7 +113,7 @@ const Home = ({ homepage }) => {
           <div className="home-logos-text">
             <h4>We’ve been bringing stories like these to life with <em className="dorange">nonprofits</em>,<br /> <em className="dorange">foundations</em>, and <em className="dorange">mission-driven businesses</em> for a while now…</h4>
             <div className="logo-grid">
-              <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1645747341/home/logos/Logos_mz8qyn.png" />
+              <img src="https://res.cloudinary.com/mymediacreative/image/upload/v1659219267/home/Logos_July2022_n6egfy.png" />
             </div>
             <h4>...and we've <em className="dorange">learned</em> something.</h4>
           </div>
