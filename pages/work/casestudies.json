@@ -1,7 +1,6 @@
 {
     "mada": {
         "portfolio": {
-            "order": 1,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638116/work/MADA_v1_bn37vi.png",
             "blurb": "Raising $2 million to <br/>fight hunger with "
         },
@@ -59,7 +58,6 @@
     },
     "greenpeace": {
         "portfolio": {
-            "order": 2,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/Infaque_v1_rdysby.png",
             "blurb": "Blurb goes here for "
         },
@@ -117,7 +115,6 @@
     },
     "smarthospital": {
         "portfolio": {
-            "order": 3,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/SH_v1_bmrlpn.png",
             "blurb": "Making innovation feel safe<br/> for young parents with the <br/>"
         },
@@ -175,7 +172,6 @@
     },
     "SEIZE": {
         "portfolio": {
-            "order": 4,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/SEIZE_v1_wazmkl.png",
             "blurb": "Activating 4000+ students to <br/>fund a new economy with "
         },
@@ -233,7 +229,6 @@
     },
     "aisb": {
         "portfolio": {
-            "order": 5,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/AisB_v1_naf9gb.png",
             "blurb": "Educating and mobilizing young<br/> voters with "
         },
@@ -291,7 +286,6 @@
     },
     "yic": {
         "portfolio": {
-            "order": 6,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/YIC_v1_gy4chm.png",
             "blurb": "Getting 600+ young<br/> entrepreneurs to pitch their <br/>big idea with "
         },
@@ -349,7 +343,6 @@
     },
     "cera": {
         "portfolio": {
-            "order": 7,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733959/work/grid/CERA_Header_xyiid0.png",
             "blurb": "Video"
         },
@@ -407,7 +400,6 @@
     },
     "chasm": {
         "portfolio": {
-            "order": 8,
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645638141/work/grid/CHASM_Header_ghro3j.png",
             "blurb": "Website"
         },
@@ -465,8 +457,7 @@
     },
     "infaque": {
         "portfolio": {
-            "order": 9,
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/Infaque_v1_rdysby.png",
+            "thumb": "",
             "blurb": "Strategy"
         },
         "seo": {
@@ -568,19 +559,18 @@
     },
     "csi": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Strategy"
         },
         "seo": {
-            "title": "",
+            "title": "Centre for Social Innovation",
             "desc": ""
         },
         "isBlack": true,
         "path": "/csi",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "CSI",
         "title": "",
         "foci": [
             "",
@@ -626,19 +616,18 @@
     },
     "mcconnell": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645638141/work/grid/McConnell_Header_qe5lva.png",
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "McConnell Foundation",
             "desc": ""
         },
         "isBlack": true,
         "path": "/mcconnell",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "McConnell Foundation",
         "title": "",
         "foci": [
             "",
@@ -684,19 +673,18 @@
     },
     "culturalConnection": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Strategy"
         },
         "seo": {
-            "title": "",
+            "title": "Cultural Connection",
             "desc": ""
         },
         "isBlack": true,
         "path": "/culturalconnection",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Cultural Connection",
         "title": "",
         "foci": [
             "",
@@ -742,19 +730,18 @@
     },
     "acgc": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Strategy"
         },
         "seo": {
-            "title": "",
+            "title": "ACGC",
             "desc": ""
         },
         "isBlack": true,
         "path": "/acgc",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "ACGC",
         "title": "",
         "foci": [
             "",
@@ -800,19 +787,18 @@
     },
     "indigirecruit": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/IndigIrecruit_Header_pnxibt.png",
+            "blurb": "Branding"
         },
         "seo": {
-            "title": "",
+            "title": "Indigirecruit",
             "desc": ""
         },
         "isBlack": true,
         "path": "/indigirecruit",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Indigirecruit",
         "title": "",
         "foci": [
             "",
@@ -858,19 +844,18 @@
     },
     "nofish": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/NoFish_Header_umrpak.png",
+            "blurb": "Strategy"
         },
         "seo": {
-            "title": "",
+            "title": "NoFish",
             "desc": ""
         },
         "isBlack": true,
         "path": "/nofish",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "NoFish",
         "title": "",
         "foci": [
             "",
@@ -916,19 +901,18 @@
     },
     "ippnwc": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/IPPNWC_Header_fse62a.png",
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "IPPNWC",
             "desc": ""
         },
         "isBlack": true,
         "path": "/ippnwc",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "IPPNWC",
         "title": "",
         "foci": [
             "",
@@ -974,19 +958,18 @@
     },
     "madaPassover": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "MADA Passover",
             "desc": ""
         },
         "isBlack": true,
         "path": "/madapassover",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "MADA Passover",
         "title": "",
         "foci": [
             "",
@@ -1032,19 +1015,18 @@
     },
     "psystem": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645638142/work/grid/Psystem_Header_aiwhko.png",
+            "blurb": "Branding"
         },
         "seo": {
-            "title": "",
+            "title": "Psystem",
             "desc": ""
         },
         "isBlack": true,
         "path": "/psystem",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Psystem",
         "title": "",
         "foci": [
             "",
@@ -1090,19 +1072,18 @@
     },
     "upstarted": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "UpstartEd",
             "desc": ""
         },
         "isBlack": true,
         "path": "/upstarted",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "UpstartEd",
         "title": "",
         "foci": [
             "",
@@ -1148,9 +1129,8 @@
     },
     "regeneration": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Website"
         },
         "seo": {
             "title": "",
@@ -1160,7 +1140,7 @@
         "path": "/re_generation",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Re_Generation",
         "title": "",
         "foci": [
             "",
@@ -1206,19 +1186,18 @@
     },
     "mpcc": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Website"
         },
         "seo": {
-            "title": "",
+            "title": "MPCC",
             "desc": ""
         },
         "isBlack": true,
         "path": "/mpcc",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "MPCC",
         "title": "",
         "foci": [
             "",
@@ -1264,9 +1243,8 @@
     },
     "ecthp": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/EthicalCoach_Header_ufw90l.png",
+            "blurb": "Branding"
         },
         "seo": {
             "title": "",
@@ -1276,7 +1254,7 @@
         "path": "/ecthp",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "ECTHP",
         "title": "",
         "foci": [
             "",
@@ -1322,9 +1300,8 @@
     },
     "repitHiring": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Strategy"
         },
         "seo": {
             "title": "",
@@ -1334,7 +1311,7 @@
         "path": "/repithiring",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Repit Ressource",
         "title": "",
         "foci": [
             "",
@@ -1380,9 +1357,8 @@
     },
     "hago": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Website"
         },
         "seo": {
             "title": "",
@@ -1392,7 +1368,7 @@
         "path": "/hago",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "HAGO",
         "title": "",
         "foci": [
             "",
@@ -1438,9 +1414,8 @@
     },
     "pop": {
         "portfolio": {
-            "order": 10,
-            "thumb": "",
-            "blurb": ""
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/POP_Header_qcj5gl.png",
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -1451,7 +1426,7 @@
         "color1": "",
         "color2": "",
         "name": "",
-        "title": "",
+        "title": "POP Montreal",
         "foci": [
             "",
             ""
@@ -1496,9 +1471,8 @@
     },
     "divest": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -1508,7 +1482,7 @@
         "path": "/divest",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Divest McGill",
         "title": "",
         "foci": [
             "",
@@ -1554,9 +1528,8 @@
     },
     "seize": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Website"
         },
         "seo": {
             "title": "",
@@ -1566,7 +1539,7 @@
         "path": "/seize",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "SEIZE",
         "title": "",
         "foci": [
             "",
@@ -1612,9 +1585,8 @@
     },
     "bsn": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -1624,7 +1596,7 @@
         "path": "/bsn",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "BSN",
         "title": "",
         "foci": [
             "",
@@ -1670,7 +1642,6 @@
     },
     "sherpa": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
             "blurb": ""
         },
@@ -1682,7 +1653,7 @@
         "path": "/sherpa",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "SHERPA",
         "title": "",
         "foci": [
             "",
@@ -1728,9 +1699,8 @@
     },
     "alchemy": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Website"
         },
         "seo": {
             "title": "",
@@ -1740,7 +1710,7 @@
         "path": "/alchemy",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Alchemy Group",
         "title": "",
         "foci": [
             "",
@@ -1786,9 +1756,8 @@
     },
     "somm": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -1798,7 +1767,7 @@
         "path": "/somm",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "SoMM",
         "title": "",
         "foci": [
             "",
@@ -1844,9 +1813,8 @@
     },
     "koop": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Branding"
         },
         "seo": {
             "title": "",
@@ -1856,7 +1824,7 @@
         "path": "/koop",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Koop",
         "title": "",
         "foci": [
             "",
@@ -1902,9 +1870,8 @@
     },
     "thrive": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -1914,7 +1881,7 @@
         "path": "/thrive",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Thrive",
         "title": "",
         "foci": [
             "",
@@ -1960,9 +1927,8 @@
     },
     "mealcare": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -1972,7 +1938,7 @@
         "path": "/mealcare",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "MealCare",
         "title": "",
         "foci": [
             "",
@@ -2018,9 +1984,8 @@
     },
     "k24": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -2030,7 +1995,7 @@
         "path": "/k24",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Kitchen 24",
         "title": "",
         "foci": [
             "",
@@ -2076,9 +2041,8 @@
     },
     "boabf": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Strategy"
         },
         "seo": {
             "title": "",
@@ -2088,7 +2052,7 @@
         "path": "/boabf",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Banking on a Better Future",
         "title": "",
         "foci": [
             "",
@@ -2134,9 +2098,8 @@
     },
     "homie": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Branding"
         },
         "seo": {
             "title": "",
@@ -2146,7 +2109,7 @@
         "path": "/homie",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Homie Collection",
         "title": "",
         "foci": [
             "",
@@ -2192,9 +2155,8 @@
     },
     "storyplanet": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -2204,7 +2166,7 @@
         "path": "/storyplanet",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Story Planet",
         "title": "",
         "foci": [
             "",
@@ -2250,7 +2212,6 @@
     },
     "ecwild": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
             "blurb": ""
         },
@@ -2262,7 +2223,7 @@
         "path": "/ecwild",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Ethical Coach / WILD",
         "title": "",
         "foci": [
             "",
@@ -2308,7 +2269,6 @@
     },
     "repitEmployee": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
             "blurb": ""
         },
@@ -2320,7 +2280,7 @@
         "path": "/repitEmp",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Repit Ressource",
         "title": "",
         "foci": [
             "",
@@ -2366,9 +2326,8 @@
     },
     "walksafe": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
             "title": "",
@@ -2378,7 +2337,7 @@
         "path": "/walksafe",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "WalkSafe",
         "title": "",
         "foci": [
             "",
@@ -2424,7 +2383,6 @@
     },
     "pcp": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
             "blurb": ""
         },
@@ -2436,7 +2394,7 @@
         "path": "/pcp",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "PCP",
         "title": "",
         "foci": [
             "",
@@ -2482,7 +2440,6 @@
     },
     "digitalEra": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
             "blurb": ""
         },
@@ -2494,7 +2451,7 @@
         "path": "/digitalera",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "Digital Era",
         "title": "",
         "foci": [
             "",
@@ -2540,7 +2497,6 @@
     },
     "mpa": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
             "blurb": ""
         },
@@ -2552,7 +2508,7 @@
         "path": "/mpa",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "McGill Policy Association",
         "title": "",
         "foci": [
             "",
@@ -2598,9 +2554,8 @@
     },
     "madaGala": {
         "portfolio": {
-            "order": 10,
             "thumb": "",
-            "blurb": ""
+            "blurb": "Strategy"
         },
         "seo": {
             "title": "",
@@ -2610,7 +2565,7 @@
         "path": "/madagala",
         "color1": "",
         "color2": "",
-        "name": "",
+        "name": "MADA Gala",
         "title": "",
         "foci": [
             "",
