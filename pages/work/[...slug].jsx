@@ -2,6 +2,8 @@ import React from "react"
 import content from './casestudies.json';
 import { Layout, Nav, Footer, Spacer, Seo } from "../../components/meta"
 import WorkCard from "../../components/work/workcard"
+import dynamic from "next/dynamic"
+const ReactPlayer = dynamic(() => import("react-player"), {ssr: false});
 import { Intro, Challenge, Approach, Execution, Outcome,
          LR, LRvid, LRplayer,
          DotStrip,
@@ -63,15 +65,15 @@ export default function Page( c ) {
                 }
             </div>
 
-                { cs.numContent.challenge != "" &&
+            { cs.numContent.challenge != "" &&
             <Challenge text={cs.numContent.challenge} color={cs.color1} />
-                }
-                { cs.numContent.dotstrip != "" &&
+            }
+            { cs.numContent.dotstrip != "" &&
             <DotStrip text={cs.numContent.dotstrip} color={cs.color2} />
-                }
-                { cs.numContent.approach != "" &&
+            }
+            { cs.numContent.approach != "" &&
             <Approach text={cs.numContent.approach} color={cs.color1} />
-                }
+            }
 
             <div className="full-width">
                 <>{ cs.gallery.map((gal, index) => {
@@ -88,6 +90,14 @@ export default function Page( c ) {
             </div>
 
             <Outcome text={cs.numContent.outcome} color={cs.color1} />
+            <Spacer h="50px" />
+
+            <div className="full-width">
+                <>{ cs.gallery2.map((gal, index) => {
+                    return gallery(gal);
+                })}</>
+            </div>
+
             <Spacer h="80px" />
 
         </div>

@@ -88,6 +88,12 @@
                 "title": "Email Campaign",
                 "blurb": "Any good fundraising campaign needs a ton of email. We built a 7-day email sequence to get, and keep, people engaged in the campaign , sharing it, and donating throughout the week."
             }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645638916/case-studies/mada/MADA_1_bwspal.png"
+            }
         ]
     },
     "greenpeace": {
