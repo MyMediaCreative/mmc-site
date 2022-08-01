@@ -843,6 +843,26 @@ a:visited { color: inherit; text-decoration: none }
   background-repeat: no-repeat;
 }
 
+.case-study-vimeo {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+
+.case-study-vimeo::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.case-study-vimeo iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 
 .case-study-LR-card:not(:first-of-type) { margin-top: 100px }

@@ -58,7 +58,9 @@ export default function Page( c ) {
                     <img src={cs.mainMedia.media} />
                 }
                 { cs.mainMedia.type == "vimeo" &&
+                <div className="case-study-vimeo">
                   <ReactPlayer url={cs.mainMedia.media} controls={true} width="" height="" />
+                </div>
                 }
                 { cs.mainMedia.type == "loop" &&
                   <video width="100%" autoPlay={true} loop playsInline muted style={{ margin: "10px 0" }} ><source src={cs.mainMedia.media} type="video/mp4" /></video>
