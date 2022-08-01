@@ -55,14 +55,23 @@ export default function Page( c ) {
                 { cs.mainMedia.type == "image" &&
                     <img src={cs.mainMedia.media} />
                 }
-                { cs.mainMedia.type == "video" &&
-                    <HeaderVid src={cs.mainMedia.media} />
+                { cs.mainMedia.type == "vimeo" &&
+                  <ReactPlayer url={cs.mainMedia.media} controls={true} width="" height="" />
+                }
+                { cs.mainMedia.type == "loop" &&
+                  <video width="100%" autoPlay={true} loop playsInline muted style={{ margin: "10px 0" }} ><source src={cs.mainMedia.media} type="video/mp4" /></video>
                 }
             </div>
 
+                { cs.numContent.challenge != "" &&
             <Challenge text={cs.numContent.challenge} color={cs.color1} />
+                }
+                { cs.numContent.dotstrip != "" &&
             <DotStrip text={cs.numContent.dotstrip} color={cs.color2} />
+                }
+                { cs.numContent.approach != "" &&
             <Approach text={cs.numContent.approach} color={cs.color1} />
+                }
 
             <div className="full-width">
                 <>{ cs.gallery.map((gal, index) => {
@@ -70,7 +79,9 @@ export default function Page( c ) {
                 })}</>
             </div>
 
+                { cs.numContent.execution != "" &&
             <Execution text={cs.numContent.execution} color={cs.color1} />
+                }
 
             <div className="case-study-LR">
                 <>{ cs.LR.map((lr, index) => { return <LR key={index} color={cs.color1} LR={lr} /> })}</>
