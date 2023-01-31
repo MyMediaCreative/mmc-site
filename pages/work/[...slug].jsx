@@ -96,11 +96,13 @@ export default function Page( c ) {
             }
             <Spacer h="50px" />
 
+            { cs.gallery2 != "" &&
             <div className="full-width">
                 <>{ cs.gallery2.map((gal, index) => {
                     return gallery(gal);
                 })}</>
             </div>
+            }
 
             <Spacer h="80px" />
 
