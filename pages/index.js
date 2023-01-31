@@ -155,7 +155,7 @@ const Home = ({ homepage }) => {
             <div className="result-text">
               <Spacer h="80px" />
               <h4 className="h4p">Paired with a good strategy—<br/>they’re the stories that <em className="dorange">drive results.</em></h4>
-              <div className="flipPhone">
+              <div className="flipPhone extra">
                 <img src="https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1500/v1659370871/home/bg-mockups/Mock1_iln10n_tghocn.png"/>
                 <img src="https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1500/v1645744827/home/bg-mockups/Mock6_zlf7w4.png"/>
                 <img src="https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1500/v1645744827/home/bg-mockups/Mock5_hw5j9n.png"/>
