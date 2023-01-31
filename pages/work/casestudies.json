@@ -10,8 +10,8 @@
         },
         "isBlack": false,
         "path": "/mada",
-        "color1": "",
-        "color2": "",
+        "color1": "#FDBF0E",
+        "color2": "#09283D",
         "name": "MADA",
         "title": "Could You Choose?",
         "foci": [
