@@ -9,6 +9,8 @@ class MyDocument extends Document {
         <Head>
         </Head>
         <body>
+        // dummy script to avoid Flash Of Unstyled Content (FOUC)
+          <script>0</script>
           <Main />
           <NextScript />
         </body>
