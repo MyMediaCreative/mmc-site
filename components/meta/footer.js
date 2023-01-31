@@ -9,7 +9,7 @@ export const Footer = ({ }) => {
       <nav className="footer">
 
         <div className="logo">
-          <Link href="/">
+          <Link legacyBehavior href="/">
             <a>
               <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 600 456.9">
                 <rect fill="#FFFFFF" x="1.1" width="91.7" height="319.4"/>
@@ -51,27 +51,27 @@ export const Footer = ({ }) => {
                <a className="dorange">Navigation</a>
             </li>
             <li className={router.pathname.startsWith("/work") ? "menu-active" : ""}>
-              <Link href={`/work`}>
+              <Link legacyBehavior href={`/work`}>
                 <a className="">Work</a>
               </Link>
             </li>
             <li className={router.pathname.startsWith("/services") ? "menu-active" : ""}>
-              <Link href={`/services`}>
+              <Link legacyBehavior href={`/services`}>
                 <a className="">Services</a>
               </Link>
             </li>
             <li className={router.pathname.startsWith("/about") ? "menu-active" : ""}>
-              <Link href={`/about`}>
+              <Link legacyBehavior href={`/about`}>
                 <a className="">About</a>
               </Link>
             </li>
             <li className={router.pathname.startsWith("/ideas") ? "menu-active" : ""}>
-              <Link href={`/ideas`}>
+              <Link legacyBehavior href={`/ideas`}>
                 <a className="">Ideas</a>
               </Link>
             </li>
             <li className={router.pathname.startsWith("/contact") ? "menu-active" : ""}>
-              <Link href={`/contact`}>
+              <Link legacyBehavior href={`/contact`}>
                 <a className="">Contact</a>
               </Link>
             </li>
@@ -84,22 +84,22 @@ export const Footer = ({ }) => {
                <a className="dorange">Social</a>
             </li>
             <li>
-              <Link href={`https://www.instagram.com/mymediacreative/`}>
+              <Link legacyBehavior href={`https://www.instagram.com/mymediacreative/`}>
                 <a className="">Instagram</a>
               </Link>
             </li>
             <li>
-              <Link href={`https://www.linkedin.com/company/my-media-creative/mycompany/`}>
+              <Link legacyBehavior href={`https://www.linkedin.com/company/my-media-creative/mycompany/`}>
                 <a className="">LinkedIn</a>
               </Link>
             </li>
             <li>
-              <Link href={`https://www.youtube.com/channel/UCBtnLqiba6ACrA63AHFTMUw`}>
+              <Link legacyBehavior href={`https://www.youtube.com/channel/UCBtnLqiba6ACrA63AHFTMUw`}>
                 <a className="">YouTube</a>
               </Link>
             </li>
             <li>
-              <Link href={`https://www.facebook.com/mymediacreativegroup/`}>
+              <Link legacyBehavior href={`https://www.facebook.com/mymediacreativegroup/`}>
                 <a className="">Facebook</a>
               </Link>
             </li>

@@ -1,5 +1,6 @@
 import React, { useState } from "react"
-import Link from "next/link"
+import
+Link from "next/link"
 import { Seo } from "./seo"
 import { useRouter } from "next/router";
 
@@ -28,7 +29,7 @@ export const Nav = (props) => {
     <Seo seo={props.seo} />
 
         <div className="logo">
-          <Link passhref href="/">
+          <Link legacyBehavior passhref href="/">
             <a>
               <svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 600 456.9">
                 <rect fill={logoColor} x="1.1" width="91.7" height="319.4"/>
@@ -67,17 +68,17 @@ export const Nav = (props) => {
         <div className={menuColor + " reg"}>
           <ul>
             <li className={workClass}>
-              <Link href={`/work`}>
+              <Link legacyBehavior href={`/work`}>
                 <a className="">Work</a>
               </Link>
             </li>
             <li className={servClass}>
-              <Link href={`/services`}>
+              <Link legacyBehavior href={`/services`}>
                 <a className="">Services</a>
               </Link>
             </li>
             <li className={aboutClass}>
-              <Link href={`/about`}>
+              <Link legacyBehavior href={`/about`}>
                 <a className="">About</a>
               </Link>
             </li>
@@ -87,7 +88,7 @@ export const Nav = (props) => {
               </Link>
               </li>*/}
             <li className={contactClass}>
-              <Link href={`/contact`}>
+              <Link legacyBehavior href={`/contact`}>
                 <a className="">Contact</a>
               </Link>
             </li>
@@ -116,22 +117,22 @@ export const Nav = (props) => {
         <div className="nav-overlay-menu">
           <ul>
             <li className={homeClass}>
-              <Link href={`/`}>
+              <Link legacyBehavior href={`/`}>
                 <a className="">Home</a>
               </Link>
             </li>
             <li className={workClass}>
-              <Link href={`/work`}>
+              <Link legacyBehavior href={`/work`}>
                 <a className="">Work</a>
               </Link>
             </li>
             <li className={servClass}>
-              <Link href={`/services`}>
+              <Link legacyBehavior href={`/services`}>
                 <a className="">Services</a>
               </Link>
             </li>
             <li className={aboutClass}>
-              <Link href={`/about`}>
+              <Link legacyBehavior href={`/about`}>
                 <a className="">About</a>
               </Link>
             </li>
@@ -141,7 +142,7 @@ export const Nav = (props) => {
               </Link>
               </li>*/}
             <li className={contactClass}>
-              <Link href={`/contact`}>
+              <Link legacyBehavior href={`/contact`}>
                 <a className="">Contact</a>
               </Link>
             </li>

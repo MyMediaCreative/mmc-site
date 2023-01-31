@@ -1,5 +1,4 @@
 import React from "react"
-import Link from "next/link"
 
 const HomeWide = ({ proj }) => {
 
@@ -46,6 +45,3 @@ const HomeWide = ({ proj }) => {
 }
 
 export default HomeWide
-
-           //onMouseOver={event => event.target.play()}
-           //onMouseOut={event => event.target.children[0].pause()}

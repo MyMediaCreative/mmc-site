@@ -91,7 +91,9 @@ export default function Page( c ) {
                 <>{ cs.LR.map((lr, index) => { return <LR key={index} color={cs.color1} LR={lr} /> })}</>
             </div>
 
+            { cs.numContent.outcome != "" &&
             <Outcome text={cs.numContent.outcome} color={cs.color1} />
+            }
             <Spacer h="50px" />
 
             <div className="full-width">
