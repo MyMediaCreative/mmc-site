@@ -462,6 +462,8 @@ a:visited { color: inherit; text-decoration: none }
 
 .flipPhone {
   position: relative;
+  display: grid;
+  justify-items: center;
 }
 .flipPhone > img {
   position: absolute;
