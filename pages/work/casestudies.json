@@ -99,36 +99,36 @@
     "greenpeace": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/Infaque_v1_rdysby.png",
-            "blurb": "Blurb goes here for "
+            "blurb": "Protecting Canadian biodiversity with "
         },
         "seo": {
-            "title": "",
+            "title": "greenpeace",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/greenpeace",
-        "color1": "",
+        "color1": "#82bc56",
         "color2": "",
-        "name": "GreenPeace",
-        "title": "",
+        "name": "Greenpeace",
+        "title": "Fighting to protect Canada's biodiversity.",
         "foci": [
-            "",
-            ""
+            "Environment"
         ],
-        "year": "",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Copywriting",
+            "Ad Design",
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339317/case-studies%202023/Greenpeace/GP-Header_mjmuse.png",
             "mobile": "",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339314/case-studies%202023/Greenpeace/GP-Phones_tgpp8p.png"
         },
         "numContent": {
             "intro": "",
