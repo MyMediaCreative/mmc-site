@@ -140,16 +140,16 @@
         },
         "gallery": [
             {
-                "type": "video",
-                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339337/case-studies%202023/Greenpeace/Bio_3_ntzag7.mp4"
+                "type": "vimeo",
+                "media": "https://vimeo.com/763605488"
             },
             {
-                "type": "video",
-                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339329/case-studies%202023/Greenpeace/Bio_1_tcg2mh.mp4"
+                "type": "vimeo",
+                "media": "https://vimeo.com/763605488"
             },
             {
-                "type": "video",
-                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339329/case-studies%202023/Greenpeace/Bio_1_tcg2mh.mp4"
+                "type": "vimeo",
+                "media": "https://vimeo.com/763605488"
             }
         ],
         "LR": [
