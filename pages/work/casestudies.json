@@ -154,8 +154,8 @@
         ],
         "LR": [
             {
-                "type": "video",
-                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339329/case-studies%202023/Greenpeace/Bio_1_tcg2mh.mp4",
+                "type": "vimeo",
+                "media": "https://vimeo.com/763605488",
                 "title": "Videos",
                 "blurb": "We developed several videos that pulled from culturally relevant, cute, or shocking imagery to tell a story that would mobilize people to action."
             },
