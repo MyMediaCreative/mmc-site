@@ -102,13 +102,13 @@
             "blurb": "Protecting Canadian biodiversity with "
         },
         "seo": {
-            "title": "greenpeace",
+            "title": "Greenpeace",
             "desc": ""
         },
         "isBlack": false,
         "path": "/greenpeace",
         "color1": "#82bc56",
-        "color2": "",
+        "color2": "#82bc56",
         "name": "Greenpeace",
         "title": "Fighting to protect Canada's biodiversity.",
         "foci": [
