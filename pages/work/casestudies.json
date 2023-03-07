@@ -128,28 +128,46 @@
         },
         "mainMedia": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639064/case-studies/infaque/Infaque_Brand_zempjb.png"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339314/case-studies%202023/Greenpeace/GP-Phones_tgpp8p.png"
         },
         "numContent": {
-            "intro": "Test",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "Greenpeace Canada approached us to support the rollout of two separate campaigns. The first was focused on developing stronger protections for Canada’s biodiversity through legislative action. The other was a call for large Canadian banks to stop supporting the development of fossil fuel projects. We sprung into action to develop short, high-converting content to drive petition sign ups.",
+            "challenge": "We needed to develop a litany of messages and images so that Greenpeace Canada could test the efficacy of various approaches. In every case, we needed to drive a conversion in about 10 seconds. The big challenge was building 16+ pieces of collateral—all of which had a quick hook to drive conversion.",
+            "dotstrip": "Got 40,000+ signatures calling for biodiversity protection",
+            "approach": "We started by looking for messages and images that were bound to be high converting. We combed through images of cute wildlife, shocking imagery of humanity’s impact on the environment, and various cultural references that would get someone to stop scrolling on their feed. Once we had collected some core images and ideas—we executed rapidly on a litany of messages.",
+            "execution": "We created a variety of static and video advertisements that experimented with different messages, and hooked people quickly.",
+            "outcome": "The campaign got 40,000+ signatures calling for stronger biodiversity protection legislation. Miriam Wilson, the Digital Engagement Manager at Greenpeace Canada said this about the team: The My Media team were a pleasure to work with from start to finish — they're passionate, enthusiastic, and inspired as well as highly organised and efficient. They found creative ways to produce imaginative, ambitious, and high-quality deliverables within our budget, and developed some of our year's best-performing content."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "video",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339337/case-studies%202023/Greenpeace/Bio_3_ntzag7.mp4",
+            },
+            {
+                "type": "video",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339329/case-studies%202023/Greenpeace/Bio_1_tcg2mh.mp4"
+            },
+            {
+                "type": "video",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339327/case-studies%202023/Greenpeace/Bio_2_jvhrum.mp4"
+            },
+            {
+                "type": "video",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339325/case-studies%202023/Greenpeace/Bank_4_ebalje.mp4"
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "video",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676339329/case-studies%202023/Greenpeace/Bio_1_tcg2mh.mp4",
+                "title": "Videos",
+                "blurb": "We developed several videos that pulled from culturally relevant, cute, or shocking imagery to tell a story that would mobilize people to action."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339315/case-studies%202023/Greenpeace/GP-Ads_ujnjxn.png",
+                "title": "Display Ads",
+                "blurb": "Based on our combing of culturally relevant, cute, or shocking imagery—we developed attention-catching display ads that would get someone to sign a petition quickly."
             }
         ],
         "gallery2": ""
