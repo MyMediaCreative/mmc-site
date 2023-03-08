@@ -240,19 +240,6 @@
         ],
         "gallery2": [
             {
-                "type": "twoImg",
-                "media": [
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338519/case-studies%202023/SmartHospital/SH_Bag_dtf2qn.png"
-                    },
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338516/case-studies%202023/SmartHospital/SH_Sticker_jemo21.png"
-                    }
-                ]
-            },
-            {
                 "type": "image",
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338520/case-studies%202023/SmartHospital/SH_Brochure_oi9hze.png"
             }
