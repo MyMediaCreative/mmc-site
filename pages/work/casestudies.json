@@ -286,28 +286,29 @@
         },
         "isBlack": true,
         "path": "/seize",
-        "color1": "",
-        "color2": "",
+        "color1": "#7d161a",
+        "color2": "#7d161a",
         "name": "SEIZE",
-        "title": "",
+        "title": "Getting students to fund a new vision for the economy... with donuts",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
-        "year": "",
+        "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Campaign Strategy",
+            "Social Media Strategy",
+            "Video",
+            "Graphic Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338493/case-studies%202023/SEIZE/SEIZE_Header_qy0keg.png",
             "mobile": "",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://vimeo.com/681646253"
         },
         "numContent": {
             "intro": "",
