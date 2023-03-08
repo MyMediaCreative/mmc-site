@@ -590,8 +590,8 @@
         },
         "isBlack": true,
         "path": "/chasm",
-        "color1": "",
-        "color2": "",
+        "color1": "#81caf8",
+        "color2": "#fc655c",
         "name": "CHASM",
         "title": "Bringing community health and social innovation together.",
         "foci": [
