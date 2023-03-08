@@ -284,7 +284,7 @@
             "title": "SEIZE",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/seize",
         "color1": "#7d161a",
         "color2": "#7d161a",
@@ -358,20 +358,21 @@
             "title": "Apathy is Boring",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/aisb",
-        "color1": "",
-        "color2": "",
+        "color1": "#fc29f8",
+        "color2": "#fc29f8",
         "name": "Apathy is Boring",
-        "title": "",
+        "title": "Helping young voters rise.",
         "foci": [
-            "",
-            ""
+            "Youth Engagement",
+            "Civic Participation"
         ],
-        "year": "",
+        "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Copywriting",
+            "Web Design",
+            "Web Development"
         ],
         "header": {
             "type": "",
@@ -380,32 +381,53 @@
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "loop",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338032/case-studies%202023/AisB/Rise_Website_bp8k6p.mp4"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "Apathy is Boring mobilizes young voters—getting them involved in Canadian democracy at every stage possible. They reached out to us to redesign the web pages for their RISE program, and their VOTE page ahead of the 2021 election. We re-imagined the pages—bringing in new visual motifs and developing an interactive map to help people navigate local RISE projects. View the RISE page here. View the VOTE page here.",
+            "challenge": "The challenge was mobilizing young voters in a way that was national and non-partisan way. We had to strike a conversational tone that young people would see themselves in—and actually follow the story to the resources or application at the bottom. We had to do this in a nonpartisan way that would activate people across localities and the political spectrum.",
+            "dotstrip": "Mobilize young voters in a way that was national and non-partisan.",
+            "approach": "To address these challenges, we developed two major design innovations. The first one was an interactive map that allowed people to see their city, the projects within, and the people connected to those projects. We thought this was a better way to engage people across Canada—and organize the information that was previously broken down as a long list. The second was to mimic the UX of iMessage. We structured the content as a text conversation about voting. Then, we brought that to life on the page. To tie it all together, we added new illustrative elements and refined the UX of each page.",
+            "execution": "We started with a couple brainstorm sessions, moved through to content design, mocked the site up in Figma, and then developed it as custom code on Nation Builder. The writing and design of the site was relatively straightforward. We wanted to pull on AisB’s existing messaging and brand principles—but take them to the next level visually. We did that by crafting an outside the box VOTE narrative that was built on their existing messaging framework. We also integrated illustrations into their existing photos—to really add a touch of wonder to their human imagery. The execution of the interactive (and editable) map was a complex development challenge within the NationBuilder CRM. We built it out seamlessly after research and some good old fashioned hard work.",
+            "outcome": "We launched the pages! In the case of VOTE, we did it just in time for the writ to drop. As Apathy is Boring ramped up their activities ahead of the 2021 Federal Election—our pages became a hub for a ton of traffic that their initiatives were sending to the website. In the case of the outcome for these pages, though, pictures speak louder than words."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338012/case-studies%202023/AisB/AisB_1_bxshoo.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338011/case-studies%202023/AisB/AisB_2_x7tw7s.png"
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338005/case-studies%202023/AisB/AisB_3_bbahj1.png",
+                "title": "Illustrations",
+                "blurb": "We integrated illustrations into photos that AisB already had—adding another visual dynamic to the brand, and bringing the photos to life."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338013/case-studies%202023/AisB/AisB_4_btstdv.png",
+                "title": "Web Design",
+                "blurb": "We designed the websites with some out of the box ideas like an interactive map + a whole page playing out like a text conversation between two friends about voting."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338005/case-studies%202023/AisB/AisB_5_pafspm.png",
+                "title": "Web Development",
+                "blurb": "We designed these pages to be fully editable within the NationBuilder CRM—which was a departure from our general use of the WordPress CRM."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338006/case-studies%202023/AisB/AisB_6_yut3mn.png"
+            }
+        ]
     },
     "yic": {
         "portfolio": {
