@@ -193,7 +193,7 @@
         "header": {
             "type": "image",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338633/case-studies%202023/SmartHospital/SH_Header_uphuhr.jpg",
-            "mobile": "",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340522/case-studies%202023/_MobileHeaders/Smarthospital_gr0r2w.png",
             "mobilePos": "center"
         },
         "mainMedia": {
@@ -440,49 +440,74 @@
         },
         "isBlack": true,
         "path": "/yic",
-        "color1": "",
-        "color2": "",
+        "color1": "#d86a59",
+        "color2": "#d86a59",
         "name": "InvestEco and <br/> Renewal Funds",
-        "title": "",
+        "title": "Funding youth-led social impact initiatives.",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
-        "year": "",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Web Design",
+            "Campaign Strategy",
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340517/case-studies%202023/_MobileHeaders/InvestEco2_kskxsr.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC_Feed_ao66ja.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "Founded by InvestEco and Renewal Funds, the Youth Impact Challenge disburses thousands of dollars to young social innovators every year. They approached us to build their website and run an advertising campaign that would connect with young people across Canada.",
+            "challenge": "How do we get a diverse range of young people to enter the competition—as opposed to just existing entrepreneurs and high-achieving youth. We needed to create an accessible message that didn’t intimidate people who had never considered themselves for competitions like this before.",
+            "dotstrip": "Create an accessible message for a diverse audience of youth.",
+            "approach": "We started by benchmarking work in the sector, and defining the Youth Impact Challenge’s niche amongst a crowded field of youth innovation competitions. We decided to focus on community-oriented projects that prioritized impact over anything else. On top of that, we prioritized appealing to youth who were in the early stages of developing their passions and ideas.",
+            "execution": "We built a website and ad campaign that leveraged empathetic language and a bit of satire to draw in youth.",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-1_oqnuap.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-2_vupepf.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-3_tyq6qi.png"
             }
         ],
         "LR": [
             {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Website_q7dyhb.png",
+                "title": "Website",
+                "blurb": "The Youth Impact Challenge website used bright colours, casual language, and pictures of a diverse range of excited young people to speak to its audience."
+            },
+            {
                 "type": "",
                 "media": "",
-                "title": "",
-                "blurb": ""
+                "title": "Video",
+                "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Static_kdyx9p.png",
+                "title": "Static Ads",
+                "blurb": "To compliment the videos, we created many static placement ads that hinged on the same core messages."
             }
         ],
         "gallery2": ""
