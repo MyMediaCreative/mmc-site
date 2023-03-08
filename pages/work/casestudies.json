@@ -431,8 +431,8 @@
     },
     "yic": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638115/work/YIC_v1_gy4chm.png",
-            "blurb": "Getting 600+ young<br/> entrepreneurs to pitch their <br/>big idea with "
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
+            "blurb": "Getting 900+ young<br/> entrepreneurs to pitch their <br/>big idea with "
         },
         "seo": {
             "title": "Youth Impact Challenger",
@@ -523,41 +523,50 @@
         },
         "isBlack": true,
         "path": "/cera",
-        "color1": "",
-        "color2": "",
+        "color1": "#91c3b6",
+        "color2": "#91c3b6",
         "name": "CERA",
-        "title": "",
+        "title": "Explaining Canada’s Right to Housing.",
         "foci": [
-            "",
-            ""
+            "Affordable Housing"
         ],
-        "year": "",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Video Production",
+            "Animation",
+            "Copywriting",
+            "Art Direction"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338043/case-studies%202023/CERA/CERA_Header_fwxnop.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340516/case-studies%202023/_MobileHeaders/CERA_ssnyo5.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://vimeo.com/681902299"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Centre for Equality Rights in Accommodation (CERA), an advocacy, litigation, and program development organization fighting for the Right to Housing in Canada reached out to us to explain the complex policy concept in an accessible video. Immediately, we looked to the undisputed masters of explaining complex topics online: video-journalists like Vox. Benchmarking that extremely popular style, we made 2-minute explainer video that got to the core of the policy issue in a clear (and dare I say entertaining) way.",
+            "challenge": "The Right to Housing is a broad policy concept that threads its way from international law all the way through to the local level. The contours of the right to housing are nuanced, and sometimes hard to grasp. Finally, it’s just hard to keep people’s attention when talking about housing policy. We wanted to change all of that for viewers.",
+            "dotstrip": "Explain a complex housing policy concept in 2 enthralling minutes.",
+            "approach": "We started by benchmarking successful video journalism from across the internet—pulling from sources like The New York Times, Vox, and Johnny Harris. We looked at how they used animation and simple storytelling to successfully get big points across in a small amount of time. Then, we built out an art direction that would guide the animation—and evoke the journalistic approach we were inspired by. Finally, building off a script provided by CERA, we researched the Right To Housing and distilled it down into a core narrative. We pulled the art and script together into a clear, and compelling, two-minute video. Don’t take our words for it though—give it a watch!",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338042/case-studies%202023/CERA/CERA_1_pcnwcl.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338042/case-studies%202023/CERA/CERA_3_ggzg0f.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338041/case-studies%202023/CERA/CERA_2_ctghat.png"
             }
         ],
         "LR": [
