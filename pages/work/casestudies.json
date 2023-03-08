@@ -342,11 +342,12 @@
                 "blurb": "We broke the video up into three shorter pieces that could be used as follow up collateral during the campaign. They each served a different purpose and focused on a different piece of messaging."
             }
         ],
-        "gallery2":
+        "gallery2": [
             {
                 "type": "vimeo",
                 "media": "https://vimeo.com/681646500"
             }
+        [
     },
     "aisb": {
         "portfolio": {
