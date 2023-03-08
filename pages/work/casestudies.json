@@ -593,25 +593,27 @@
         "color1": "",
         "color2": "",
         "name": "CHASM",
-        "title": "",
+        "title": "Bringing community health and social innovation together.",
         "foci": [
-            "",
-            ""
+            "Health",
+            "Social Innovation"
         ],
-        "year": "",
+        "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Strategy",
+            "Copywriting",
+            "Web Design",
+            "Web Development"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338045/case-studies%202023/CHASM/CHASM_Header_av2ouc.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340500/case-studies%202023/_MobileHeaders/CHASM_wl6juw.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338044/case-studies%202023/CHASM/CHASM1_rp0sqi.png"
         },
         "numContent": {
             "intro": "",
@@ -623,8 +625,21 @@
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338050/case-studies%202023/CHASM/CHASM2_gb9n4m.png"
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338044/case-studies%202023/CHASM/CHASM3_mvdjnl.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338044/case-studies%202023/CHASM/CHASM4_ycy4c9.png"
+                    }
+                ]
             }
         ],
         "LR": [
