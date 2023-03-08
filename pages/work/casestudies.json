@@ -333,7 +333,7 @@
                 "type": "image",
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338491/case-studies%202023/SEIZE/SEIZE_Flagship_gj1okd.png",
                 "title": "Flagship Video",
-                "blurb": "The flagship video told the whole story. 90-seconds that captured all of the reasons to support SEIZE and their mission to create a collective-led economy,"
+                "blurb": "The flagship video told the whole story. 90-seconds that captured all of the reasons to support SEIZE and their mission to create a collective-led economy."
             },
             {
                 "type": "vimeo",
@@ -347,7 +347,7 @@
                 "type": "vimeo",
                 "media": "https://vimeo.com/681646500"
             }
-        [
+        ]
     },
     "aisb": {
         "portfolio": {
