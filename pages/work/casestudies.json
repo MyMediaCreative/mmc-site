@@ -311,28 +311,42 @@
             "media": "https://vimeo.com/681646253"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "SEIZE (The Socialist Economy Incubator Zone) came to us because they needed a video for their fee-levy campaign. They needed a simple, entertaining, way for people to understand and get behind a complicated subject: the collective economy”. Why? Because they didn’t just need to convince the haters to get on their side—they needed to mobilize a significant percentage of the student population to meet quorum. Our approach? A world-saving donut shop.",
+            "challenge": "The collective economy is a diverse, complex, movement. We wanted to capture it in a simple story that would not only educate people—but actually get them to support SEIZE’s efforts.",
+            "dotstrip": "Explain the collective economy in a way that gets people activated.",
+            "approach": "A donut shop. Specifically, a collective-led donut shop that saved the world by getting rid of climate change, employing everyone, and solving the world’s social ills. We used the donut shop as a means of explaining the benefits (and impact) of the collective economy. We thought it was an interesting, provocative, and funny way to pack a ton of complex information into a 90-second video.",
+            "execution": "We imagined the script and visual style as an homage to Hitchhiker’s Guide to the Galaxy and Wes Anderson. Once we had those approved by the team, we connected to a local donut shop and filmed for a day. With that footage we built out four videos.",
+            "outcome": "The campaign was a success! The team turned out 4000+ young people in support of funding their incubator. It was one of the highest turnouts of students in years—and enabled SEIZE to have a long term, recurring, funding stream."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338494/case-studies%202023/SEIZE/SEIZE_1_jg3uuw.png"
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681646443"
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338491/case-studies%202023/SEIZE/SEIZE_Flagship_gj1okd.png",
+                "title": "Flagship Video",
+                "blurb": "The flagship video told the whole story. 90-seconds that captured all of the reasons to support SEIZE and their mission to create a collective-led economy,"
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681646473",
+                "title": "Short Videos",
+                "blurb": "We broke the video up into three shorter pieces that could be used as follow up collateral during the campaign. They each served a different purpose and focused on a different piece of messaging."
             }
         ],
-        "gallery2": ""
+        "gallery2":
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681646500"
+            }
     },
     "aisb": {
         "portfolio": {
