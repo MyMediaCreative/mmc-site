@@ -214,18 +214,6 @@
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Colors_orhkca.png"
             },
             {
-                "type": "twoImg",
-                "media": 
-                {
-                    "type": "image",
-                    "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Logo1_k2rdib.png"
-                },
-                {
-                    "type": "image",
-                    "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Logo2_gnxjw9.png"
-                }
-            },
-            {
                 "type": "image",
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338517/case-studies%202023/SmartHospital/SH_BusinessCards_jj7omr.png"
             }
