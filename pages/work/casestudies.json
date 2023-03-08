@@ -179,28 +179,26 @@
         },
         "isBlack": true,
         "path": "/smarthospital",
-        "color1": "",
-        "color2": "",
+        "color1": "#ecb3c8",
+        "color2": "#477dbc",
         "name": "Montreal Children's Hospital",
-        "title": "",
+        "title": "Making the hospital feel smart, and kind.",
         "foci": [
-            "",
-            ""
+            "Health"
         ],
-        "year": "",
+        "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338633/case-studies%202023/SmartHospital/SH_Header_uphuhr.jpg",
             "mobile": "",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "loop",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338515/case-studies%202023/SmartHospital/Smart_Hospital_Logo_Animation_s4q4zg.mp4"
         },
         "numContent": {
             "intro": "",
