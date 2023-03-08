@@ -220,13 +220,43 @@
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Brand_uitqsk.png",
+                "title": "Logo",
+                "blurb": "We developed a bilingual logo that could live online and across the Montreal Children’s Hospital as the project was implemented. We delivered several versions of the logo for use in different contexts."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338522/case-studies%202023/SmartHospital/SH_Book_li6ek1.png",
+                "title": "Style Guide",
+                "blurb": "We gave them an easy to use style guide that broke down the use of the logo, colours, and type—among other things. This came with an easy to navigate Google Folder which included all of the assets we had built."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Mac_t6sgxp.png",
+                "title": "Assets",
+                "blurb": "We developed a couple key assets for the team that could be used to get their social media, external presence, and website up and running."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338519/case-studies%202023/SmartHospital/SH_Bag_dtf2qn.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338516/case-studies%202023/SmartHospital/SH_Sticker_jemo21.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338520/case-studies%202023/SmartHospital/SH_Brochure_oi9hze.png"
+            }
+        ],
     },
     "SEIZE": {
         "portfolio": {
