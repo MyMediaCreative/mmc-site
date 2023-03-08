@@ -201,18 +201,39 @@
             "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338515/case-studies%202023/SmartHospital/Smart_Hospital_Logo_Animation_s4q4zg.mp4"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "The Smart Hospital Project, housed at the Montreal Children’s Hospital with funding from the Montreal Children’s Hospital Foundation, is developing wireless vital sign monitors for children in the Neo-natal intensive care unit. They needed a brand that reflected the huge leap in technology that this project represented—while reflecting the very human goal behind it: make it easier for parents to hold their newborns.",
+            "challenge": "The challenge was to build a brand that reflected modern technological progress—but didn’t feel cold or alienating for parents. The Smart Hospital team was going to need to engage a lot with young (brand new) parents as they researched the technology—so they needed a brand that would facilitate that.",
+            "dotstrip": "Make technological innovation feel safe for new parents.",
+            "approach": "We started by benchmarking modern brands that reflected the same human/tech balance that were interested in. We looked at healthcare, tech, and the social sector as a starting point. Then, we built a brand values compass and mooodboards—helping the client understand what similar brands were doing, and where Smart Hospital could fit into the picture. Then, we moved onto developing 3 logo options for the team to vote on. All of them were debated—but one eventually rose to the top. Finally, the team chose a colour palette that felt warm and kind—and the project was finished.",
+            "execution": "Once the brand direction was landed on, we asked the Smart Hospital team what kind of assets they might need. We sent them a simple 20-page style guide for their team to use, a couple key assets so that they could get their social media up and running, and finally gave them assets for use across the hospital.",
+            "outcome": "We sent the brand to the Smart Hospital and they loved it. It captured the balance of modern and warm that they were looking for. Like many visual branding projects—the outcome is better seen than read."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Colors_orhkca.png"
+            },
+            {
+                "type": "threeImg",
+                "media": 
+                {
+                    "type": "image",
+                    "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Logo1_k2rdib.png"
+                },
+                {
+                    "type": "image",
+                    "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Logo2_gnxjw9.png"
+                },
+                {
+                    "type": "image",
+                    "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338512/case-studies%202023/SmartHospital/SH_Logo3_fg4p5y.png"
+                }
+            
             }
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338517/case-studies%202023/SmartHospital/SH_BusinessCards_jj7omr.png"
+            },
         ],
         "LR": [
             {
