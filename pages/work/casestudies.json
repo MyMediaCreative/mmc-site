@@ -521,7 +521,7 @@
             "title": "CERA",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/cera",
         "color1": "#91c3b6",
         "color2": "#91c3b6",
@@ -843,7 +843,7 @@
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339304/case-studies%202023/CSI/CSI-5_l38mnq.pngg"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339304/case-studies%202023/CSI/CSI-5_l38mnq.png"
                     },
                     {
                         "type": "image",
@@ -866,43 +866,45 @@
             "title": "McConnell Foundation",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/mcconnell",
-        "color1": "",
-        "color2": "",
+        "color1": "#fa29a4",
+        "color2": "#fa29a4",
         "name": "McConnell Foundation",
-        "title": "",
+        "title": "Piloting a participatory approach to city-building in Canada.",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338405/case-studies%202023/McConnel/McConnell_Header_ekw6vp.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340519/case-studies%202023/_MobileHeaders/McConnell_wliqgl.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://vimeo.com/681649705"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The McConnell Foundation approached us in early 2021 to capture the work they had done with their project: Participatory Canada. Based on a model developed in the UK, Participatory Canada was developing innovative ways to build community at the neighbourhood level—through shared spaces + projects. Despite being at the height of the COVID pandemic, and not having any on-the-ground footage to use, we collected phone photos and Zoom interviews—setting out to make a video that shared learnings from Participatory Canada’s first year in operations.",
+            "challenge": "We didn’t have any footage from the ground. Most of the activities were online due to COVID-19. All we had were phone photos, screenshots, and a couple Zoom interviews. Our job was to pull all of these disparate elements together into a beautiful collage that shared the valuable lessons that McConnell had learned about community-building and reconciliation with funders and other stakeholders.",
+            "dotstrip": "Use iPhone and Zoom footage to capture the magic of this national project.",
+            "approach": "We started with collecting all of the footage we could find. Examining what we had at our disposal, and building a story-board that reflected it. Going in, we begun to realize that we were going to need to rely heavily on animation. We planned out several animations—and discovered tool for animating maps. Given the theme of the video (urban social innovation) we thought this was perfect. On top of that, we interviewed a couple program directors at the local leve to narrate the story. Finally, we animated some of the phone photos, pulled it together, and made a beautiful testament to local community resilience during the pandemic.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338406/case-studies%202023/McConnel/McConnell_2_cyzcn2.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338408/case-studies%202023/McConnel/McConnell_3_q3fxxu.png"
             }
         ],
         "LR": [
@@ -928,7 +930,7 @@
         "path": "/culturalconnection",
         "color1": "",
         "color2": "",
-        "name": "Cultural Connection",
+        "name": "The Jewish General Hospital Foundation and the Wellcome Trust",
         "title": "",
         "foci": [
             "",
