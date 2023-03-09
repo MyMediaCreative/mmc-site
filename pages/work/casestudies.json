@@ -1460,7 +1460,7 @@
             "dotstrip": "Build a brand that makes healthcare feel safe for those who it’s often left behind.",
             "approach": "We started with in depth interviews—looking over the founder’s experience and research about people who have faced barriers to care. We took this information to develop our brand strategy. This took the form of Experience Principles—which defined the brand’s audience and cardinal rules for the brand. Once that was done, we worked to develop a visual brand and website that reflected our strategic objectives. Finally, with all of this research and brand strategy done—we developed a brand Go-To-Market campaign which went out through social media and digital advertising.",
             "execution": "We wanted to build a Psystem world—a digital experience that would make the user feel safe through every touchpoint + interaction with Psystem. That started with the visual brand, and really came to life with the website. The story of a backpacker journeying through life became a core motif. This motif was then implemented and expanded upon through every touchpoint. By the time we had finished our work with Psystem we had built a veritable Wonderland that Alice would be impressed by (and feel at ease in).",
-            "outcome": "Psystem has a consistent world that has come through every relevant touch point. The Experience Principles and broader brand strategy has been extremely well implemented within the organization. The current marketing team had done a great job of independently sticking to, and thoughtfully expanding on, the brand that we handed them. Since our initial work with Psystem, they’ve grown from a single entrepreneur to a 7 person team within a year."
+            "outcome": "Psystem has a consistent world that has come through every relevant touch point. The Experience Principles and broader brand strategy has been extremely well implemented within the organization. The current marketing team had done a great job of independently sticking to, and thoughtfully expanding on, the brand that we handed them. <br/> <br/>Since our initial work with Psystem, they’ve grown from a single entrepreneur to a 7 person team within a year."
         },
         "gallery": [
             {
@@ -1761,60 +1761,87 @@
     "repitHiring": {
         "portfolio": {
             "thumb": "",
-            "blurb": "Strategy"
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "Répit-Ressource",
             "desc": ""
         },
         "isBlack": true,
         "path": "/repithiring",
-        "color1": "",
-        "color2": "",
-        "name": "Repit Ressource",
-        "title": "",
+        "color1": "#4d0849",
+        "color2": "#4d0849",
+        "name": "Répit-Ressource",
+        "title": "A moment in the life of a Répit-Ressource employee.",
         "foci": [
-            "",
-            ""
+            "Accessibility"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Campaign Strategy",
+            "Copywriting",
+            "Ad Design",
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339602/case-studies%202023/R%C3%A9pit%20Ressource%20-%20Hiring/RR-Header_yt1zso.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/Repit2_egizym.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "Répit-Ressource is a social economy organization that provides home and cleaning services to people facing accessibility barriers. There is always demand for the work they do—meaning that they have to attract hundreds of staff from across Montreal. They approached us about running a campaign that would attract new candidates by showcasing the flexibility that their work offers.",
+            "challenge": "How do we create a great job ad that’s about not working? We wanted to highlight the fact that Répit-Ressource’s flexibility and control over one’s hours gave people the opportunity to live their fullest life. And, ultimately, it was a question of how we tell a story about freedom, control, and energy within a couple 30-second ads.",
+            "dotstrip": "Create a great job ad about not working.",
+            "approach": "We decided to focus on the timestamp. We built the campaign around the idea of different moments within a Répit-Ressource employee’s day—that culminate in the moment that they have to go to work. The idea of the timestamp was meant introduce an interesting narrative + visual motif—while also hammering home the idea that Répit-Ressource really respects your time and the control that you want to have over it. From there, we interviewed several employees—to make sure that we were telling unique stories that were true to the experience of working at Répit-Ressource.",
+            "execution": "From there, we created a series of three stories that threaded through the video + the image ads. The stories were based directly on the interviews we had undertaken. We brought the story of a single mother, a caregiver, and a young student to life. We made these characters the star of three 30-second spots and several placements ads.",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339600/case-studies%202023/R%C3%A9pit%20Ressource%20-%20Hiring/RR-1_jjf6av.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339601/case-studies%202023/R%C3%A9pit%20Ressource%20-%20Hiring/RR-2_wmispj.png"
+                    }
+                ]
             }
         ],
         "LR": [
             {
-                "type": "",
+                "type": "vimeo",
                 "media": "",
-                "title": "",
-                "blurb": ""
+                "title": "Campaign Strategy",
+                "blurb": "We developed a vision for how to bring the stories of Répit’s employees to life in a way that would attract their ideal employee/candidate personas."
+            },
+            {
+                "type": "vimeo",
+                "media": "",
+                "title": "Videos",
+                "blurb": "We developed three videos for initial sharing with target candidates—that would raise the brand’s profile and resonate with the audience’s experience."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339602/case-studies%202023/R%C3%A9pit%20Ressource%20-%20Hiring/RR-Placements_s7dful.png",
+                "title": "Ad Placements",
+                "blurb": "We developed several visual placement ads for re-targeting of candidates once they had seen the videos. These were explicit articulations of the benefit of working for Répit-Ressource."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339602/case-studies%202023/R%C3%A9pit%20Ressource%20-%20Hiring/RR-3_csdlze.png"
+            }
+        ]
     },
     "hago": {
         "portfolio": {
@@ -2794,49 +2821,47 @@
     "repitEmployee": {
         "portfolio": {
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "Répit-Ressource",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/repitEmp",
-        "color1": "",
-        "color2": "",
-        "name": "Repit Ressource",
-        "title": "",
+        "color1": "#4d0849",
+        "color2": "#4d0849",
+        "name": "Répit-Ressource",
+        "title": "Attracting passionate people for jobs that require real care.",
         "foci": [
-            "",
-            ""
+            "Accessibility"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339188/case-studies%202023/Repit%20Ressouce/Repit-Header_dv0usa.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/RepitRessource_xmdxtz.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "Répit-Ressource has a very specific need: they need people who can truly care for others in their work. They need people who are passionate, patient, and kind to every client that they work with. They approached us to represent that care—and make a video campaign that would attract those (particularly empathetic) type of people.",
+            "challenge": "The challenge was: how do you represent care for clients? It’s not as simple as good benefits and pay. We had to make sure that this intangible feeling towards people and work showed up on screen in a 90-second video. We also had to make it so explicit that people would pick up on the values within the first couple seconds of the video.",
+            "dotstrip": "Attract employees that truly care about people and their work.",
+            "approach": "We did something a little out of the box: we got an illustrator to draw three employees’ favourite clients. Then we asked those employees to wear the portrait over their heart as they spoke about the client, and the things that they love about their work. <br/> <br/>Out of it, we got some beautiful sentiments and stories about Répit-Ressource’s clients, employees, and values. It was all tied together with one phrase: <br/>“Répit-Ressource. Work you keep close to your heart”. <br/>“Répit-Ressource. Un travaille qui vient du coeur.”",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339188/case-studies%202023/Repit%20Ressouce/Repit-1_sd9jgr.png"
             }
         ],
         "LR": [
