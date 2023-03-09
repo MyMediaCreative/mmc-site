@@ -616,10 +616,10 @@
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338044/case-studies%202023/CHASM/CHASM1_rp0sqi.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The CHASM Incubator supports projects at the intersection of community health and social innovation—teaching healthcare entrepreneurs the skills and tools they need to do community engagement properly, and teaching community health leaders how to scale their initiatives. They approached us to clarify their brand story, and spin it all into a beautiful website.",
+            "challenge": "The challenge was two-fold: 1. Share the importance of community engagement practices in a way that entrepreneurs understand, and share importance of entrepreneurial practices in a way that community health leaders get. 2. Articulate the vitality of this intersection to funders and potential chapter leaders nationally.",
+            "dotstrip": "Get entrepreneurs, funders and community health leaders on the same page.",
+            "approach": "We dug in on the necessity of including community perspectives in 2021. Our argument was that there is no room anymore for “white saviour solutions” that parachute into communities to solve problems. This is as true for entrepreneurs as it is for civil society/public actors. We positioned CHASM as an organization giving entrepreneurs the tools they need to thrive in this cultural context, and create more impact for communities. We emphasized their innovative approach to community partnership building and incubation programming in the website we built. Visually, we leaned into illustration and welcoming colours—to find the balance between a slick modern style, and a more approachable nonprofit style.",
             "execution": "",
             "outcome": ""
         },
@@ -766,52 +766,96 @@
         },
         "isBlack": true,
         "path": "/csi",
-        "color1": "",
-        "color2": "",
+        "color1": "#fda74e",
+        "color2": "#fda74e",
         "name": "CSI",
-        "title": "",
+        "title": "Imagining headlines from the Next Economy.",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Campaign Strategy",
+            "Copywriting",
+            "Ad Design",
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339303/case-studies%202023/CSI/CSI-header_ckfxqv.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CSI_gica4q.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339304/case-studies%202023/CSI/CSI_Feed_vo4daj.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "The Centre for Social Innovation is a co-working space in downtown Toronto and Canada’s largest community of social innovators. They want to be a place where great ideas for people and planet can emerge—and reverberate around the world. Their brand is about hope + solutions. That’s why we pitched them Headlines from the Next Economy, a brand campaign that would realize future headlines that their members were working towards making a reality.",
+            "challenge": "The challenge was connecting broad global impact back to the idea of community. How does a co-working space provide the fertile ground for world-changing ideas to emerge? We connected those dots by putting CSI members in the spotlight: showing off the world that they imagined.",
+            "dotstrip": "How do we connect global impact back to a local community.",
+            "approach": "The “Headlines from the Next Economy” campaign was meant to turn our relationship with headlines on its head. We’re so used to getting horrible news notifications—we thought that it would be cool to use the visual language of our digital news ecosystem to tell stories about monumentally good things happening. We also wanted to remind entrepreneurs why they were doing what they were doing—and give them that feeling of being inspired by one’s own imagination.",
+            "execution": "We ran a multi-channel campaign that included email, organic social posts, and digital ad spending. We decided that each day of the week would focus on the headline of a specific CSI-member organization. From that headline we built out more content and events that were specific to that organization. It became an event—a day to celebrate their work. Obvisouly, them and their supporters took part as well. Finally, we ran a “What’s Your Headline” Competition to get a bunch of people sharing their headlines and tagging CSI.",
+            "outcome": "We set social growth targets that were quickly met."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339303/case-studies%202023/CSI/CSI-2_hrkjgx.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339309/case-studies%202023/CSI/CSI-3_tnlinz.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339301/case-studies%202023/CSI/CSI-4_wvswdl.png"
             }
         ],
         "LR": [
             {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339300/case-studies%202023/CSI/CSI_Mac_v3wq6y.png",
+                "title": "Headline Ads",
+                "blurb": "We developed several headline ads that captured each statement in an editorial style and in the style of a given digital news platform (i.e. Twitter, iMessage, notifications, etc.)"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339303/case-studies%202023/CSI/CSI-Organic_irzcb2.png",
+                "title": "Organic Social Posts",
+                "blurb": "We developed several organic social posts and social media events that were specific to each organizations. This included infographics, employee appreciation posts, and Instagram lives."
+            },
+            {
                 "type": "",
                 "media": "",
-                "title": "",
-                "blurb": ""
+                "title": "Video",
+                "blurb": "We made a video that captured CSI’s brand positioning and the people that make the organization great."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339304/case-studies%202023/CSI/CSI-5_l38mnq.pngg"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339312/case-studies%202023/CSI/CSI-6_rnknrc.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339311/case-studies%202023/CSI/CSI-7_n328m0.png"
+                    }
+                ]
+            }
+        ]
     },
     "mcconnell": {
         "portfolio": {
