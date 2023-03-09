@@ -1703,46 +1703,49 @@
             "blurb": "Branding"
         },
         "seo": {
-            "title": "",
+            "title": "EthicalCoach",
             "desc": ""
         },
         "isBlack": true,
         "path": "/ecthp",
-        "color1": "",
-        "color2": "",
-        "name": "ECTHP",
-        "title": "",
+        "color1": "#19268c",
+        "color2": "#19268c",
+        "name": "EthicalCoach x The Hunger Project",
+        "title": "Showing the impact of leaders on community initiatives.",
         "foci": [
-            "",
-            ""
+            "Anti-Poverty"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Copywriting",
+            "Graphic Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338067/case-studies%202023/EthicalCoach%20-%20THP/EthicalCoach_Header_eoexh0.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/EthicalCoach-THP_ozpmr8.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338067/case-studies%202023/EthicalCoach%20-%20THP/EthicalCoach1_y7oi66.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "EthicalCoach approached us to build a small report that would articulate the value and impact of their work with The Hunger Project. They had spent several months connecting local-level leaders of The Hunger Project’s chapters to world-class leadership coaches. The report we built showed the impact that EthicalCoach’s programs had on leaders, their teams, and the communities they support.",
+            "challenge": "The challenge was to weave the various data-points and survey responses that the Hunger Project had collected over six months into an engaging narrative that would highlight their impact for future partners + funders.",
+            "dotstrip": "Tie six months of survey and ROI data into a compelling impact narrative.",
+            "approach": "Our approach started with rigorous research. We dug into the data that EthicalCoach provided to discover the various threads that would inevitably emerge through six months of program administration. Once we discovered a core set of three threads about capacity, confidence, and team-building—we decided to dig deep on that. <br/> <br/>Visually, we tied these narratives together with standout data points that supported the arguments we made in the report and quotes that fleshed out the emotional impact that coaches had on the leaders involved.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338068/case-studies%202023/EthicalCoach%20-%20THP/EthicalCoach2_v282fm.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338067/case-studies%202023/EthicalCoach%20-%20THP/EthicalCoach3_xvpmlo.png"
             }
         ],
         "LR": [
