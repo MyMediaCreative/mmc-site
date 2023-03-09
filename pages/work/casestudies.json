@@ -1685,6 +1685,19 @@
         },
         "gallery": [
             {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "",
+                        "media": ""
+                    },
+                    {
+                        "type": "",
+                        "media": ""
+                    }
+                ]
+            },
+            {
                 "type": "image",
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339486/case-studies%202023/HAGO/HAGO-Colours_ytdllm.png"
             },
