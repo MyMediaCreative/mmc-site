@@ -1642,54 +1642,101 @@
             "blurb": "Website"
         },
         "seo": {
-            "title": "",
+            "title": "Help A Girl Out",
             "desc": ""
         },
         "isBlack": true,
         "path": "/hago",
-        "color1": "",
-        "color2": "",
-        "name": "HAGO",
-        "title": "",
+        "color1": "#aa2d65",
+        "color2": "#aa2d65",
+        "name": "Help A Girl Out",
+        "title": "Opening a conversation about period poverty around the world.",
         "foci": [
-            "",
-            ""
+            "Anti-Poverty"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Brand Strategy",
+            "Brand Design",
+            "Copywriting",
+            "Web Design",
+            "Web Development",
+            "Campaign Strategy",
+            "Ad Design",
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339486/case-studies%202023/HAGO/HAGO-Header_hnd3ya.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340502/case-studies%202023/_MobileHeaders/HAGO_pbkpdx.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "Help A Girl Out is a Toronto-based charity that is working to end the stigma and material conditions that lead to period poverty. Working with vulnerable communities across Canada and the world—they are championing a more sustainable approach to addressing period poverty, by sewing reusable pads. They approached us for a brand refresh, website redesign, and brand activation campaign.",
+            "challenge": "Help A Girl Out wanted to modernize and refine their brand. They had been doing a ton of work in communities for several years—and they were ready to level up. This meant focusing on building community partnerships, donor relationships, and strengthening their board of directors. They needed a brand and campaign that would help them do all of that.",
+            "dotstrip": "Build a brand that would attract support from major donors and partners.",
+            "approach": "We looked at a mix of successful anti-poverty charities and period product brands—to find a balance that would speak to audiences young and old (those in need of support and donors). From there, we built a website and campaign that reflected the direction that we discovered in our work. The campaign was #CallItWhatItIs. We asked young women from around the world what they had called their period, instead of period. We knew that there were bound to be a ton of euphemisms used to hide discussions about periods.",
+            "execution": "We executed the brand, website, and campaign.",
+            "outcome": "During our work with Help A Girl Out (in the month that we worked with them)—they saw a 66% increase in organic reach and a 58% increase in average engagement with their posts. During and since the launch they’ve had major press coverage and the campaign was been shared by Canadian influencers like Olympian."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": ""
+                    },
+                    {
+                        "type": "image",
+                        "media": ""
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339486/case-studies%202023/HAGO/HAGO-Colours_ytdllm.png"
+            },
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339485/case-studies%202023/HAGO/HAGO-Logos-01_uvbpne.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339485/case-studies%202023/HAGO/HAGO-Logos-02_kinzpm.png"
+                    }
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339485/case-studies%202023/HAGO/HAGO-Logos-03_wokw6q.png"
+                    },
+                ]
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339487/case-studies%202023/HAGO/HAGO-Branding_aaotqy.png",
+                "title": "Visual Brand",
+                "blurb": "We benchmarked charities and period poverty brands. This would help appeal to corporate sponsors, individual donors, and community partners."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339486/case-studies%202023/HAGO/HAGO-Website_c0cpij.png",
+                "title": "Website",
+                "blurb": "Pulling from our benchmarks—we built a website that was visually beautiful and straightforward for donors/recipients."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339486/case-studies%202023/HAGO/HAGO-ActivationCampaign_tmagkh.png",
+                "title": "Activation Campaign",
+                "blurb": "The #CallItWhatItIs Campaign was executed through video, ad placements, and an interactive social media campaign."
             }
         ],
         "gallery2": ""
@@ -1700,7 +1747,7 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "POP Montreal",
             "desc": ""
         },
         "isBlack": true,
@@ -1708,7 +1755,7 @@
         "color1": "",
         "color2": "",
         "name": "",
-        "title": "POP Montreal",
+        "title": "POP Montréal",
         "foci": [
             "",
             ""
