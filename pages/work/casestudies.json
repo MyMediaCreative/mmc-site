@@ -1574,46 +1574,46 @@
             "blurb": "Website"
         },
         "seo": {
-            "title": "",
+            "title": "regeneration",
             "desc": ""
         },
         "isBlack": true,
         "path": "/re_generation",
-        "color1": "",
-        "color2": "",
+        "color1": "#d52c35",
+        "color2": "#d52c35",
         "name": "Re_Generation",
-        "title": "",
+        "title": "Building Canada’s largest platform to empower youth in sustainability and social impact.",
         "foci": [
-            "",
-            ""
+            "Sustainability"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Copywriting",
+            "Web Design",
+            "Web Development"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_Header_sudyw8.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/ReGeneration_mphzyw.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_1_enrqxn.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "Re_Generation had an ambitious vision: a website that could be a home for all students and young professional in Canada that wanted to commit their student lives and early careers to sustainability and social impact. They had 100s of pages of resources, data, and stories to get onto the website. We built a website that was beautiful, expansive, and resilient to change.",
+            "challenge": "How do we fit hundreds of pages of thinking, interviews, and storytelling onto one website. More importantly, how do we make it resilient to the inevitable changes and uploading that would come with a platforms of this scale.",
+            "dotstrip": "Build a huge platform that is resilient to change and many hands.",
+            "approach": "We started by writing copy that could encase the core information that would come from the think tank and that would change. We used our copywriting as a “frame” for the broader informational project. Then, we built a website that was clearly structured and modular. From there, we loaded it onto a WordPress website and trained the team to use it.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_2_wtlt9g.png"
             }
         ],
         "LR": [
@@ -1637,41 +1637,54 @@
         },
         "isBlack": true,
         "path": "/mpcc",
-        "color1": "",
-        "color2": "",
-        "name": "MPCC",
-        "title": "",
+        "color1": "#383f76",
+        "color2": "#383f76",
+        "name": "Milton Parc’s Citizen Committee",
+        "title": "Bringing a community (and it’s landmarks) to life on screen.",
         "foci": [
-            "",
-            ""
+            "Anti-Poverty"
         ],
-        "year": "2021",
+        "year": "2020",
         "disciplines": [
-            "",
-            ""
+            "Illustration",
+            "Web Design",
+            "Web Development"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC-Header_xmtjw4.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340508/case-studies%202023/_MobileHeaders/MPCC_k7cfjd.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC1_zutmow.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Milton Parc Citizen’s Committee approached us to create a new website that really brought the community and its local landmarks to life. They wanted it to feel like a digital home for residents—that could be updated consistently and house explanations of the various local projects that the organization was undertaking. We built a beautiful illustrated version of the Milton-Parc neighbourhood that filled the website with the local character that emanates from the Montreal neighbourhood.",
+            "challenge": "The challenge was creating something that truly felt unique and a reflection of local organizing. We didn’t want it to feel too professional or slick. It needed to evoke the beautiful, down-to-earth, vibe that the Milton-Parc neighbourhood itself projects. At the same time, it needed to be highly usable for all constituents.",
+            "dotstrip": "Create something highly usable that was true to the neighbourhood’s unique vibe.",
+            "approach": "Our approach was to bring the community to life through illustration. We walked around the. neighbourhood, identifying various landmarks and images that would be beautiful to bring to life on the website. Out of those landmarks we built an illustrated world that would be familiar to any Milton-Parc resident. Then, we loaded the website onto WordPress for edit-ability and gave the whole Milton Parc Citizen’s Committee team a training session on how to use the programs.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
+                "type": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC2_cbjkch.png",
                 "media": ""
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC3_qpu3sd.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC4_djqk7q.png"
+                    }
+                ]
             }
         ],
         "LR": [
