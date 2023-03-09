@@ -928,41 +928,64 @@
         },
         "isBlack": true,
         "path": "/culturalconnection",
-        "color1": "",
-        "color2": "",
+        "color1": "#7aa0d2",
+        "color2": "#7aa0d2",
         "name": "The Jewish General Hospital Foundation and the Wellcome Trust",
-        "title": "",
+        "title": "Explaining the value of cultural connection on young people’s mental health.",
         "foci": [
-            "",
-            ""
+            "Health and Wellness"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video Production",
+            "Animation",
+            "Illustration",
+            "Copywriting"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338649/case-studies%202023/Cultural%20Connection/CC-Header_wwgfyb.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/Cultural_Connection_tqcq37.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Cultural Connection research group approached us to build a 2- minute animated explainer video that covered their core academic findings and the implications that these findings could have on young people’s mental health. We had to explain something rather hard to pin down: the impact of culture on mental health. We built a welcoming world to do just that.",
+            "challenge": "The concept of culture is broad, and hard to pin down in academic literature. We had to find a way to express it visually while being true to the robust review of literature that the team had undertaken. On top of that, we had to summarize months of research into 2 minutes. The kicker? We only had two weeks to do it all!",
+            "dotstrip": "Capture six months of groundbreaking research in two compelling minutes.",
+            "approach": "We approached by developing an illustrative style that allowed us maximum flexibility to bring various elements of diverse cultures to life on screen. Narratively, we focused on the idea of a balloon—representing the cultural influences that we carry every day. Sometimes, these can make the world lighter—but sometimes that balloon turns into a weight that can slow us down. Ultimately, we produced a video that brought some beautiful animated characters to life while being true to the research.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338649/case-studies%202023/Cultural%20Connection/CC-4_aelshj.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338649/case-studies%202023/Cultural%20Connection/CC-3_uysm4v.png"
+                    }
+                ]
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338649/case-studies%202023/Cultural%20Connection/CC-2_gpltqv.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338649/case-studies%202023/Cultural%20Connection/CC-5_vfbyrm.png"
+                    }
+                ]
             }
         ],
         "LR": [
