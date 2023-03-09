@@ -1557,7 +1557,16 @@
                 "type": "image",
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339235/case-studies%202023/UpstartED/Upstarted-1_j0jmzk.png"
             }
-        ]
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ],
+        "gallery2": ""
     },
     "regeneration": {
         "portfolio": {
