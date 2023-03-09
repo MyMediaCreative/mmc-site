@@ -1299,20 +1299,20 @@
             "title": "IPPNWC",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/ippnwc",
-        "color1": "",
-        "color2": "",
+        "color1": "#213655",
+        "color2": "#213655",
         "name": "IPPNWC",
-        "title": "",
+        "title": "Bringing young physicians into the peace movement.",
         "foci": [
-            "",
-            ""
+            "Anti-Militarism"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Campaign Strategy",
+            "Copywriting",
+            "Video"
         ],
         "header": {
             "type": "image",
@@ -1321,29 +1321,41 @@
             "mobilePos": "right"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://vimeo.com/681653736"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "International Physicians for the Prevention of Nuclear War Canada (IPPNWC) is the Canadian arm of the two-time Nobel Peace Prize Winning movement of medical practitioners advocating against militarism and war. IPPNWC reached out to us to run a campaign that would draw medical students (among other young people) into their mentorship programs. The goal was to spread a 21st century message that could help the organization find the next generation of peace advocates. To do that we built a set of campaign videos, social media posts, and an email campaign.",
+            "challenge": "The broad donor and support base for IPPNWC was cultivated during the peak of the peace movement in the 1970s and 1980s. Today, young people have shifted their focus to other global issues like climate change and social inequality. The challenge for us was to bring a modern twist to the peace movement that would resonate with, and mobilize, young activists (specifically medical students).",
+            "dotstrip": "Find a vital 21st century message for the peace movement and IPPNWC.",
+            "approach": "At the time, COVID-19 was most of what people could think about. There wasn’t lot of space left for any other social issues—so we leaned into that. We focused on creating a video that likened the nuclear weapons crisis to the global health crisis that we had been in the midst of for more than a year at that point. We also pointed to the unprecedented capacity of global institutions to roll out effective solutions to both crises—in the case of COVID-19, the vaccine and in the case of nuclear weapons, non-proliferation treaties. Finally, we leveraged the elevated importance of health care workers’ opinions in the midst of a global pandemic to create a sense of moral authority in the messaging.",
+            "execution": "To roll out this campaign strategy we built three videos, three social posts, and an email campaign with a focus on the messaging. The video was designed to make the audience think we were talking about COVID—and then reveal that we were, in fact, referring to was a global nuclear crisis. We did this to expose the parallels between the two crisis—and to invoke the active global response to COVID as proof that we needed a similarly forceful response to nuclear proliferation. Our email campaign used similar messaging point—but when on to discuss the hope that exists in the movement. We pointed to a history of successful activism and the passion of youth to show our audience the light at the end of the tunnel.",
+            "outcome": "When surveyed, 92% of medical students said that they would be highly likely to share the campaigns flagship video with their peers—and seek out further information on the subject. Qualitatively, medical students pointed to the novelty of the campaign and the important role that it played putting the issue on their radar. In the end, the campaign was successful in driving new interest among medical students to IPPNWC’s Fellowships and programs."
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "vimeo",
+                "media": "https://vimeo.com/681652482"
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338151/case-studies%202023/IPPNWC/IPPNWC_2_eiq1qx.png",
+                "title": "Flagship Video",
+                "blurb": "This flagship video used news footage, stock imagery, and a core monologue to mobilize young people around the principles of the peace movement."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681652705",
+                "title": "Social Media Videos",
+                "blurb": "We created several shorter videos for use across social media. One of the core videos focused on the history of successful activism that ran through IPPNWC. This was done to inspire hope that there was a viable path forward."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681652601",
+                "title": "Email Campaign",
+                "blurb": "Our email campaign to existing donors was designed to shine a light on the power of youth in this movement (if properly activated and supported). It also spoke to the active youth-focused programs IPPNWC was running to do just that."
             }
         ],
         "gallery2": ""
