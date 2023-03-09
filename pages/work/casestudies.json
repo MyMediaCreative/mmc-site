@@ -1369,42 +1369,41 @@
             "title": "MADA Passover",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/madapassover",
-        "color1": "",
-        "color2": "",
-        "name": "MADA Passover",
-        "title": "",
+        "color1": "#0b283c",
+        "color2": "#0b283c",
+        "name": "MADA",
+        "title": "Letting people know that there is help out there on the holidays.",
         "foci": [
-            "",
-            ""
+            "Anti-Poverty",
+            "Food Security"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339096/case-studies%202023/MADA%20Passover/MADA-Header_k14qiv.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340504/case-studies%202023/_MobileHeaders/MADA_r2nbdg.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "MADA is one of Montreal’s biggest anti-poverty organizations—specifically serving the city’s Jewish community. For their first major Passover event since COVID-19 they approached us to help them get the word out about the various services and support that anybody in the community could access. We decided to tell the story of some modern Passover miracles: food, community, and family.",
+            "challenge": "We needed to tell a story about need that would speak directly to recipients of that support. We also needed to break down the various different services that MADA was offering based on the support that a given individual needed. And, at the end of the day, we needed to tell a story that was true to the spirit of Passover.",
+            "dotstrip": "Speak directly to support recipients and explain a range of service offerings.",
+            "approach": "We decided to tell the story of three people—all in need of a slightly different kind of support from the MADA Community Center on the day of the Passover Seder. We engaged several performers from the Cote St. Luc Dramatic society to play those stories out—and we added a little bit of magic into all of them.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
+                "type": "vimeo",
                 "media": ""
             }
         ],
@@ -1429,52 +1428,88 @@
         },
         "isBlack": true,
         "path": "/psystem",
-        "color1": "",
-        "color2": "",
+        "color1": "#f07259",
+        "color2": "#f07259",
         "name": "Psystem",
-        "title": "",
+        "title": "Making wellness accessible to to everyone who needs care.",
         "foci": [
-            "",
-            ""
+            "Health"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Strategy",
+            "Brand Design",
+            "Web Design",
+            "Copywriting",
+            "Campaign Strategy",
+            "Graphic Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338471/case-studies%202023/Psystem/Psystem_Header_fhe2ib.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340508/case-studies%202023/_MobileHeaders/Psystem_g5cexn.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338473/case-studies%202023/Psystem/Psystem_1_g8e2m6.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "Psystem is a health and wellness coaching firm focused on serving those with Chronic Pain and people who have historically faced barriers to care. With Psystem, we developed a brand, website, and brand activation campaign across social media.",
+            "challenge": "People with chronic pain, and people who have been left behind by the modern medical system, often don’t trust care providers. We needed to built a brand that would help those people feel comfortable and seen—while communicating the fact that the organization’s founder is a credentialed (and innovative) leader in the field.",
+            "dotstrip": "Build a brand that makes healthcare feel safe for those who it’s often left behind.",
+            "approach": "We started with in depth interviews—looking over the founder’s experience and research about people who have faced barriers to care. We took this information to develop our brand strategy. This took the form of Experience Principles—which defined the brand’s audience and cardinal rules for the brand. Once that was done, we worked to develop a visual brand and website that reflected our strategic objectives. Finally, with all of this research and brand strategy done—we developed a brand Go-To-Market campaign which went out through social media and digital advertising.",
+            "execution": "We wanted to build a Psystem world—a digital experience that would make the user feel safe through every touchpoint + interaction with Psystem. That started with the visual brand, and really came to life with the website. The story of a backpacker journeying through life became a core motif. This motif was then implemented and expanded upon through every touchpoint. By the time we had finished our work with Psystem we had built a veritable Wonderland that Alice would be impressed by (and feel at ease in).",
+            "outcome": "Psystem has a consistent world that has come through every relevant touch point. The Experience Principles and broader brand strategy has been extremely well implemented within the organization. The current marketing team had done a great job of independently sticking to, and thoughtfully expanding on, the brand that we handed them. Since our initial work with Psystem, they’ve grown from a single entrepreneur to a 7 person team within a year."
         },
         "gallery": [
             {
-                "type": "",
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338471/case-studies%202023/Psystem/Psystem_2_ozphpo.png"
+            },
+            {
+                "type": "image",
                 "media": ""
             }
         ],
         "LR": [
             {
-                "type": "",
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338475/case-studies%202023/Psystem/Psystem_Branding_f9nmqt.png",
+                "title": "Branding",
+                "blurb": "We looked at health and wellness firms, and inspirations sourced by the founder, to develop a unique expression of Psystem’s core principles."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338471/case-studies%202023/Psystem/Psystem_Web_u55fr3.png",
+                "title": "Web Design",
+                "blurb": "We turned the website into a story to be explored by the user—filled with characters, animals, and a variety of locations. We truly hope that our user feels like they’re on the journey with us."
+            },
+            {
+                "type": "vimeo",
                 "media": "",
-                "title": "",
-                "blurb": ""
+                "title": "Psystem Listens",
+                "blurb": "We wanted to build a campaign that expanded on the world we were building with the brand—but one that would also get the average scroller to stop in their tracks. So we came up with an idea: “Like your phone, Psystem listens."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338471/case-studies%202023/Psystem/Psystem_Social_g1ufrs.png",
+                "title": "Social Media",
+                "blurb": "We developed several social media posts that would focus on the humans and stories that make up Psystem. This would really help people feel comfortable approaching them."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338471/case-studies%202023/Psystem/Psystem_BusinessAsset_es116z.png",
+                "title": "Business Assets",
+                "blurb": "We developed a PowerPoint Template, a podcast cover, and a Brochure for Psystem to use in their partnership efforts with institutions and other businesses."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338474/case-studies%202023/Psystem/Psystem_4_qioxr4.png"
+            }
+        ]
     },
     "upstarted": {
         "portfolio": {
@@ -1485,54 +1520,44 @@
             "title": "UpstartEd",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/upstarted",
-        "color1": "",
-        "color2": "",
+        "color1": "#04238b",
+        "color2": "#04238b",
         "name": "UpstartEd",
-        "title": "",
+        "title": "Inspiring the next generation of social innovators.",
         "foci": [
-            "",
-            ""
+            "Social Innovation",
+            "Education"
         ],
-        "year": "2021",
+        "year": "2020",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339233/case-studies%202023/UpstartED/Upstarted-Header_lw6619.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340511/case-studies%202023/_MobileHeaders/Upstarted_h1ui85.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "UpstartEd works in classrooms across Canada, preparing young folks to be the next generation of social innovators. They approached us to make a video to sum their flagship program. The video would be used to market the programs, and be the first thing that young people saw when they joined the Youth Explore experience.",
+            "challenge": "Tell a great story, and make the core concepts of design thinking + social innovation accessible to the young people watching the video. Do this all while getting young people excited to embark on an educational journey with UpstartEd. On top of that, the video needed to work as a means of attracting funders and partners to UpstartEd—sharing their value and impact with relevant stakeholders.",
+            "dotstrip": "Inspire youth + partners alike to dive deep with UpstartEd.",
+            "approach": "We decided to focus on the theme of collaborative creation through the story of a paper airplane. We showed the plane travelling through Montreal, getting a little love and amelioration from young people with different interests/approaches. This story got at core themes for UpstartEd: collaboration, the importance of diversity in creation, and the value of building things that help people.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339235/case-studies%202023/UpstartED/Upstarted-1_j0jmzk.png"
             }
-        ],
-        "LR": [
-            {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
-            }
-        ],
-        "gallery2": ""
+        ]
     },
     "regeneration": {
         "portfolio": {
