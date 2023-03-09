@@ -1215,28 +1215,80 @@
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338418/case-studies%202023/NoFish/NoFish_FlagshipGif_ls4in3.gif"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
-            "outcome": ""
+            "intro": "Christian Ventura, owner and chef behind Sushi MoMo and Casa Kaizen, approached us with his new brand: NoFish. The brand was focused on being a quick, vegan, alternative to fish-based sushi for young Montrealers. We leaned into those brand principles for the campaign: Easy, Vegan, Delicious. It was simple—just like dinner should be. On top of that, we imagined a local QR-code based scavenger hunt called the “Golden Roll” which would activate people locally and on social media to get free sushi in exchange for shares.",
+            "challenge": "Launch a new sushi brand in the pandemic. Cultivate brand loyalty to a casual sushi restaurant. Challenge existing beliefs about the quality and taste of vegan sushi alternatives. Create a high quality sushi brand that didn’t need to be eaten on a night out—but could be ordered at lunch, on a lazy evening, and in sweatpants. Use these to differentiate NoFish from Christian Ventura’s other brands.",
+            "dotstrip": "Cultivate local brand loyalty for a casual vegan sushi project.",
+            "approach": "Our approach was two-fold. One was a digital campaign—leveraging ad spending and organic growth tactics to cultivate a following on social media. For this, we focused on a simple set of value propositionbased messages: Easy. Vegan. Delicious. We also focused on building interest around NoFish’s unique brand voice. We did this to appeal to young sushi-eaters who wanted something casual, funny, and approachable in the Montreal market. The second approach was through a local campaign: “The Golden Roll”, which created a QR-code based scavenger hunt for people to engage in and share—in exchange for the chance at winning free sushi.",
+            "execution": "For the digital campaign, we built out some messages that really reinforced the brand messages. The first were our “Easy. Vegan. Delicious.” GIFs. These simple, eye-catching GIFs quickly set the tone for NoFish’s brand + got the value propositions out there quickly. The second set of ads were more playful, and irreverent—catching people’s attention with bold copy and slick design. We extended this brand campaign through to the packaging of the box—which we built for launch, and included games that you could play on the back. Finally, we built out a strategy and assets for our “Golden Roll” scavenger hunt.",
+            "outcome": "The launch of NoFish was a success on social media! NoFish’ Instagram grew 120% in just a couple weeks—from 474 followers to 1046. The brand was included in several media outlets after its launch—and the feedback from people who ordered it was great!"
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338428/case-studies%202023/NoFish/NF_Packaging_tlrqtg.png"
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338423/case-studies%202023/NoFish/NF_Post1_vaogka.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338424/case-studies%202023/NoFish/NF_Post3_fk4ltl.png"
+                    }
+                ]
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338418/case-studies%202023/NoFish/NF_Post4_x0ezrl.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338427/case-studies%202023/NoFish/NF_Post2_anlpvc.png"
+                    }
+                ]
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338421/case-studies%202023/NoFish/NF_Campaign_lgzf5n.png",
+                "title": "Digital Campaign",
+                "blurb": "This digital media campaign was focused on setting the tone and differentiating NoFish’s brand in a competitive market. We did this through bold copy and design."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338421/case-studies%202023/NoFish/NF_Gold_mbdkln.png",
+                "title": "“Golden Roll”Campaign",
+                "blurb": "Get local members of the Villeray Community engaged in a scavenger hunt where they could find stickers with QR codes, share that they had found them for the chance to win free sushi, and search for a “Golden Roll” which promised a sushi feast."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338425/case-studies%202023/NoFish/NF_Packaging2_v8vgqa.png",
+                "title": "Packaging",
+                "blurb": "The packaging was built to reinforced the irreverent and playful tenor of NoFish’ brand—being covered in cute sayings, characters, and games that you can play with your friends as you eat sushi together."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338427/case-studies%202023/NoFish/NF_Box2_iaau9j.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338419/case-studies%202023/NoFish/NF_Box_ek0wla.png"
+                    }
+                ]
+            }
+        ]
     },
     "ippnwc": {
         "portfolio": {
@@ -1263,10 +1315,10 @@
             ""
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
-            "mobilePos": "center"
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338151/case-studies%202023/IPPNWC/IPPNWC_Header_elpvqw.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340503/case-studies%202023/_MobileHeaders/IPPNWC_j8mr76.png",
+            "mobilePos": "right"
         },
         "mainMedia": {
             "type": "",
