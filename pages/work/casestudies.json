@@ -1107,46 +1107,52 @@
             "blurb": "Branding"
         },
         "seo": {
-            "title": "Indigirecruit",
+            "title": "IndigIrecruit",
             "desc": ""
         },
         "isBlack": true,
         "path": "/indigirecruit",
-        "color1": "",
-        "color2": "",
-        "name": "Indigirecruit",
-        "title": "",
+        "color1": "#6b2f87",
+        "color2": "#6b2f87",
+        "name": "IndigIrecruit",
+        "title": "Making post-secondary education more accessible for Indigenous youth.",
         "foci": [
-            "",
-            ""
+            "Education"
         ],
-        "year": "2021",
+        "year": "2020",
         "disciplines": [
-            "",
-            ""
+            "Visual Branding"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338371/case-studies%202023/IndigIrecruit/Indigirecruit_Header_mycbdm.jpg",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340515/case-studies%202023/_MobileHeaders/IndigIrecruit_jmafmh.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338079/case-studies%202023/IndigIrecruit/Indigirecruit_Composition_nj3ehm.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "IndigIrecruit works with Indigenous youth across the country—helping them navigate post-secondary application processes that are historically exclusionary and ill-tailored to the everyday realities of many young people. As they began their national community outreach initiatives, IndigIrecruit approached us to build a brand that would capture their core educational mission + be approachable for a diverse range of communities that the organization would be approaching.",
+            "challenge": "The core challenge was to build a brand that would facilitate the development of trust between IndigIrecruit and a wide variety of communities that they would be approaching. The prospect of an outside agency facilitating the relationship between young people and historically exclusionary institutions can be dubious to many communities. That’s why IndigIrecruit prioritized in-person outreach. The brand needed to set the groundwork for a good relationship.",
+            "dotstrip": "Set the groundwork for trusting relationships with Indigenous communities.",
+            "approach": "We led by listening here—working to understand what symbolism and approach would resonate most with the widest variety of audiences. Together, we landed on two symbols that represented the organization’s two core missions. A feather for Indigenous representation and a book for access to education. We tied this together with a modern typeface, and a palette build around the colours of the Iroquois Confederacy.",
             "execution": "",
-            "outcome": ""
+            "outcome": "IndigIrecruit were very happy with the brand, sharing this testimonial: “My Media Creative has perfectly responded to our needs with professionalism, efficiency and flexibility. Even though we provided them with very broad guidelines, they accurately grasp our vision and came up with a stunning final product. Working with a passionate team that cares about your project as much as you do is a delightful feeling.”"
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338085/case-studies%202023/IndigIrecruit/Indigirecruit_Brandbook_fztf2x.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338082/case-studies%202023/IndigIrecruit/Indigirecruit_Socials_gr3rvf.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338079/case-studies%202023/IndigIrecruit/Indigirecruit_Bag_nz4ipb.png"
             }
         ],
         "LR": [
@@ -1157,7 +1163,21 @@
                 "blurb": ""
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338088/case-studies%202023/IndigIrecruit/Indigirecruit_BC1_zyfh9w.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338085/case-studies%202023/IndigIrecruit/Indigirecruit_BC2_cmtnbu.png"
+                    }
+                ]
+            }
+        ]
     },
     "nofish": {
         "portfolio": {
