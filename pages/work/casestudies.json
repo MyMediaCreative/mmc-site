@@ -1009,41 +1009,86 @@
         },
         "isBlack": true,
         "path": "/acgc",
-        "color1": "",
-        "color2": "",
+        "color1": "#34c3e5",
+        "color2": "#34c3e5",
         "name": "ACGC",
-        "title": "",
+        "title": "Telling the story of Canada’s young change makers.",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338902/case-studies%202023/ACGC/ACGC-Header_vhverh.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/ACGC_gavhz0.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Alberta Council for Global Cooperation works to strengthen Canada’s ties to international initiatives to make the world a better place. In this case, they approached us about making several videos for the Canada Youth SDG Awards. They wanted 10 videos—1 for each of the award winners. Given the national scope of the project, we thought we’d lean into an “animated explainer” approach.",
+            "challenge": "We had about three weeks and a couple Zoom interviews to pull together ten videos that would really speak to the experiences of a large diversity of youth-led initiatives. Ranging from organizing around climate advocacy to combatting period poverty—we had to get our bearings quickly, and produce something great out of very little.",
+            "dotstrip": "Create 10 videos on a huge range of projects out of Zoom footage and animation.",
+            "approach": "We decided to sit down with every one of the winning teams on Zoom to learn more about them, and collect narration for the videos. From that point, we built out an art direction that evoked the style of explainer videos that are popular across the internet. From there, we leveraged narration and those interviews to tell ten stories that each gave the winners their special moment.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    }
+                ]
+            },
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    }
+                ]
+            },
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    }
+                ]
             }
         ],
         "LR": [
