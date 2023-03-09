@@ -1672,7 +1672,7 @@
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "vimeo",
+            "type": "",
             "media": ""
         },
         "numContent": {
@@ -1688,11 +1688,11 @@
                 "type": "twoImg",
                 "media": [
                     {
-                        "type": "image",
+                        "type": "",
                         "media": ""
                     },
                     {
-                        "type": "image",
+                        "type": "",
                         "media": ""
                     }
                 ]
