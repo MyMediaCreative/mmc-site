@@ -1188,30 +1188,31 @@
             "title": "NoFish",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/nofish",
-        "color1": "",
-        "color2": "",
+        "color1": "#33b4bb",
+        "color2": "#e86069",
         "name": "NoFish",
-        "title": "",
+        "title": "Helping Montreal’s biggest vegan Sushi chef go sustainable.",
         "foci": [
-            "",
-            ""
+            "Sustainable Consumption"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Campaign Strategy",
+            "Copywriting",
+            "Graphic Design",
+            "Brand Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338418/case-studies%202023/NoFish/NF_Header_z5balw.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340508/case-studies%202023/_MobileHeaders/NoFish_twrmsr.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338418/case-studies%202023/NoFish/NoFish_FlagshipGif_ls4in3.gif"
         },
         "numContent": {
             "intro": "",
