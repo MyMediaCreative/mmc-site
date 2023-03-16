@@ -2603,7 +2603,7 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "Kitchen 24",
             "desc": ""
         },
         "isBlack": true,
@@ -2611,38 +2611,36 @@
         "color1": "",
         "color2": "",
         "name": "Kitchen 24",
-        "title": "",
+        "title": "Uplifting the community that came together to feed the hungry.",
         "foci": [
-            "",
-            ""
+            "Food Security"
         ],
-        "year": "2021",
+        "year": "2020",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338683/case-studies%202023/Kitchen24/K24_1_kdt1i2.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340504/case-studies%202023/_MobileHeaders/K24_ulg6kp.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "At the peak of the COVID-19 pandemic’s first wave, people from across Toronto came together to support Kitchen 24. Before the pandemic, it was an incubator for new food startups. Once the virus hit, though, it became a community committed to feeding the hungry—churning thousands of meals a day out of their state of the art facilities. We wanted to create a video that captured the project and their impact.",
+            "challenge": "Tell a story that would get people out of their homes to volunteer at the peak of the pandemic’s first wave. Kitchen 24 was a popup organization without established volunteer lists and supporters. We needed a video that would mobilize a whole new group of people— quickly.",
+            "dotstrip": "Mobilize a whole new team of volunteers at the peak of COVID’s first wave.",
+            "approach": "The approach was simple: capture their work and their words. Get on the ground to show how meaningful K24’s commitment to nourishing meals was and how safe their process was. The organization had formed around an inspiring leader named Steve. We centred him as the narrator of the video—and showed the various experiences of K24s volunteers alongside that.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338683/case-studies%202023/Kitchen24/K24_2_hzpg6h.png"
             }
         ],
         "LR": [
@@ -2724,41 +2722,52 @@
         },
         "isBlack": true,
         "path": "/homie",
-        "color1": "",
-        "color2": "",
+        "color1": "#3C533F",
+        "color2": "#3C533F",
         "name": "Homie Collection",
-        "title": "",
+        "title": "Making home storage simple and sustainable.",
         "foci": [
-            "",
-            ""
+            "Sustainable Business"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338661/case-studies%202023/Homie/Homie-Header_pa6zpy.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340502/case-studies%202023/_MobileHeaders/Homie_ajr8wd.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338664/case-studies%202023/Homie/Homie-1_ruqdys.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Homie Collection builds sustainably sourced and simple home storage units for the every day home-dweller. They approached us to develop a simple brand for their launch.",
+            "challenge": "The brief was relatively simple: build something simple and refined that would speak to the every day consumer. The focus wasn’t on sustainability specifically—but on creating a strong brand for folks who got really into organizing during COVID.",
+            "dotstrip": "Built simple and refined brand that would speak to the every day consumer",
+            "approach": "We decided to lean into a refined serif typeface and variations on a white colour palette that we knew would sit nicely with the design of the boxes themselves.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338661/case-studies%202023/Homie/HomiePhones_o9scxt.png"
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338661/case-studies%202023/Homie/Homie-2_gfqaan.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338661/case-studies%202023/Homie/Homie-3_kvpkyz.png"
+                    }
+                ]
             }
         ],
         "LR": [
@@ -2777,45 +2786,43 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "StoryPlanet",
             "desc": ""
         },
         "isBlack": true,
         "path": "/storyplanet",
-        "color1": "",
-        "color2": "",
+        "color1": "#C3C92F",
+        "color2": "#C3C92F",
         "name": "Story Planet",
-        "title": "",
+        "title": "Expressing the wonder of a child’s imagination.",
         "foci": [
-            "",
-            ""
+            "Education"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338856/case-studies%202023/StoryPlanet/SP_Header_pr9uqx.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340520/case-studies%202023/_MobileHeaders/StoryPlanet_gevelz.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "StoryPlanet works to improve literacy rates among young children and empower youth with a core set of skills: imagination and storytelling. They approached us to interview several young program participants about their experiences with StoryPlanet, and the power of imagination that they’ve gained since participating.",
+            "challenge": "The challenge was asking young kids to share their positive experiences, and articulate the impact of the programs on them. As many know, kids under the age of ten can be a bit camera-shy and have difficult articulating self-reflections. We wanted to pull together something cohesive and compelling that was entirely led by the voices of the young children hat StoryPlanet works with.",
+            "dotstrip": "Help children under ten tell a cohesive, self-reflective, story about their experiences.",
+            "approach": "StoryPlanet had already done a lot of the work for us: these were some of the most articulate and thoughtful elementary-school age kids we’d ever met. We also made sure to go to a place they were comfortable with (a playground), and spend some time getting comfortable with them. Once we knew that we were in a safe space and there was trust between us and the kids—we turned our cameras on. The results are magical.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
+                "type": "vimeo",
                 "media": ""
             }
         ],
@@ -2832,49 +2839,65 @@
     "ecwild": {
         "portfolio": {
             "thumb": "",
-            "blurb": ""
+            "blurb": "Report Design"
         },
         "seo": {
-            "title": "",
+            "title": "EthicalCoach X WILD",
             "desc": ""
         },
         "isBlack": true,
         "path": "/ecwild",
-        "color1": "",
-        "color2": "",
+        "color1": "#F7941E",
+        "color2": "#F7941E",
         "name": "Ethical Coach / WILD",
-        "title": "",
+        "title": "Illustrating the impact of coaching on women in the development sector.",
         "foci": [
-            "",
-            ""
+            "Civic Engagement",
+            "Social Innovation"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Graphic Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-Header_krq9kp.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/EthicalCoach-Wild_a5x2xz.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339039/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-1_jmh9sh.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The WILD Network is a movement of women in the development sector that are championing more inclusive and strong leadership. In partnership with EthicalCoach, the WILD Network provided many of their leaders with professional leadership coaching for a couple months. We were approached to develop a report on how coaching was making an impact on these leaders’ ability to make change.",
+            "challenge": "The impact of leadership coaching on people and on the communities they serve is complex and hard to measure. Our job was to weave together survey responses, qualitative data, and an ROI calculation that EthicalCoach had developed—into a clear story about the value of coaching in the social sector.",
+            "dotstrip": "Illustrate the value that coaching has for people and the communities they serve.",
+            "approach": "For us, the story was quite clear: when we empower leaders to be the best versions of themselves, we empower them to make a bigger impact in their communities. We showed how coaching had helped these leaders strengthen team dynamics, raise more money for their organizations, and become more confident in their abilities to make change.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-3_xzr1ej.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-2_lqil5o.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-4_se0ycg.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339039/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach5_gokilm.png"
             }
         ],
         "LR": [
