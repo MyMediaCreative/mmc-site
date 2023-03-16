@@ -1957,33 +1957,31 @@
             "title": "POP Montreal",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/pop",
-        "color1": "",
-        "color2": "",
-        "name": "",
-        "title": "POP Montréal",
+        "color1": "#f46b33",
+        "color2": "#f46b33",
+        "name": "POP Montréal",
+        "title": "",
         "foci": [
-            "",
-            ""
+            "Arts and Culture"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "img",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645639122/case-studies/pop%20montreal/POP_Header_awrq2e.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1646158852/case-studies/pop%20montreal/POP_Mobile_tm99xf.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://vimeo.com/732517103"
         },
         "numContent": {
-            "intro": "",
+            "intro": "2021 was Pop Montreal's 20th festival, and their first",
             "challenge": "",
             "dotstrip": "",
             "approach": "",
@@ -2012,45 +2010,43 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "Divest McGill",
             "desc": ""
         },
         "isBlack": true,
         "path": "/divest",
-        "color1": "",
-        "color2": "",
+        "color1": "#ED8E50",
+        "color2": "#ED8E50",
         "name": "Divest McGill",
-        "title": "",
+        "title": "Holding McGill to account for their investments in fossil fuels.",
         "foci": [
-            "",
-            ""
+            "Environment"
         ],
-        "year": "2021",
+        "year": "2019",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "img",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339025/case-studies%202023/Divest%20McGill/Divest-Header_s7se98.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339025/case-studies%202023/Divest%20McGill/Divest-Header_s7se98.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "Divest McGill approached us to make a video that punctuated the lack of action and accountability that McGill University had taken with regards to its fossil fuel investments. On the heels of a multi-million dollar rebrand—we decided to parody this brand campaign to create something resonant (and viral).",
+            "challenge": "Capturing the energy and interest of a student body who had come to expect very little from McGill—and the activism that was so often lobbied against it.",
+            "dotstrip": "Capture the energy and interest of a disillusioned student body.",
+            "approach": "We did a parody of their famous “Made by McGill” campaign—called Paid by McGill. Within 24 hours of its release it had 50,000+ views on Facebook and was going viral within the community.",
+            "execution": "The video was made with the help of students who are passionate about a climate action.",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
+                "type": "vimeo",
                 "media": ""
             }
         ],
@@ -2075,35 +2071,35 @@
         },
         "isBlack": true,
         "path": "/seize",
-        "color1": "",
-        "color2": "",
+        "color1": "#7D1417",
+        "color2": "#7D1417",
         "name": "SEIZE",
-        "title": "",
+        "title": "Reconciling socialism and entrepreneurship...with web design.",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
-        "year": "2021",
+        "year": "2022",
         "disciplines": [
-            "",
-            ""
+            "Copywriting",
+            "Web Design",
+            "Web Development"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "img",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339230/case-studies%202023/SEIZE%20Website/Seize-Header_c81brn.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340519/case-studies%202023/_MobileHeaders/SEIZE_mrrark.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "img",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339229/case-studies%202023/SEIZE%20Website/Seize-1_f2ynfr.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "The Social Economy Incubator Zone (SEIZE) works with cooperative businesses in Montreal—helping them grow into strategically important industries so that they can displace profit-hungry mega-corporations. They reached out to us to upgrade their website based on a renewed vision and funding base.",
+            "challenge": "We wanted to build a very eclectic website that still told the story of SEIZE. One that was visually unique, while being narratively clear.",
+            "dotstrip": "Build something eclectic, unique, and very clear for users.",
+            "approach": "We pulled from resistance art work and mid-20th century advertisements to come up with a scrapbooktype visual direction.",
+            "execution": "We built a clear but eclectic story about the vision that SEIZE has for the world and the way that their programs feed into that vision. Ultimately, we set it up on WordPress so they could edit it down the line.",
             "outcome": ""
         },
         "gallery": [
