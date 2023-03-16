@@ -2269,7 +2269,7 @@
     "alchemy": {
         "portfolio": {
             "thumb": "",
-            "blurb": "Website"
+            "blurb": "Strategy, Brand and Website"
         },
         "seo": {
             "title": "",
@@ -2277,50 +2277,81 @@
         },
         "isBlack": true,
         "path": "/alchemy",
-        "color1": "",
-        "color2": "",
+        "color1": "#063D74",
+        "color2": "#063D74",
         "name": "Alchemy Group",
-        "title": "",
+        "title": "Bringing out the magic that animates The Alchemy Group.",
         "foci": [
-            "",
-            ""
+            "Social Innovation"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Strategy",
+            "Visual Branding",
+            "Copywriting",
+            "Web Design",
+            "Web Development"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338916/case-studies%202023/Alchemy/Alchemy_Header_mqynzi.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/Alchemy_p4d44l.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338916/case-studies%202023/Alchemy/Alchemy_Cards_eehkdf.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "Alchemy Group is a strategy and JEDI consulting group for nonprofits in Canada. Led by two seasoned nonprofit executives—Alchemy Group wanted a brand + website that reflected their experience, commitment to justice, and the little bit of magic that they bring to every engagement.",
+            "challenge": "How do we scream “professional” and “experienced” while staying away from the classic consulting look. Ok, that’s one thing. Now, how do we bring a little bit of magic into the whole vibe?",
+            "dotstrip": "Impress nonprofits with a look that’s professional and just a little bit magical.",
+            "approach": "We started by digging deep with the Alchemy Group team. Two in-depth discovery sessions informed the Brand Strategy work that we set up. From that, we built out a positioning document—breaking down all of the core messaging that they’d use throughout the website and sales materials. From there, we wrote copy and developed the visual brand. Inspired by a mix of consulting benchmarks and tarot card visuals—the visual brand became a refined, lineal, world that was—well—a little professional and little magical. From there we designed and developed the website.",
+            "execution": "We delivered the Web Copy and Visual Brand to the clients—and went from there. At that point, we began designing a website that would attract new clients and explain service offerings to old ones. We also developed several core sales collaterals.",
             "outcome": ""
         },
         "gallery": [
+           {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338915/case-studies%202023/Alchemy/Alchemy_Colours_jrbiie.png"
+            },
             {
-                "type": "",
-                "media": ""
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338915/case-studies%202023/Alchemy/Alchemy_Logo2_yyhv4c.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338915/case-studies%202023/Alchemy/Alchemy_Logo1_peiyw7.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338915/case-studies%202023/Alchemy/Alchemy_Logo3_ewci3b.png"
+                    }
+                ]
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
-            }
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338916/case-studies%202023/Alchemy/Alchemy_Phones_nad8y0.png",
+                "title": "Brand Redesign",
+                "blurb": "We provided a new brand with new assets, a set of brand guidelines, and tone/voice guidelines for the team. These would be implemented on social and the website."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338916/case-studies%202023/Alchemy/Alchemy_Ipad_bbjkpz.png",
+                "title": "Web Design",
+                "blurb": "We designed a whole new website for the Alchemy Group that would explain and sell their services to prospective clients."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338916/case-studies%202023/Alchemy/Alchemy_Ipad_bbjkpz.png",
+                "title": "Brand Activation",
+                "blurb": "We designed a whole new website for the Alchemy Group that would explain and sell their services to prospective clients."
+            } 
         ],
         "gallery2": ""
     },
