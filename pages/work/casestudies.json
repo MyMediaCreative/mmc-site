@@ -2104,7 +2104,7 @@
         },
         "gallery": [
             {
-                "type": "twoImg",
+                "type": "threeImg",
                 "media": [
                     {
                         "type": "image",
@@ -2113,6 +2113,10 @@
                     {
                         "type": "image",
                         "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339230/case-studies%202023/SEIZE%20Website/Stamp_2_mhz7zk.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339231/case-studies%202023/SEIZE%20Website/Stamp_1_omtpmv.png"
                     }
                 ]
             },
@@ -2361,46 +2365,44 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "SoMM",
             "desc": ""
         },
         "isBlack": true,
         "path": "/somm",
-        "color1": "",
-        "color2": "",
+        "color1": "#894F94",
+        "color2": "#894F94",
         "name": "SoMM",
-        "title": "",
+        "title": "Bringing the joy of music into every classroom.",
         "foci": [
-            "",
-            ""
+            "Arts & Culture"
         ],
-        "year": "2021",
+        "year": "2020",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338803/case-studies%202023/SOMM/SOMM-Header_kxoexq.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340520/case-studies%202023/_MobileHeaders/SOMM_bnopiq.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The School of Music Montreal (SoMM) approached us to make a promotional video that would share the great work they’ve done, and attract new volunteer music teachers for their programs. We decided to spend a day with volunteers and kids in the classroom—capturing the magic of music, and how it can really help people grow.",
+            "challenge": "The challenge was capturing the true joy that we saw emanating from the teachers and students alike as they dug into the love of music together. We were really hoping that this emotion would show up on video, and that audiences could feel like they were genuinely in the room—learning and laughing.",
+            "dotstrip": "Make sure the joy of learning music showed up on video.",
+            "approach": "The approach was simple: sit with the kids and teachers for a couple hours. Act like flies on the wall, capturing the little moments that make up the growth and development of an interest (and a person). The outcome spoke for itself: a beautifully shot video, set to the tune of Heart and Soul, and filled to the brim with the joy of music and learning.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338803/case-studies%202023/SOMM/SOMM-1_rwyssp.png"
             }
         ],
         "LR": [
@@ -2419,46 +2421,58 @@
             "blurb": "Branding"
         },
         "seo": {
-            "title": "",
+            "title": "Koop",
             "desc": ""
         },
         "isBlack": true,
         "path": "/koop",
-        "color1": "",
-        "color2": "",
+        "color1": "#8E1D1D",
+        "color2": "#8E1D1D",
         "name": "Koop",
-        "title": "",
+        "title": "Selling sustainable fashion to the buy-new generation.",
         "foci": [
-            "",
-            ""
+            "Sustainable Business"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Strategy",
+            "Brand Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338698/case-studies%202023/Koop/Koop-Header_apsf71.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340520/case-studies%202023/_MobileHeaders/Koop_eageit.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338699/case-studies%202023/Koop/Koop-1_kgbvne.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "Koop is a clothing resale marketplace that wants to make re-selling simple and reliable for the every day consumer. A lot of people aren’t connected to the culture of re-selling and sustainable fashion. Koop’s job is to bring those folks into the circular economy. They approached us to help them develop a visual and written brand for their marketing growth initiatives.",
+            "challenge": "How do we make an eco-friendly brand that leaves all of the “holier than-thou” tendencies of sustainability and fashion culture behind? How do we make something that a re-sale marketplace can grow into—speaking across generations and product categories?",
+            "dotstrip": "Make an eco-friendly brand that leaves “holier-than-thou” sustainability culture behind.",
+            "approach": "We benchmarked other major re-sale market places and fashion brands that were speaking to the broad audience that we wanted to connect to. From there, we looked at sustainability oriented brands and content creators to discover a visual (and written) approach that would break down barriers to sustainability for our customers while getting them excited about taking part in an important movement.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
+           {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338698/case-studies%202023/Koop/Koop-2_k6mjqk.png"
+            },
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-3_sibtc5.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-4_f1p4t7.png"
+                    }
+                ]
             }
         ],
         "LR": [
@@ -2477,46 +2491,44 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "Thrive",
             "desc": ""
         },
         "isBlack": true,
         "path": "/thrive",
-        "color1": "",
-        "color2": "",
+        "color1": "#79A648",
+        "color2": "#79A648",
         "name": "Thrive",
-        "title": "",
+        "title": "Welcoming folks with chronic pain & illness into a supportive community.",
         "foci": [
-            "",
-            ""
+            "Health and Wellness"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Visual Branding"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338867/case-studies%202023/Thrive/Thrive-header_nxggwq.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/Thrive_tpuvan.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338867/case-studies%202023/Thrive/Thrive-logo_kvubv3.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Thrive Collective is a community for people living with chronic illness and chronic pain. They approached us to develop a brand that reflected their renewed commitment to providing robust programs and resources —while evoking a warmth that would make their community feel comfortable bringing their whole selves. They believe that, with mutual support, people with chronic pain and illness can thrive. We built a brand that reflected that belief.",
+            "challenge": "The core challenge was figuring out how to represent the idea of thriving in community as opposed to focusing on medical imagery that might immediately evoke the idea of illness and pain. And, like many nonprofits, they wanted to strike that perfect balance between professional and warm: demonstrating their commitment to program delivery and community development.",
+            "dotstrip": "Express the idea of a “thriving” community and avoid medical imagery.",
+            "approach": "We engaged with people who live with a chronic illness or chronic pain—trying to understand the emotional journey that they go through. We thought a lot about metaphors that reflected this emotional journey—and iterated with those living with a chronic illness/chronic pain to land on something resonant.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338867/case-studies%202023/Thrive/Thrive-phones_qplilf.png"
             }
         ],
         "LR": [
@@ -2535,46 +2547,44 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "MealCare",
             "desc": ""
         },
         "isBlack": true,
         "path": "/mealcare",
-        "color1": "",
-        "color2": "",
+        "color1": "#259B3F",
+        "color2": "#259B3F",
         "name": "MealCare",
-        "title": "",
+        "title": "Introducing the world the work of MealCare.",
         "foci": [
-            "",
-            ""
+            "Food Security"
         ],
-        "year": "2021",
+        "year": "2019",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338712/case-studies%202023/MealCare/Mealcare1_wnfoxw.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340508/case-studies%202023/_MobileHeaders/Mealcare_lkr67u.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "MealCare diverts food waste from large institutions, and makes sure that it gets into the hands of people that need it. In our video, we focused on the process of collecting excess food from university dining halls and getting it to a local Montreal food bank.",
+            "challenge": "Engage new volunteers and solicit donations for a youth-led organization that had an innovative approach to fighting hunger.",
+            "dotstrip": "Engage new volunteers and donors through a compelling video.",
+            "approach": "We made it feel like an action movie. Our goal was to show how impactful, but also how cool, it could be to work with MealCare. We went out on a trip with them, captured the work that they were doing, and cut it together into a short clip that really evoked momentum and action.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338712/case-studies%202023/MealCare/Mealcare2_zsz3sp.png"
             }
         ],
         "LR": [
