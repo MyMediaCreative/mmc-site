@@ -1957,12 +1957,12 @@
             "title": "POP Montreal",
             "desc": ""
         },
-        "isBlack": false,
+        "isBlack": true,
         "path": "/pop",
         "color1": "#f46b33",
         "color2": "#f46b33",
         "name": "POP Montréal",
-        "title": "",
+        "title": "POP Montréal",
         "foci": [
             "Arts and Culture"
         ],
@@ -2070,7 +2070,7 @@
             "desc": ""
         },
         "isBlack": true,
-        "path": "/seize",
+        "path": "/seizewebsite",
         "color1": "#7D1417",
         "color2": "#7D1417",
         "name": "SEIZE",
@@ -2104,8 +2104,21 @@
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339229/case-studies%202023/SEIZE%20Website/Stamp_3_gpqjfi.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339230/case-studies%202023/SEIZE%20Website/Stamp_2_mhz7zk.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339230/case-studies%202023/SEIZE%20Website/Seize-2_g26br4.png"
             }
         ],
         "LR": [
@@ -2124,46 +2137,57 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "BSN & ISA",
             "desc": ""
         },
         "isBlack": true,
         "path": "/bsn",
-        "color1": "",
-        "color2": "",
-        "name": "BSN",
-        "title": "",
+        "color1": "#A82A2A",
+        "color2": "#A82A2A",
+        "name": "Black Students Network and Indigenous Students Alliance",
+        "title": "Exposing the history of slavery at McGill University.",
         "foci": [
-            "",
-            ""
+            "Social Justice"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
+            "type": "img",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338931/case-studies%202023/BSN/BSN-Header_atjevc.png",
             "mobile": "",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338931/case-studies%202023/BSN/BSN-Header_atjevc.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "We worked with McGill’s Black Students’ Network and Indigenous Students’ Alliance to produce a documentary about the history of slavery in Montreal and at McGIll specifically. Based on a report published by a team led by Prof. Charmaine Nelson called the “Bicentenary Report”.",
+            "challenge": "How do we pack years worth of historical research into an 8-minute documentary that is both comprehensive in its understanding, but engaging in its approach.",
+            "dotstrip": "Pack years of historical research into an 8-minute documentary.",
+            "approach": "We approached members of the team that had written the report for interview. We engaged deeply with the source material, and did our own research beyond that. From there—we wrote a script that could narrate us through the history. It would bridge gaps between interviews and data.",
+            "execution": "We made the documentary—pulling from a mix of Vox-style and Netflix-inspired aesthetics, stock images, and interviews. Overall it was relased by the BSN and ISA to 25,000+ views. It was shown in classrooms and stimulated discussions on campus.",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338930/case-studies%202023/BSN/BSN_1_msqiws.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338930/case-studies%202023/BSN/BSN_2_prptae.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338930/case-studies%202023/BSN/BSN_3_j1jc1g.png"
             }
         ],
         "LR": [
