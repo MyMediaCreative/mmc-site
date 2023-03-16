@@ -2156,7 +2156,7 @@
         "header": {
             "type": "img",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338931/case-studies%202023/BSN/BSN-Header_atjevc.png",
-            "mobile": "",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/BSN_kk4roy.png",
             "mobilePos": "center"
         },
         "mainMedia": {
@@ -2203,49 +2203,57 @@
     "sherpa": {
         "portfolio": {
             "thumb": "",
-            "blurb": ""
+            "blurb": "Design"
         },
         "seo": {
-            "title": "",
+            "title": "McGill University & SHERPA",
             "desc": ""
         },
         "isBlack": true,
         "path": "/sherpa",
-        "color1": "",
-        "color2": "",
-        "name": "SHERPA",
-        "title": "",
+        "color1": "#FC7455",
+        "color2": "#FC7455",
+        "name": "McGill University and the SHERPA Institute",
+        "title": "Empowering international policymakers with clear data on childcare.",
         "foci": [
-            "",
-            ""
+            "Eduction",
+            "Civic Engagement"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Graphic Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338788/case-studies%202023/SHERPA/Sherpa-Header_r9cqim.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340521/case-studies%202023/_MobileHeaders/Sherpa_rnuitk.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338787/case-studies%202023/SHERPA/Sherpa-1_dnyc8q.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "McGill University and the SHERPA Institute have been doing research on the diverse approaches to childcare across the world—and how various policy decisions affect those approaches. The partners approached us to take their research work and spin it into something clear, beautiful, and accessible to a range of international policymakers that they would be distributing it to.",
+            "challenge": "How do we fit years of data on various policies and outcome onto one sheet? Then, how do we make that replicable 44 times? Our job was to take the data and figure out how to best tell its story and present it to busy folks. On top of that, we had to make it editable and replicable by the SHERPA team.",
+            "dotstrip": "Create a concise visual presentation of complex data on global childcare policies.",
+            "approach": "We pulled out key data points that we thought were highly relevant, and organized them into several sections. The most powerful expression of the data was the timeline. It was designed so that you could see the impact that various policies had on childcare practice outcomes.We ended up with 44 country profiles that were editable by the SHERPA team.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338787/case-studies%202023/SHERPA/Sherpa-2_qbhtmd.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338786/case-studies%202023/SHERPA/Sherpa-3_lhmfnt.png"
+                    }
+                ]
             }
         ],
         "LR": [
