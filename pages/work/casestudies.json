@@ -514,7 +514,7 @@
     },
     "propelimpact": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340171/case-studies%202023/Propel%20Impact/Propel-Cover_tgunq1.png",
+            "thumb": "",
             "blurb": "Branding"
         },
         "seo": {
@@ -616,16 +616,85 @@
         ],
         "gallery2": ""
     },
+    "mino": {
+        "portfolio": {
+            "thumb": "",
+            "blurb": "Branding"
+        },
+        "seo": {
+            "title": "Mino Care",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/minocare",
+        "color1": "#531642",
+        "color2": "#531642",
+        "name": "Mino Care",
+        "title": "Better perinatal care for racialized parents in Toronto.",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Brand Strategy",
+            "Brand Design",
+            "Web Design",
+            "Copywriting"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340143/case-studies%202023/Mino/Mino-Header_uylzix.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340523/case-studies%202023/_MobileHeaders/Mino_gmkwrd.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340144/case-studies%202023/Mino/Mino-1_yzbqkc.png"
+        },
+        "numContent": {
+            "intro": "Mino is a social enterprise that provides culturally-safe perinatal care options to racialized parents in Toronto, free of charge. They approached us in 2022 as Mommy Monitor. To go along with their new name, they wanted to undertake a rebrand and design a new website.",
+            "challenge": "Mino has a ton of ambition, and their digital presence simply didn’t reflect that. That’s why they approached us to develop a brand that would not only speak to their current patients—but also allow them to grow unencumbered.",
+            "dotstrip": "Position Mino for long term growth into new markets and service areas.",
+            "approach": "We decided to pursue a very human approach. We researched comparators and listened to the story that the Mino team wanted to tell through their brand. Inspired by the Dahomey Amazons, the Mino team wanted a presence that highlighted the power of the people they served.",
+            "execution": "With plenty of input from the Mino, we went ahead with the development of a brand. Once this was approved, we built out a robust website that covered dozens of service areas, highlighted Mino’s digital product, and could host the wealth of educational content that the Mino team had for their audience.",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-2_wo5lcr.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340141/case-studies%202023/Mino/Mino-4_rg74gi.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340139/case-studies%202023/Mino/Mino-Brand_ooqmtx.png",
+                "title": "Branding",
+                "blurb": "Inspired by the stories of the Dahomey Amazon—this brand is simple and human. Earthy tones avoid the overly sanitized feel of many healthcare companies. Clean type and imagery evokes the professionalism that you would want from any care provider."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-Website_b6broq.png",
+                "title": "Website",
+                "blurb": "Inspired by comparators in the healthcare industry, this website provides a seamless route to care for parents and explains the unique offerings that Mino brings to the table."
+            }
+        ],
+        "gallery2": ""
+    },
     "theharbour": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "thumb": "",
             "blurb": "Campaign"
         },
         "seo": {
             "title": "Climate Warriors",
             "desc": ""
         },
-        "isBlack": false,
+        "isBlack": true,
         "path": "/climatewarriors",
         "color1": "#E26D4E",
         "color2": "#E26D4E",
@@ -666,7 +735,7 @@
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Cover_hqquuy.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-1_zq0rle.png"
                     },
                     {
                         "type": "image",
@@ -703,6 +772,302 @@
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-5_vsqwnc.png"
             }
             ]
+    },
+     "chailifeline": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "blurb": "Campaign"
+        },
+        "seo": {
+            "title": "Chai Lifeline",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/chailifeline",
+        "color1": "#A0BA46",
+        "color2": "#A0BA46",
+        "name": "Chai Lifeline",
+        "title": "Community support for families facing childhood illness.",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Campaign Strategy",
+            "Copywriting",
+            "Video",
+            "Graphic Design"
+            
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339993/case-studies%202023/Chai%20Lifeline/ChaiLifeline-Cover_mruin9.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340515/case-studies%202023/_MobileHeaders/Chai_ittdvn.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339993/case-studies%202023/Chai%20Lifeline/ChaiLifeline-Main_pylwvr.png"
+        },
+        "numContent": {
+            "intro": "Chai Lifeline Canada provides support for families facing childhood illness. They approached us about running an awareness campaign for families in Montreal—with the goal of ensuring that as many people in the local community knew about their free services as possible.",
+            "challenge": "How do we target such a particular audience in a way that actually connects, as opposed to being overly depressing or unrealistically optimistic?",
+            "dotstrip": "Find a balance between optimism and honesty.",
+            "approach": "We decided to let experiences with childhood illness inform our approach. We interviewed people and laid out a narrative that would speak to the unique, but shared, struggles of parents whose children were face to face with childhood illness.",
+            "execution": "In order to diversify our ad spend, we made videos and static placements for sharing across Google, YouTube, and Facebook. We bolstered that with a search campaign that would feed us data for retargeting.",
+            "outcome": ""
+        },
+        "gallery": [
+           {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339992/case-studies%202023/Chai%20Lifeline/Chai-1_fxjyhr.png"
+                    },
+                    {
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340044/case-studies%202023/Chai%20Lifeline/Video-1_rwotdp.mp4"
+                    }
+                ]
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339994/case-studies%202023/Chai%20Lifeline/Chai-2_h3pyqf.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340038/case-studies%202023/Chai%20Lifeline/Video-2_tlv7te.mp4"
+                    }
+                ]
+            } 
+        ],
+        "LR": [
+            {
+                "type": "loop",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Platform_d0ryie.png",
+                "title": "Video",
+                "blurb": "We made short video ads that were targeted to different audiences based on their content."
+            },
+            {
+                "type": "image",
+                "media": "https://vimeo.com/763603161",
+                "title": "Static Ads",
+                "blurb": "We made a litany of static advertisements that pulled on the core themes of the videos, and were designed for retargeting."
+            }
+        ],
+        "gallery2": ""
+    },
+    "signalytic": {
+        "portfolio": {
+            "thumb": "",
+            "blurb": "Strategy"
+        },
+        "seo": {
+            "title": "Signalytic",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/signalytic",
+        "color1": "#4AA35E",
+        "color2": "#4AA35E",
+        "name": "Signalytic",
+        "title": "Digital infrastructure for remote health centres in Uganda.",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Brand Strategy",
+            "Copywriting",
+            "Web Design"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340233/case-studies%202023/Signalytic/Signalytic-Header_x4gses.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/Signalytic_akahzu.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340448/case-studies%202023/Signalytic/Signalytic-1_wfeo2y.png"
+        },
+        "numContent": {
+            "intro": "Signalytic is building digital infrastructure that will help bring the most remote rural healthcare centres online. With a specific focus on drug-stock data, Signalytic has created a solar-powered system that allows remote health facilities to collect and share crucial digital information—even when they don’t have power or internet connection. As they expanded their operation, they approached us to help define their Brand and set up a digital presence.",
+            "challenge": "Signalytic is a deeply complex product that operates within a very complex market. Understanding the particulars of Signalytic and transforming that into a compelling high-level narrative was a real analytical challenge.",
+            "dotstrip": "Streamline a deeply complex product—market interaction into a simple narrative.",
+            "approach": "It all started with rigorous market and product research. Digging into the specifics of how the technology is designed and sold into a complex multi-actor market. From there, it was about landing on a clear narrative that would capture what Signalytic does. We landed on the idea of digital infrastructure, which reflected language used in the market as well as the foundational role Signalytic plays in bringing remote healthcare centres online.",
+            "execution": "With this narrative in hand, we went ahead with the development of a website that would speak to buyers in a comprehensible, and convincing, way. We wanted to avoid big words like ‘revolutionizing’ and ‘disrupting’. Our goal was to share Signalytic’s down to earth and impact-focused nature. Ultimately, that meant deeply simple language and human-focused design.",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340235/case-studies%202023/Signalytic/Signalytic-2_gev4hu.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340232/case-studies%202023/Signalytic/Signalytic-Website_xoqdlu.png",
+                "title": "Website",
+                "blurb": "Filled with human stories, video clips, and mobile phone images—we built a website that brings the user onto the ground with Signalytic."
+            }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340234/case-studies%202023/Signalytic/Signalytic-3_wfwyq0.png"
+            }
+        ],
+    },
+      "lafiya": {
+        "portfolio": {
+            "thumb": "",
+            "blurb": "Video"
+        },
+        "seo": {
+            "title": "Lafiya Nigeria",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/lafiyanigeria",
+        "color1": "#31325E",
+        "color2": "#31325E",
+        "name": "Lafiya Nigeria",
+        "title": "Family planning in rural Nigeria..",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Video Production"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340111/case-studies%202023/Lafiya/Lafiya-Header_pky6cg.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340520/case-studies%202023/_MobileHeaders/Lafiya_cbbtlx.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "vimeo",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "Lafiya Nigeria provides family-planning support to communities in rural Nigeria. In collaboration with local caregivers, they deploy an effective and under-utilized form of contraception that meets the unique needs of their target community. Ahead of a major public launch and fundraising push, they approached us to create a video that would tell their story and highlight their solution.",
+            "challenge": "How do you capture the unique nature of this approach in a way that will immediately speak to funders? There are many people on the ground in places like Nigeria attempting to provide healthcare support, so what makes Lafiya’s approach necessary?",
+            "dotstrip": "Explain why Lafiya’s approach is necessary in an overcrowded ecosystem.",
+            "approach": "The idea of creating a Vox-style explainer video immediately sprung to mind. The format has a history of capturing and keeping people’s attention, while capturing very complex concepts. It also works to blend human stories with rich data—which was crucial for Lafiya.",
+            "execution": "With guidance from the Lafiya team, we created an explainer video that would treat the situation with the necessary empathy and intellectual rigour—while speaking to funders about the unique approach Lafiya was bringing to the table.",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340111/case-studies%202023/Lafiya/Lafiya-2_zskbjk.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340110/case-studies%202023/Lafiya/Lafiya-1_uhdkjy.png"
+                    }
+                ]
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340110/case-studies%202023/Lafiya/Lafiya-3_rpe7tn.png",
+                "title": "Video",
+                "blurb": "Inspired by Vox, our explainer video blended on the ground photos, collage, and animation to bring Lafiya’s work in the field to life."
+            }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340110/case-studies%202023/Lafiya/Lafiya-4_lzx49p.png"
+            }
+            ]
+    },
+       "ccc": {
+        "portfolio": {
+            "thumb": "",
+            "blurb": "Website"
+        },
+        "seo": {
+            "title": "Community Climate Council",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/ccc",
+        "color1": "#6FCCA1",
+        "color2": "#6FCCA1",
+        "name": "Community Climate Council",
+        "title": "Local action for a more habitable planet.",
+        "foci": [
+            "Environment"
+        ],
+        "year": "2023",
+        "disciplines": [
+            "Brand Design",
+            "Web Design"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-Header_smqu0r.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CCC_awead4.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-1_ufaiep.png"
+        },
+        "numContent": {
+            "intro": "The Community Climate Council (CCC) supports local climate and environmental action in Ontario—with a focus on mobilizing and educating young people for a more habitable planet. They approached us about refining their existing brand and building a website that would speak to their important work.",
+            "challenge": "The goal was to create a website that would engage volunteers from all age-groups despite the youth-led nature of the organization.",
+            "dotstrip": "Mobilize volunteers across the age spectrum for climate action.",
+            "approach": "We started by refining the brand that the CCC already had in place—adding some colours and fleshing out the visual style with typography and imagery. From there, we built a simple website that spoke to potential volunteers.",
+            "execution": "The website featured many on the ground photos from climate action strikes that the CCC has run before, and is littered with CTAs that will drive volunteers to the organization.",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339633/case-studies%202023/CCC/CCC-3_yx0sxl.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-2_b482da.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-4_phkgen.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339633/case-studies%202023/CCC/CCC-Website_yjkz8x.png",
+                "title": "Website",
+                "blurb": "We built a simple, clean, website that would drive new volunteers to the organization."
+            }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-5_lnkdd6.png"
+            }
+        ],
     },
     "cera": {
         "portfolio": {
