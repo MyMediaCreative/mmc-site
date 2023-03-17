@@ -512,6 +512,198 @@
         ],
         "gallery2": ""
     },
+    "propelimpact": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340171/case-studies%202023/Propel%20Impact/Propel-Cover_tgunq1.png",
+            "blurb": "Branding"
+        },
+        "seo": {
+            "title": "Propel Impact",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/propelimpact",
+        "color1": "#025753",
+        "color2": "#025753",
+        "name": "Propel Impact",
+        "title": "Experiential learning for the impact-driven economy.",
+        "foci": [
+            "Social Innovation",
+            "Education"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Brand Strategy",
+            "Brand Design",
+            "Web Design",
+            "Copywriting",
+            "Campaign Strategy",
+            "Video"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340171/case-studies%202023/Propel%20Impact/Propel-Cover_tgunq1.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340521/case-studies%202023/_MobileHeaders/PropelImpact_jo18wa.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340168/case-studies%202023/Propel%20Impact/Propel-Main_i2sw9f.png"
+        },
+        "numContent": {
+            "intro": "Propel Impact is Canada’s largest experiential learning platform for social innovation and social finance. As part of the merger between Social Innovation Academy and the National Social Value Fund, we were approached to define and launch the new brand that would support the new organization.",
+            "challenge": "How do we build a brand that captures the essence of both Social Innovation Academy and the National Social Value Fund—building a narrative bridge between the two organizations that would speak to alumni, participants, and funders?",
+            "dotstrip": "Build a brand that brought together two long-standing organizations.",
+            "approach": "We employed a very user-research led approach to our work with Propel Impact. We began with rigorous reviews of their existing brands, communications, and programs. From there, we ran a survey and spoke to several alumni. It was on this research foundation that we were able to build a brand narrative that we knew would help Propel Impact make an important statement in the sector.",
+            "execution": "With a strong brand strategy in hand, we were able to build a visual brand that really spoke to a young, diverse, audience of potential social innovators. We created something vibrant, but professional. It effectively blended visual inspiration from more progressive corporate brands with elements from grassroots social change organizations. We were off to the races.",
+            "outcome": ""
+        },
+        "gallery": [
+           {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Propel-1_arwxjz.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Propel-2_clcyha.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340170/case-studies%202023/Propel%20Impact/Propel-3_dzpvvc.png"
+            },
+             {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Propel-4_zq7s7n.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340173/case-studies%202023/Propel%20Impact/Propel-5_uz4n3a.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340170/case-studies%202023/Propel%20Impact/Propel-6_ae32ls.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340168/case-studies%202023/Propel%20Impact/Branding_fhu3ty.png",
+                "title": "Branding",
+                "blurb": "We created a visual brand that spoke to the audience and set Propel Impact apart from its predecessors in a vibrant way."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Website_oh7wqr.png",
+                "title": "Website",
+                "blurb": "We built a very human website that we knew potential fellows would see themselves in."
+            },
+            {
+                "type": "loop",
+                "media": "",
+                "title": "Brand Activation",
+                "blurb": "To announce the brand to the world, we worked alongside the Propel Impact team to launch a week-long social media campaign that sparked a ton of interest in the sector."
+            }
+        ],
+        "gallery2": ""
+    },
+    "theharbour": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "blurb": "Campaign"
+        },
+        "seo": {
+            "title": "Climate Warriors",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/climatewarriors",
+        "color1": "#E26D4E",
+        "color2": "#E26D4E",
+        "name": "Foundation for Environmental Stewardship",
+        "title": "Helping young people find their purpose in the climate movement.",
+        "foci": [
+            "Environment"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Video",
+            "Web Design",
+            "Copywriting",
+            "Campaign Strategy"
+            
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Cover_hqquuy.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "vimeo",
+            "media": "https://vimeo.com/763619233"
+        },
+        "numContent": {
+            "intro": "In 2021, our team saw a statistic from Force of Nature: 74% of young people don’t know how to contribute to climate action. We thought that needed to change. We brainstormed ideas until coming up with one: what if we built a Myers-Briggs for the climate movement and tied in a set of documentaries to inspire youth?",
+            "challenge": "How do we undertake something this ambitious, effectively? We approached the Foundation for Environmental Stewardship with a proposal—and they eventually agreed to fund the creation of a platform for young people and a campaign to get that platform out there.",
+            "dotstrip": "Inspire youth to put their talents to work in the climate movement.",
+            "approach": "We decided that the platform needed a few things. Firstly, it needed to be fun and interesting. We worked for a while to create a quiz that engaged people, and effectively captured their personalities. Secondly, they needed to be connected to a way forward. So, we built tailored resource-packages, showed people documentaries about amazing activists, and provided them a clear call to action—all based on their quiz result.",
+            "execution": "Over six months, we consulted with 70+ climate leaders, collected 75+ resources, built an online platform from scratch, and produced four short documentaries about inspiring Canadian climate activists. In the end, 2000+ people took the quiz within a month and the documentaries have had an important impact on multiple campaigns being led by the activists we featured.",
+            "outcome": ""
+        },
+        "gallery": [
+           {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Cover_hqquuy.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-2_crp1nn.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-3_fu9z5r.png"
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-4_r8kpaz.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Platform_d0ryie.png",
+                "title": "The Platform",
+                "blurb": "We wanted to build something fun and unique. We worked to build a quiz over a few months, tried to write summaries that were rooted in real empathy, and employed a collage style to reference the history of movement-building that we wanted to help people fit themselves into."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/763603161",
+                "title": "Documentaries",
+                "blurb": "We travelled across the east coast, interviewing four brilliant climate activists. We covered Land Back initiatives, nature-based solutions to climate change, the social economy, and the importance of building deep connections with the earth."
+            }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-5_vsqwnc.png"
+            }
+            ]
+    },
     "cera": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733959/work/grid/CERA_Header_xyiid0.png",
