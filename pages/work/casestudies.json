@@ -3034,49 +3034,48 @@
     "pcp": {
         "portfolio": {
             "thumb": "",
-            "blurb": ""
+            "blurb": "Video"
         },
         "seo": {
-            "title": "",
+            "title": "Projet Communautaire de Pierrefonds-West Island",
             "desc": ""
         },
         "isBlack": true,
         "path": "/pcp",
-        "color1": "",
-        "color2": "",
-        "name": "PCP",
-        "title": "",
+        "color1": "#2FA0D0",
+        "color2": "#2FA0D0",
+        "name": "Projet Communautaire de Pierrefonds-West Island",
+        "title": "Celebrating 25 years of community support initiatives in Montreal’s West Island",
         "foci": [
-            "",
-            ""
+            "Food Security",
+            "Education"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Video Production"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339156/case-studies%202023/PCP/PCP-Header_cjugxd.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340522/case-studies%202023/_MobileHeaders/PCP_ihvnjf.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
+            "type": "vimeo",
             "media": ""
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The Projet Communautaire de Pierrefonds-West Island (PCPWI) has been supporting new immigrants and youth in their neighbourhood for more than 25 years. On the heels of a leadership overhaul and in celebration of their 25 year anniversary—PCPWI approached us to create a video that celebrated their accomplishments, and brought awareness to their programs.",
+            "challenge": "The challenge was balancing a reverence for the history of the organization, while painting a picture of the future that this new leadership team wanted to build with the community.",
+            "dotstrip": "Paying homage to the past while painting a picture of the future.",
+            "approach": "Our approach was simple: engage with various staff and recipients to tell the story of PCPWI’s impact on the community. With those interviews as the foundation of the narrative—we threaded in 25 years of photographs and videos that had been collected throughout the PCPWI’s history. The result is a beautiful piece of nostalgia that points forward in terms of PCPWI’s programming and approach.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339155/case-studies%202023/PCP/PCP-1_wvgbma.png"
             }
         ],
         "LR": [
@@ -3092,49 +3091,67 @@
     "digitalEra": {
         "portfolio": {
             "thumb": "",
-            "blurb": ""
+            "blurb": "Branding"
         },
         "seo": {
-            "title": "",
+            "title": "Digital Era",
             "desc": ""
         },
         "isBlack": true,
         "path": "/digitalera",
-        "color1": "",
-        "color2": "",
+        "color1": "#FF8C27",
+        "color2": "#FF8C27",
         "name": "Digital Era",
-        "title": "",
+        "title": "Building a brand that balanced tech and social good.",
         "foci": [
-            "",
-            ""
+            "Social Innovation",
+            "Tech for Good"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Brand Design",
+            "Copywriting",
+            "Web Design"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338945/case-studies%202023/DigitalEra/DigitalEra-Header_iblzvh.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/DigitalEra_vkzaai.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338948/case-studies%202023/DigitalEra/DigitalEra-04_dj6lil.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "Digital Era Management works with nonprofits to develop affordable technology products that they can bring to market with agility. They approached us about establishing a basic brand and website.",
+            "challenge": "We needed to build something that would speak as much to nonprofit leaders as it would business leaders. Digital Era Management’s client base ranges several sectors and service offerings. We needed to find a catch all balance that would work in these situations.",
+            "dotstrip": "Build a brand that would speak as much to nonprofit leaders as it would business leaders.",
+            "approach": "We benchmarked brands from the Tech-For-Good sector and crossed those influences with influence from the most bombastic and welcoming consulting brands in that sector. The output was what you see here.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338945/case-studies%202023/DigitalEra/DE_Billboard_amfpsr.png"
+            },
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338945/case-studies%202023/DigitalEra/DigitalEra-01_pxx8a2.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338945/case-studies%202023/DigitalEra/DigitalEra-02_a8bkpw.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338945/case-studies%202023/DigitalEra/DigitalEra-03_a2tonu.png"
+                    }
+                ]
             }
         ],
         "LR": [
@@ -3150,49 +3167,51 @@
     "mpa": {
         "portfolio": {
             "thumb": "",
-            "blurb": ""
+            "blurb": "Branding"
         },
         "seo": {
-            "title": "",
+            "title": "McGill Policy Association",
             "desc": ""
         },
         "isBlack": true,
         "path": "/mpa",
-        "color1": "",
-        "color2": "",
+        "color1": "#EC1E31",
+        "color2": "#EC1E31",
         "name": "McGill Policy Association",
-        "title": "",
+        "title": "Making policy exciting for people in every sector.",
         "foci": [
-            "",
-            ""
+            "Civic Engagement"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Visual Branding"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338727/case-studies%202023/MPA/MPA_Header_hgdwwr.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340508/case-studies%202023/_MobileHeaders/MPA_u89bud.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338725/case-studies%202023/MPA/MPA-1_soyn0g.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "The McGill Policy Association works across various disciplines and faculties to educate everyone on the vitality of shaping policy in any industry. They approached us to refresh their brand as they went into more ambitious ventures.",
+            "challenge": "The McGill Policy Association wanted to build a brand that could help them speak directly faculties, academics, and various policy leaders across Canada. It needed to evoke legitimacy. On top of that, we wanted it to reflect the cross-discipline approach that they take to policy analysis.",
+            "dotstrip": "Build a brand that could help the MPA operate amongst policy leaders and academics.",
+            "approach": "Using the McGill School of Public Policy as a benchmark—we built a slick brand that stood amongst the various institutions and leaders that the MPA wanted to work with.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338725/case-studies%202023/MPA/MPA-2_ztjtha.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338726/case-studies%202023/MPA/MPA-3_mgm8kj.png"
             }
         ],
         "LR": [
@@ -3211,54 +3230,80 @@
             "blurb": "Strategy"
         },
         "seo": {
-            "title": "",
+            "title": "MADA Gala",
             "desc": ""
         },
         "isBlack": true,
         "path": "/madagala",
-        "color1": "",
-        "color2": "",
+        "color1": "#F7BB26",
+        "color2": "#F7BB26",
         "name": "MADA Gala",
-        "title": "",
+        "title": "From broken hearts, to breaking bread.",
         "foci": [
-            "",
-            ""
+            "Anti-Poverty"
         ],
         "year": "2021",
         "disciplines": [
-            "",
-            ""
+            "Campaign Strategy",
+            "Copywriting",
+            "Campaign Design",
+            "Video"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339504/case-studies%202023/MADA%20Gala/MADA-Header_ggcvqf.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340505/case-studies%202023/_MobileHeaders/MADA2_lbnujx.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339503/case-studies%202023/MADA%20Gala/MADA-Billboard_ssbyky.png"
         },
         "numContent": {
-            "intro": "",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
-            "execution": "",
+            "intro": "The MADA Community Center, an anti-poverty organization based in Montreal, approached us to develop a visual brand, marketing, and videos for their annual Gala. The goal was to develop a unique style that would attract interest from high profile donors—all while being focused on the theme of the Gala: bread.",
+            "challenge": "The MADA Team was pretty set on a theme: bread. Of course, we needed to develop a line of messaging and a visual style that would speak to the high-profile nature of an event like this. The goal was to bring together leaders from across the community to support MADA in a major way. So our challenge was to do all of that—while building the messaging around the core theme: bread.",
+            "dotstrip": "Create messaging and a visual style that would interest high profile donors.",
+            "approach": "We worked through a couple ideas—but eventually came to the core idea: From Broken Hearts, To Breaking Bread. The story was clear: people had been isolated and hungry for the last year. COVID had kept people out of work and in their homes. MADA’s goal in the coming year was to bring people together. To, once again, break bread with the community they love. We ran with this theme of community, family, and hope throughout the rest of the project.",
+            "execution": "We threaded this messaging through several videos, placement ads, social posts, and pieces of individual collateral for the fundraising team to use.",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/Quote-1_frlicg.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/Quote-2_xelnpw.png"
+                    }
+                ]
+            }, 
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339503/case-studies%202023/MADA%20Gala/MADA-Sponsorship_a7u6bw.png"
             }
         ],
         "LR": [
             {
-                "type": "",
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/MADA-Messaging_kmlrps.png",
+                "title": "Messaging",
+                "blurb": "We developed core messaging points and several pieces of collateral for the MADA team— so that they could leverage this theme to raise money for the organization."
+            },
+            {
+                "type": "vimeo",
                 "media": "",
-                "title": "",
-                "blurb": ""
+                "title": "Video",
+                "blurb": "We made a video invitation that captured stories from the MADA community + the core messaging that we had laid out."
+            },
+            {
+                "type": "vimeo",
+                "media": "",
+                "title": "Ads",
+                "blurb": "From this messaging, we built out several advertisements and social media posts that highlighted the stories of volunteers, recipients, and donors in the MADA community."
             }
         ],
         "gallery2": ""
