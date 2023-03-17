@@ -2879,17 +2879,25 @@
         },
         "gallery": [
             {
-                "type": "twoLoop",
+                "type": "threeImg",
                 "media": [
                     {
-                        "type": "loop",
-                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338885/case-studies%202023/Walksafe/Tipsy_Animation_tvyb4u.mp4"
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-2_lqil5o.png"
                     },
                     {
-                        "type": "loop",
-                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338882/case-studies%202023/Walksafe/High_Animation_vwukun.mp4"
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-3_xzr1ej.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-4_se0ycg.png"
                     }
                 ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339039/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach5_gokilm.png"
             }
         ],
         "LR": [
@@ -3000,21 +3008,18 @@
         },
         "gallery": [
            {
-                "type": "threeImg",
+                "type": "twoImg",
                 "media": [
                     {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-3_xzr1ej.png"
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338885/case-studies%202023/Walksafe/Tipsy_Animation_tvyb4u.mp4"
                     },
                     {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-2_lqil5o.png"
-                    },
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339038/case-studies%202023/Ethical%20Coach%20-%20Wild/EthicalCoach-4_se0ycg.png"
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676338882/case-studies%202023/Walksafe/High_Animation_vwukun.mp4"
                     }
-                    
+                ]
+            }
         ],
         "LR": [
             {
