@@ -98,7 +98,7 @@
     },
     "greenpeace": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339317/case-studies%202023/Greenpeace/GP-Header_mjmuse.png",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680993908/work/grid/Greenpeace_lubpfv.png",
             "blurb": "Mobilizing 40,000+ people to protect Canadian biodiversity with "
         },
         "seo": {
@@ -375,9 +375,9 @@
             "Web Development"
         ],
         "header": {
-            "type": "",
-            "media": "",
-            "mobile": "",
+            "type": "loop",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1645638250/case-studies/AisB/AisB_Header_kb2j5u.mp4",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1646157232/case-studies/AisB/MOBILE_AisB_Header_ael2d1.png",
             "mobilePos": "center"
         },
         "mainMedia": {
@@ -514,7 +514,7 @@
     },
     "propelimpact": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/PropelImpact_hmn4xw.png",
             "blurb": "Branding"
         },
         "seo": {
@@ -618,7 +618,7 @@
     },
     "mino": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mino_wf1os7.png",
             "blurb": "Branding"
         },
         "seo": {
@@ -687,7 +687,7 @@
     },
     "theharbour": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/ClimateWarriors_yjqzey.png",
             "blurb": "Campaign"
         },
         "seo": {
@@ -775,7 +775,7 @@
     },
      "chailifeline": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Chai_kbylgc.png",
             "blurb": "Campaign"
         },
         "seo": {
@@ -863,7 +863,7 @@
     },
     "signalytic": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Signalytic_vnjiwj.png",
             "blurb": "Strategy"
         },
         "seo": {
@@ -926,7 +926,7 @@
     },
       "lafiya": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/Lafiya_yrtphr.png",
             "blurb": "Video"
         },
         "seo": {
@@ -1001,7 +1001,7 @@
         },
         "seo": {
             "title": "Community Climate Council",
-            "desc": ""
+            "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png"
         },
         "isBlack": false,
         "path": "/ccc",
@@ -1076,7 +1076,7 @@
         },
         "seo": {
             "title": "CERA",
-            "desc": ""
+            "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1645733959/work/grid/CERA_Header_xyiid0.png"
         },
         "isBlack": false,
         "path": "/cera",
@@ -1211,7 +1211,7 @@
     },
     "infaque": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1645638141/work/grid/Infaque_Header_yg68ju.png",
             "blurb": "Strategy"
         },
         "seo": {
@@ -1314,7 +1314,7 @@
     },
     "csi": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/CSI_stsnow.png",
             "blurb": "Strategy"
         },
         "seo": {
@@ -1476,7 +1476,7 @@
     },
     "culturalConnection": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/Cultural_Connection_y6hif4.png",
             "blurb": "Strategy"
         },
         "seo": {
@@ -1557,7 +1557,7 @@
     },
     "acgc": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/ACGC_k1dfha.png",
             "blurb": "Strategy"
         },
         "seo": {
@@ -1919,7 +1919,7 @@
     },
     "madaPassover": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MADA_asb1vd.png",
             "blurb": "Video"
         },
         "seo": {
@@ -2070,7 +2070,7 @@
     },
     "upstarted": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Upstarted_wpujju.png",
             "blurb": "Video"
         },
         "seo": {
@@ -2127,7 +2127,7 @@
     },
     "regeneration": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/ReGeneration_ylhe2g.png",
             "blurb": "Website"
         },
         "seo": {
@@ -2185,7 +2185,7 @@
     },
     "mpcc": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MPCC_eup33z.png",
             "blurb": "Website"
         },
         "seo": {
@@ -2317,7 +2317,7 @@
     },
     "repitHiring": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Repit2_rkr1cj.png",
             "blurb": "Video"
         },
         "seo": {
@@ -2402,7 +2402,7 @@
     },
     "hago": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/HAGO_btooen.png",
             "blurb": "Website"
         },
         "seo": {
@@ -2563,7 +2563,7 @@
     },
     "divest": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Divest_tqqexn.png",
             "blurb": "Video"
         },
         "seo": {
@@ -2619,7 +2619,7 @@
     },
     "seize": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Seize_2_u4kcxh.png",
             "blurb": "Website"
         },
         "seo": {
@@ -2694,7 +2694,7 @@
     },
     "bsn": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/BSN_crvunj.png",
             "blurb": "Video"
         },
         "seo": {
@@ -2763,7 +2763,7 @@
     },
     "sherpa": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Sherpa_rfqn6k.png",
             "blurb": "Design"
         },
         "seo": {
@@ -2829,7 +2829,7 @@
     },
     "alchemy": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/Alchemy_qhpsfn.png",
             "blurb": "Strategy, Brand and Website"
         },
         "seo": {
@@ -2918,7 +2918,7 @@
     },
     "somm": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/SOMM_gzlmpf.png",
             "blurb": "Video"
         },
         "seo": {
@@ -2974,7 +2974,7 @@
     },
     "koop": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/Koop_mrc1od.png",
             "blurb": "Branding"
         },
         "seo": {
@@ -3044,7 +3044,7 @@
     },
     "thrive": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Thrive_lperph.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3100,7 +3100,7 @@
     },
     "mealcare": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mealcare_jiutoh.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3212,7 +3212,7 @@
     },
     "boabf": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680988816/work/grid/BoBF_lvalso.png",
             "blurb": "Strategy"
         },
         "seo": {
@@ -3270,7 +3270,7 @@
     },
     "homie": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Homie_okfe16.png",
             "blurb": "Branding"
         },
         "seo": {
@@ -3339,7 +3339,7 @@
     },
     "storyplanet": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/StoryPlanet_mzahob.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3395,7 +3395,7 @@
     },
     "ecwild": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/EthicalCoach-Wild_cf1kas.png",
             "blurb": "Report Design"
         },
         "seo": {
@@ -3469,7 +3469,7 @@
     },
     "repitEmployee": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Repit1_cwf8lj.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3525,7 +3525,7 @@
     },
     "walksafe": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Walksafe_xxu0gr.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3590,7 +3590,7 @@
     },
     "pcp": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/PCP_ipms1q.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3647,7 +3647,7 @@
     },
     "digitalEra": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/DigitalEra_kiuugo.png",
             "blurb": "Branding"
         },
         "seo": {
@@ -3723,7 +3723,7 @@
     },
     "mpa": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MPA_gywnzx.png",
             "blurb": "Branding"
         },
         "seo": {
@@ -3783,7 +3783,7 @@
     },
     "madaGala": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MADA2_hwej7m.png",
             "blurb": "Strategy"
         },
         "seo": {
