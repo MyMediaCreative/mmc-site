@@ -18,8 +18,8 @@ const Home = ({ homepage }) => {
     desc: <>Imagining headlines <br/>from a better future with<br/></>,
     vid:  "https://res.cloudinary.com/mymediacreative/video/upload/v1659119710/home/CSI_Homepage_Banner_gmn5vc.mp4",
     link: "csi",
-    mobile: "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CSI_gica4q.png",
-    mobilePosition: "88%",
+    mobile: "https://res.cloudinary.com/mymediacreative/image/upload/v1684779897/home/Mobile_CSI_xlystz.png",
+    mobilePosition: "50%",
   };
   let mada    = {
     name: "MADA",
