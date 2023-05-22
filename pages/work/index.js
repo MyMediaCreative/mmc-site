@@ -75,7 +75,7 @@ export default function Work ({ }) {
         </div>
         <div className="midline-line"> </div>
         <div className="midline-subtitle">
-          <h5>You put your heart into making your <br /> communities, and the world, better. <br /> You deserve to work with people who <br /> <span className="dorange"> do the same.</span></h5>
+          <h5>You put your heart into making your <br /> communities, and the world, better. <br /> You deserve to work with people who <br /> <span className="dorange"> do the same.</span></h5>
         </div>
       </div>
 
