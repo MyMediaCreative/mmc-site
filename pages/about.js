@@ -25,7 +25,7 @@ const About = () => {
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_500/v1646092416/about/Yunjie_2_fkedl4.png",
                     li: "https://www.linkedin.com/in/yunjiezhang/",
                     desc: <>Yunjie works with clients to create meaningful and delightful digital experiences.<br/><br/>She loves walking, thinking, learning, and pistachio ice cream.</> };
-    let kai     = { name: "Kai", pronouns: "(she/her)", title: "",
+    let kai     = { name: "Kai", pronouns: "(she/her)", title: "Strategist",
                     image: "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_500/v1646091920/about/Kai_2_rxdkd7.png",
                     li: "https://www.linkedin.com/in/kai-trotz-motayne-260123162/",
                     desc: <>Kai focuses on the implementation of digital media campaign strategy by understanding client goals and determining actions through strategic thinking and planning.<br/><br/>Kai loves travelling, reading, and creating unfinished playlists.</>,  };
