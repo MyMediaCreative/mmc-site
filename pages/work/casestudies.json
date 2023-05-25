@@ -2,7 +2,7 @@
     "mada": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_1000/v1645638116/work/MADA_v1_bn37vi.png",
-            "blurb": "Raising test $2 million to <br/>fight hunger with "
+            "blurb": "Raising $2 million to <br/>fight hunger with "
         },
         "seo": {
             "title": "MADA",
@@ -861,70 +861,7 @@
         ],
         "gallery2": ""
     },
-    "signalytic": {
-        "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Signalytic_vnjiwj.png",
-            "blurb": "Strategy"
-        },
-        "seo": {
-            "title": "Signalytic",
-            "desc": ""
-        },
-        "isBlack": false,
-        "path": "/signalytic",
-        "color1": "#4AA35E",
-        "color2": "#4AA35E",
-        "name": "Signalytic",
-        "title": "Digital infrastructure for remote health centres in Uganda.",
-        "foci": [
-            "Health"
-        ],
-        "year": "2022",
-        "disciplines": [
-            "Brand Strategy",
-            "Copywriting",
-            "Web Design"
-        ],
-        "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340233/case-studies%202023/Signalytic/Signalytic-Header_x4gses.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/Signalytic_akahzu.png",
-            "mobilePos": "center"
-        },
-        "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340448/case-studies%202023/Signalytic/Signalytic-1_wfeo2y.png"
-        },
-        "numContent": {
-            "intro": "Signalytic is building digital infrastructure that will help bring the most remote rural healthcare centres online. With a specific focus on drug-stock data, Signalytic has created a solar-powered system that allows remote health facilities to collect and share crucial digital information—even when they don’t have power or internet connection. As they expanded their operation, they approached us to help define their Brand and set up a digital presence.",
-            "challenge": "Signalytic is a deeply complex product that operates within a very complex market. Understanding the particulars of Signalytic and transforming that into a compelling high-level narrative was a real analytical challenge.",
-            "dotstrip": "Streamline a deeply complex product—market interaction into a simple narrative.",
-            "approach": "It all started with rigorous market and product research. Digging into the specifics of how the technology is designed and sold into a complex multi-actor market. From there, it was about landing on a clear narrative that would capture what Signalytic does. We landed on the idea of digital infrastructure, which reflected language used in the market as well as the foundational role Signalytic plays in bringing remote healthcare centres online.",
-            "execution": "With this narrative in hand, we went ahead with the development of a website that would speak to buyers in a comprehensible, and convincing, way. We wanted to avoid big words like ‘revolutionizing’ and ‘disrupting’. Our goal was to share Signalytic’s down to earth and impact-focused nature. Ultimately, that meant deeply simple language and human-focused design.",
-            "outcome": ""
-        },
-        "gallery": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340235/case-studies%202023/Signalytic/Signalytic-2_gev4hu.png"
-            }
-        ],
-        "LR": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340232/case-studies%202023/Signalytic/Signalytic-Website_xoqdlu.png",
-                "title": "Website",
-                "blurb": "Filled with human stories, video clips, and mobile phone images—we built a website that brings the user onto the ground with Signalytic."
-            }
-        ],
-        "gallery2": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340234/case-studies%202023/Signalytic/Signalytic-3_wfwyq0.png"
-            }
-        ]
-    },
-      "lafiya": {
+    "lafiya": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/Lafiya_yrtphr.png",
             "blurb": "Video"
@@ -993,6 +930,69 @@
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340110/case-studies%202023/Lafiya/Lafiya-4_lzx49p.png"
             }
             ]
+    },
+    "signalytic": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Signalytic_vnjiwj.png",
+            "blurb": "Strategy"
+        },
+        "seo": {
+            "title": "Signalytic",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/signalytic",
+        "color1": "#4AA35E",
+        "color2": "#4AA35E",
+        "name": "Signalytic",
+        "title": "Digital infrastructure for remote health centres in Uganda.",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Brand Strategy",
+            "Copywriting",
+            "Web Design"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340233/case-studies%202023/Signalytic/Signalytic-Header_x4gses.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/Signalytic_akahzu.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340448/case-studies%202023/Signalytic/Signalytic-1_wfeo2y.png"
+        },
+        "numContent": {
+            "intro": "Signalytic is building digital infrastructure that will help bring the most remote rural healthcare centres online. With a specific focus on drug-stock data, Signalytic has created a solar-powered system that allows remote health facilities to collect and share crucial digital information—even when they don’t have power or internet connection. As they expanded their operation, they approached us to help define their Brand and set up a digital presence.",
+            "challenge": "Signalytic is a deeply complex product that operates within a very complex market. Understanding the particulars of Signalytic and transforming that into a compelling high-level narrative was a real analytical challenge.",
+            "dotstrip": "Streamline a deeply complex product—market interaction into a simple narrative.",
+            "approach": "It all started with rigorous market and product research. Digging into the specifics of how the technology is designed and sold into a complex multi-actor market. From there, it was about landing on a clear narrative that would capture what Signalytic does. We landed on the idea of digital infrastructure, which reflected language used in the market as well as the foundational role Signalytic plays in bringing remote healthcare centres online.",
+            "execution": "With this narrative in hand, we went ahead with the development of a website that would speak to buyers in a comprehensible, and convincing, way. We wanted to avoid big words like ‘revolutionizing’ and ‘disrupting’. Our goal was to share Signalytic’s down to earth and impact-focused nature. Ultimately, that meant deeply simple language and human-focused design.",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340235/case-studies%202023/Signalytic/Signalytic-2_gev4hu.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340232/case-studies%202023/Signalytic/Signalytic-Website_xoqdlu.png",
+                "title": "Website",
+                "blurb": "Filled with human stories, video clips, and mobile phone images—we built a website that brings the user onto the ground with Signalytic."
+            }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340234/case-studies%202023/Signalytic/Signalytic-3_wfwyq0.png"
+            }
+        ]
     },
        "ccc": {
         "portfolio": {
