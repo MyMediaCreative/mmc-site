@@ -375,7 +375,7 @@
             "Web Development"
         ],
         "header": {
-            "type": "loop",
+            "type": "video",
             "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1645638250/case-studies/AisB/AisB_Header_kb2j5u.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1646157232/case-studies/AisB/MOBILE_AisB_Header_ael2d1.png",
             "mobilePos": "center"
@@ -541,7 +541,7 @@
             "Video"
         ],
         "header": {
-            "type": "image",
+            "type": "video",
             "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861030/Propel_Logo_Web_cep3jz.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340521/case-studies%202023/_MobileHeaders/PropelImpact_jo18wa.png",
             "mobilePos": "center"
@@ -643,7 +643,7 @@
             
         ],
         "header": {
-            "type": "image",
+            "type": "video",
             "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861031/FES_Animation_trssex.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
             "mobilePos": "center"
@@ -730,7 +730,7 @@
             "Video"
         ],
         "header": {
-            "type": "image",
+            "type": "video",
             "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861032/CSI_Web_Animation_clciyw.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CSI_gica4q.png",
             "mobilePos": "center"
