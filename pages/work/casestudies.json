@@ -122,8 +122,8 @@
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339317/case-studies%202023/Greenpeace/GP-Header_mjmuse.png",
-            "mobile": "",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1680993978/case-studies%202023/Greenpeace/Greenpeace-Header_fkikcz.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340515/case-studies%202023/_MobileHeaders/Greenpeace_hbzagg.png",
             "mobilePos": "center"
         },
         "mainMedia": {
@@ -140,28 +140,33 @@
         },
         "gallery": [
             {
-                "type": "",
-                "media": "https://vimeo.com/763605488"
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1680994008/case-studies%202023/Greenpeace/Bio_1_oxjohm.mp4"
+                    },
+                    {
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1680994002/case-studies%202023/Greenpeace/Bio_3_a9ahkb.mp4"
+                    }
+                ]
             },
             {
-                "type": "vimeo",
-                "media": "https://vimeo.com/763605488"
-            },
-            {
-                "type": "vimeo",
-                "media": "https://vimeo.com/763605488"
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685114447/GP-Ads_1_ubv9hn.png"
             }
         ],
         "LR": [
             {
                 "type": "vimeo",
-                "media": "https://vimeo.com/763605488",
+                "media": "https://vimeo.com/829544823",
                 "title": "Videos",
                 "blurb": "We developed several videos that pulled from culturally relevant, cute, or shocking imagery to tell a story that would mobilize people to action."
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339315/case-studies%202023/Greenpeace/GP-Ads_ujnjxn.png",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685114517/GP-Phones_ctqhxf.png",
                 "title": "Display Ads",
                 "blurb": "Based on our combing of culturally relevant, cute, or shocking imagery—we developed attention-catching display ads that would get someone to sign a petition quickly."
             }
@@ -556,7 +561,7 @@
             "dotstrip": "Build a brand that brought together two long-standing organizations.",
             "approach": "We employed a very user-research led approach to our work with Propel Impact. We began with rigorous reviews of their existing brands, communications, and programs. From there, we ran a survey and spoke to several alumni. It was on this research foundation that we were able to build a brand narrative that we knew would help Propel Impact make an important statement in the sector.",
             "execution": "With a strong brand strategy in hand, we were able to build a visual brand that really spoke to a young, diverse, audience of potential social innovators. We created something vibrant, but professional. It effectively blended visual inspiration from more progressive corporate brands with elements from grassroots social change organizations. We were off to the races.",
-            "outcome": "Cheralyn Chok, Executive Director of Propel Impact said this:'Tristan and his team's ability to understand systems and communicate them effectively is unparalleled. I watched them absorb and internalize everything that makes Propel Impact run - from our raison d'être to the intricacies of our programs - and then immediately tell our story better than we could. Their processing power is matched by his bias to action; not only did they turn around a new brand and website quickly, but crafted the strategy for unveiling our rebrand to garner unexpected buzz and results.' "
+            "outcome": "Cheralyn Chok, Executive Director of Propel Impact said this: 'Tristan and his team's ability to understand systems and communicate them effectively is unparalleled. I watched them absorb and internalize everything that makes Propel Impact run - from our raison d'être to the intricacies of our programs - and then immediately tell our story better than we could. Their processing power is matched by his bias to action; not only did they turn around a new brand and website quickly, but crafted the strategy for unveiling our rebrand to garner unexpected buzz and results.' "
         },
         "gallery": [
            {
@@ -614,7 +619,12 @@
                 "blurb": "To announce the brand to the world, we worked alongside the Propel Impact team to launch a week-long social media campaign that sparked a ton of interest in the sector."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340171/case-studies%202023/Propel%20Impact/Propel-7_ioa72s.png"
+            }
+        ]
     },
     "theharbour": {
         "portfolio": {
@@ -629,7 +639,7 @@
         "path": "/climatewarriors",
         "color1": "#E26D4E",
         "color2": "#E26D4E",
-        "name": "Foundation for Environmental Stewardship",
+        "name": "The Foundation for Environmental Stewardship",
         "title": "Helping young people find their purpose in the climate movement.",
         "foci": [
             "Environment"
@@ -717,7 +727,7 @@
         "path": "/csi",
         "color1": "#fda74e",
         "color2": "#fda74e",
-        "name": "CSI",
+        "name": "The Centre for Social Innovation",
         "title": "Imagining headlines from the Next Economy.",
         "foci": [
             "Social Innovation"
@@ -879,14 +889,14 @@
             "blurb": "Video"
         },
         "seo": {
-            "title": "Canadian Centre for Housing Rights",
+            "title": "CCHR",
             "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1645733959/work/grid/CERA_Header_xyiid0.png"
         },
         "isBlack": false,
         "path": "/cchr",
         "color1": "#91c3b6",
         "color2": "#91c3b6",
-        "name": "CERA",
+        "name": "The Canadian Centre for Housing Rights",
         "title": "Explaining Canada’s Right to Housing.",
         "foci": [
             "Affordable Housing"
@@ -1226,7 +1236,7 @@
     "acgc": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/ACGC_k1dfha.png",
-            "blurb": "Strategy"
+            "blurb": "Video"
         },
         "seo": {
             "title": "ACGC",
@@ -1490,7 +1500,7 @@
         "path": "/mcconnell",
         "color1": "#fa29a4",
         "color2": "#fa29a4",
-        "name": "McConnell Foundation",
+        "name": "The McConnell Foundation",
         "title": "Piloting a participatory approach to city-building in Canada.",
         "foci": [
             "Social Innovation"
@@ -1540,7 +1550,7 @@
     "culturalConnection": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/Cultural_Connection_y6hif4.png",
-            "blurb": "Strategy"
+            "blurb": "Video"
         },
         "seo": {
             "title": "Cultural Connection",
@@ -1550,7 +1560,7 @@
         "path": "/culturalconnection",
         "color1": "#7aa0d2",
         "color2": "#7aa0d2",
-        "name": "The Jewish General Hospital Foundation and the Wellcome Trust",
+        "name": "The Wellcome Trust",
         "title": "Explaining the value of cultural connection on young people’s mental health.",
         "foci": [
             "Health and Wellness"
