@@ -515,7 +515,7 @@
     "propelimpact": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/PropelImpact_hmn4xw.png",
-            "blurb": "Branding"
+            "blurb": "Strategy • Copywriting • Branding • Website • Marketing"
         },
         "seo": {
             "title": "Propel Impact",
@@ -542,7 +542,7 @@
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340171/case-studies%202023/Propel%20Impact/Propel-Cover_tgunq1.png",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861030/Propel_Logo_Web_cep3jz.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340521/case-studies%202023/_MobileHeaders/PropelImpact_jo18wa.png",
             "mobilePos": "center"
         },
@@ -609,7 +609,7 @@
             },
             {
                 "type": "loop",
-                "media": "",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1685109970/case-studies%202023/Propel%20Impact/Propel_Impact_Merger_FIXED_oxmmj9.mp4",
                 "title": "Brand Activation",
                 "blurb": "To announce the brand to the world, we worked alongside the Propel Impact team to launch a week-long social media campaign that sparked a ton of interest in the sector."
             }
@@ -644,7 +644,7 @@
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Cover_hqquuy.png",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861031/FES_Animation_trssex.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
             "mobilePos": "center"
         },
@@ -731,13 +731,13 @@
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339303/case-studies%202023/CSI/CSI-header_ckfxqv.png",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861032/CSI_Web_Animation_clciyw.mp4",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CSI_gica4q.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339304/case-studies%202023/CSI/CSI_Feed_vo4daj.png"
+            "type": "vimeo",
+            "media": "https://vimeo.com/813387314"
         },
         "numContent": {
             "intro": "The Centre for Social Innovation is a co-working space in downtown Toronto and Canada’s largest community of social innovators. They want to be a place where great ideas for people and planet can emerge—and reverberate around the world. Their brand is about hope + solutions. That’s why we pitched them Headlines from the Next Economy, a brand campaign that would realize future headlines that their members were working towards making a reality.",
@@ -745,7 +745,7 @@
             "dotstrip": "How do we connect global impact back to a local community.",
             "approach": "The “Headlines from the Next Economy” campaign was meant to turn our relationship with headlines on its head. We’re so used to getting horrible news notifications—we thought that it would be cool to use the visual language of our digital news ecosystem to tell stories about monumentally good things happening. We also wanted to remind entrepreneurs why they were doing what they were doing—and give them that feeling of being inspired by one’s own imagination.",
             "execution": "We ran a multi-channel campaign that included email, organic social posts, and digital ad spending. We decided that each day of the week would focus on the headline of a specific CSI-member organization. From that headline we built out more content and events that were specific to that organization. It became an event—a day to celebrate their work. Obvisouly, them and their supporters took part as well. Finally, we ran a “What’s Your Headline” Competition to get a bunch of people sharing their headlines and tagging CSI.",
-            "outcome": "We saw above average social engagement and a significant spike in reach. Managing Director Kyle said 'Working with My Media was a joy. They had the creative spark we needed to tell your story in the most compelling way, and the grit we needed to push through any obstacle. We're already looking forward to the next one!' "
+            "outcome": "We saw above average social engagement and a significant spike in reach. Managing Director Kyle Shantz said 'Working with My Media was a joy. They had the creative spark we needed to tell your story in the most compelling way, and the grit we needed to push through any obstacle. We're already looking forward to the next one!'"
         },
         "gallery": [
             {
@@ -780,8 +780,8 @@
                 "blurb": "We developed several organic social posts and social media events that were specific to each organizations. This included infographics, employee appreciation posts, and Instagram lives."
             },
             {
-                "type": "",
-                "media": "",
+                "type": "vimeo",
+                "media": "https://vimeo.com/813387314",
                 "title": "Video",
                 "blurb": "We made a video that captured CSI’s brand positioning and the people that make the organization great."
             }
@@ -803,6 +803,10 @@
                         "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339311/case-studies%202023/CSI/CSI-7_n328m0.png"
                     }
                 ]
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339304/case-studies%202023/CSI/CSI_Feed_vo4daj.png"
             }
         ]
     },
