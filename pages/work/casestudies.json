@@ -627,85 +627,69 @@
             }
         ]
     },
-    "yic": {
+    "cera": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/InvestEco2_bq0ol3.png",
-            "blurb": "Campaign"
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733959/work/grid/CERA_Header_xyiid0.png",
+            "blurb": "Video"
         },
         "seo": {
-            "title": "Youth Impact Challenge",
-            "desc": ""
+            "title": "CCHR",
+            "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1645733959/work/grid/CERA_Header_xyiid0.png"
         },
-        "isBlack": true,
-        "path": "/yic",
-        "color1": "#d86a59",
-        "color2": "#d86a59",
-        "name": "The Youth Impact Challenge",
-        "title": "Mobilizing 900+ young entrepreneurs to make a social impact.",
+        "isBlack": false,
+        "path": "/cchr",
+        "color1": "#91c3b6",
+        "color2": "#91c3b6",
+        "name": "The Canadian Centre for Housing Rights",
+        "title": "Explaining Canada’s Right to Housing.",
         "foci": [
-            "Social Innovation"
+            "Affordable Housing"
         ],
         "year": "2022",
         "disciplines": [
-            "Web Design",
-            "Campaign Strategy",
-            "Video"
+            "Video Production",
+            "Animation",
+            "Copywriting",
+            "Art Direction"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340517/case-studies%202023/_MobileHeaders/InvestEco2_kskxsr.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338043/case-studies%202023/CERA/CERA_Header_fwxnop.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340516/case-studies%202023/_MobileHeaders/CERA_ssnyo5.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC_Feed_ao66ja.png"
+            "type": "vimeo",
+            "media": "https://vimeo.com/681902299"
         },
         "numContent": {
-            "intro": "Founded by InvestEco and Renewal Funds, the Youth Impact Challenge disburses thousands of dollars to young social innovators every year. They approached us to build their website and run an advertising campaign that would connect with young people across Canada.",
-            "challenge": "How do we get a diverse range of young people to enter the competition—as opposed to just existing entrepreneurs and high-achieving youth. We needed to create an accessible message that didn’t intimidate people who had never considered themselves for competitions like this before.",
-            "dotstrip": "Create an accessible message for a diverse audience of youth.",
-            "approach": "We started by benchmarking work in the sector, and defining the Youth Impact Challenge’s niche amongst a crowded field of youth innovation competitions. We decided to focus on community-oriented projects that prioritized impact over anything else. On top of that, we prioritized appealing to youth who were in the early stages of developing their passions and ideas.",
-            "execution": "We built a website and ad campaign that leveraged empathetic language and a bit of satire to draw in youth.",
-            "outcome": "We met our impressive application goals—engaging thousands of youth in the process. Executive Director Shitangshu Roy said this: 'We have had the privilege at the Youth Impact Challenge (YIC) to work with MMC since our founding in 2020, and have found their team to be incredible partners in helping strategize & optimize our marketing efforts. We especially appreciate their awareness of current trends, diligence in conducting best practice research & willingness to take risks. Indeed, since the start of our relationship, the team have shown consistent care in considering our evolving needs, flexibility in working with us through challenging times & a strong commitment to quality in the work that they ultimately deliver. And here, we want to give particular credit to Tristan for his creativity in finding unique solutions to complex marketing challenges & Tony for his exceptional ability to tell compelling stories through his art. Finally, beyond our professional relationship, we are also inspired by the advocacy of the MMC leadership team in their consistent advocacy of youth issues & demonstrated passion for climate action through efforts like their Climate Warriors quiz, with a clear sense of impact in driving the kind of work that they choose to do.' "
+            "intro": "The Centre for Equality Rights in Accommodation (CERA), an advocacy, litigation, and program development organization fighting for the Right to Housing in Canada reached out to us to explain the complex policy concept in an accessible video. Immediately, we looked to the undisputed masters of explaining complex topics online: video-journalists like Vox. Benchmarking that extremely popular style, we made 2-minute explainer video that got to the core of the policy issue in a clear (and dare I say entertaining) way.",
+            "challenge": "The Right to Housing is a broad policy concept that threads its way from international law all the way through to the local level. The contours of the right to housing are nuanced, and sometimes hard to grasp. Finally, it’s just hard to keep people’s attention when talking about housing policy. We wanted to change all of that for viewers.",
+            "dotstrip": "Explain a complex housing policy concept in 2 enthralling minutes.",
+            "approach": "We started by benchmarking successful video journalism from across the internet—pulling from sources like The New York Times, Vox, and Johnny Harris. We looked at how they used animation and simple storytelling to successfully get big points across in a small amount of time. Then, we built out an art direction that would guide the animation—and evoke the journalistic approach we were inspired by. Finally, building off a script provided by CERA, we researched the Right To Housing and distilled it down into a core narrative. We pulled the art and script together into a clear, and compelling, two-minute video. Don’t take our words for it though—give it a watch!",
+            "execution": "",
+            "outcome": ""
         },
         "gallery": [
             {
-                "type": "twoImg",
-                "media": [
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-1_oqnuap.png"
-                    },
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-2_vupepf.png"
-                    }
-                ]
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338042/case-studies%202023/CERA/CERA_1_pcnwcl.png"
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-3_tyq6qi.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338042/case-studies%202023/CERA/CERA_3_ggzg0f.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338041/case-studies%202023/CERA/CERA_2_ctghat.png"
             }
         ],
         "LR": [
             {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Website_q7dyhb.png",
-                "title": "Website",
-                "blurb": "The Youth Impact Challenge website used bright colours, casual language, and pictures of a diverse range of excited young people to speak to its audience."
-            },
-            {
                 "type": "",
                 "media": "",
-                "title": "Video",
-                "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Static_kdyx9p.png",
-                "title": "Static Ads",
-                "blurb": "To compliment the videos, we created many static placement ads that hinged on the same core messages."
+                "title": "",
+                "blurb": ""
             }
         ],
         "gallery2": ""
@@ -879,69 +863,85 @@
             }
         ]
     },
-    "cera": {
+    "yic": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733959/work/grid/CERA_Header_xyiid0.png",
-            "blurb": "Video"
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/InvestEco2_bq0ol3.png",
+            "blurb": "Campaign"
         },
         "seo": {
-            "title": "CCHR",
-            "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1645733959/work/grid/CERA_Header_xyiid0.png"
+            "title": "Youth Impact Challenge",
+            "desc": ""
         },
-        "isBlack": false,
-        "path": "/cchr",
-        "color1": "#91c3b6",
-        "color2": "#91c3b6",
-        "name": "The Canadian Centre for Housing Rights",
-        "title": "Explaining Canada’s Right to Housing.",
+        "isBlack": true,
+        "path": "/yic",
+        "color1": "#d86a59",
+        "color2": "#d86a59",
+        "name": "The Youth Impact Challenge",
+        "title": "Mobilizing 900+ young entrepreneurs to make a social impact.",
         "foci": [
-            "Affordable Housing"
+            "Social Innovation"
         ],
         "year": "2022",
         "disciplines": [
-            "Video Production",
-            "Animation",
-            "Copywriting",
-            "Art Direction"
+            "Web Design",
+            "Campaign Strategy",
+            "Video"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338043/case-studies%202023/CERA/CERA_Header_fwxnop.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340516/case-studies%202023/_MobileHeaders/CERA_ssnyo5.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340517/case-studies%202023/_MobileHeaders/InvestEco2_kskxsr.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "vimeo",
-            "media": "https://vimeo.com/681902299"
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC_Feed_ao66ja.png"
         },
         "numContent": {
-            "intro": "The Centre for Equality Rights in Accommodation (CERA), an advocacy, litigation, and program development organization fighting for the Right to Housing in Canada reached out to us to explain the complex policy concept in an accessible video. Immediately, we looked to the undisputed masters of explaining complex topics online: video-journalists like Vox. Benchmarking that extremely popular style, we made 2-minute explainer video that got to the core of the policy issue in a clear (and dare I say entertaining) way.",
-            "challenge": "The Right to Housing is a broad policy concept that threads its way from international law all the way through to the local level. The contours of the right to housing are nuanced, and sometimes hard to grasp. Finally, it’s just hard to keep people’s attention when talking about housing policy. We wanted to change all of that for viewers.",
-            "dotstrip": "Explain a complex housing policy concept in 2 enthralling minutes.",
-            "approach": "We started by benchmarking successful video journalism from across the internet—pulling from sources like The New York Times, Vox, and Johnny Harris. We looked at how they used animation and simple storytelling to successfully get big points across in a small amount of time. Then, we built out an art direction that would guide the animation—and evoke the journalistic approach we were inspired by. Finally, building off a script provided by CERA, we researched the Right To Housing and distilled it down into a core narrative. We pulled the art and script together into a clear, and compelling, two-minute video. Don’t take our words for it though—give it a watch!",
-            "execution": "",
-            "outcome": ""
+            "intro": "Founded by InvestEco and Renewal Funds, the Youth Impact Challenge disburses thousands of dollars to young social innovators every year. They approached us to build their website and run an advertising campaign that would connect with young people across Canada.",
+            "challenge": "How do we get a diverse range of young people to enter the competition—as opposed to just existing entrepreneurs and high-achieving youth. We needed to create an accessible message that didn’t intimidate people who had never considered themselves for competitions like this before.",
+            "dotstrip": "Create an accessible message for a diverse audience of youth.",
+            "approach": "We started by benchmarking work in the sector, and defining the Youth Impact Challenge’s niche amongst a crowded field of youth innovation competitions. We decided to focus on community-oriented projects that prioritized impact over anything else. On top of that, we prioritized appealing to youth who were in the early stages of developing their passions and ideas.",
+            "execution": "We built a website and ad campaign that leveraged empathetic language and a bit of satire to draw in youth.",
+            "outcome": "We met our impressive application goals—engaging thousands of youth in the process. Executive Director Shitangshu Roy said this: 'We have had the privilege at the Youth Impact Challenge (YIC) to work with MMC since our founding in 2020, and have found their team to be incredible partners in helping strategize & optimize our marketing efforts. We especially appreciate their awareness of current trends, diligence in conducting best practice research & willingness to take risks. Indeed, since the start of our relationship, the team have shown consistent care in considering our evolving needs, flexibility in working with us through challenging times & a strong commitment to quality in the work that they ultimately deliver. And here, we want to give particular credit to Tristan for his creativity in finding unique solutions to complex marketing challenges & Tony for his exceptional ability to tell compelling stories through his art. Finally, beyond our professional relationship, we are also inspired by the advocacy of the MMC leadership team in their consistent advocacy of youth issues & demonstrated passion for climate action through efforts like their Climate Warriors quiz, with a clear sense of impact in driving the kind of work that they choose to do.' "
         },
         "gallery": [
             {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338042/case-studies%202023/CERA/CERA_1_pcnwcl.png"
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-1_oqnuap.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-2_vupepf.png"
+                    }
+                ]
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338042/case-studies%202023/CERA/CERA_3_ggzg0f.png"
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338041/case-studies%202023/CERA/CERA_2_ctghat.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-3_tyq6qi.png"
             }
         ],
         "LR": [
             {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Website_q7dyhb.png",
+                "title": "Website",
+                "blurb": "The Youth Impact Challenge website used bright colours, casual language, and pictures of a diverse range of excited young people to speak to its audience."
+            },
+            {
                 "type": "",
                 "media": "",
-                "title": "",
-                "blurb": ""
+                "title": "Video",
+                "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Static_kdyx9p.png",
+                "title": "Static Ads",
+                "blurb": "To compliment the videos, we created many static placement ads that hinged on the same core messages."
             }
         ],
         "gallery2": ""
@@ -1962,134 +1962,6 @@
         ],
         "gallery2": ""
     },
-    "regeneration": {
-        "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/ReGeneration_ylhe2g.png",
-            "blurb": "Website"
-        },
-        "seo": {
-            "title": "regeneration",
-            "desc": ""
-        },
-        "isBlack": true,
-        "path": "/re_generation",
-        "color1": "#d52c35",
-        "color2": "#d52c35",
-        "name": "Re_Generation",
-        "title": "Building Canada’s largest platform to empower youth in sustainability and social impact.",
-        "foci": [
-            "Sustainability"
-        ],
-        "year": "2022",
-        "disciplines": [
-            "Copywriting",
-            "Web Design",
-            "Web Development"
-        ],
-        "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_Header_sudyw8.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/ReGeneration_mphzyw.png",
-            "mobilePos": "center"
-        },
-        "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_1_enrqxn.png"
-        },
-        "numContent": {
-            "intro": "Re_Generation had an ambitious vision: a website that could be a home for all students and young professional in Canada that wanted to commit their student lives and early careers to sustainability and social impact. They had 100s of pages of resources, data, and stories to get onto the website. We built a website that was beautiful, expansive, and resilient to change.",
-            "challenge": "How do we fit hundreds of pages of thinking, interviews, and storytelling onto one website. More importantly, how do we make it resilient to the inevitable changes and uploading that would come with a platforms of this scale.",
-            "dotstrip": "Build a huge platform that is resilient to change and many hands.",
-            "approach": "We started by writing copy that could encase the core information that would come from the think tank and that would change. We used our copywriting as a “frame” for the broader informational project. Then, we built a website that was clearly structured and modular. From there, we loaded it onto a WordPress website and trained the team to use it.",
-            "execution": "",
-            "outcome": ""
-        },
-        "gallery": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_2_wtlt9g.png"
-            }
-        ],
-        "LR": [
-            {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
-            }
-        ],
-        "gallery2": ""
-    },
-    "koop": {
-        "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/Koop_mrc1od.png",
-            "blurb": "Branding"
-        },
-        "seo": {
-            "title": "Koop",
-            "desc": ""
-        },
-        "isBlack": true,
-        "path": "/koop",
-        "color1": "#8E1D1D",
-        "color2": "#8E1D1D",
-        "name": "Koop",
-        "title": "Selling sustainable fashion to the buy-new generation.",
-        "foci": [
-            "Sustainable Business"
-        ],
-        "year": "2021",
-        "disciplines": [
-            "Brand Strategy",
-            "Brand Design"
-        ],
-        "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338698/case-studies%202023/Koop/Koop-Header_apsf71.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340520/case-studies%202023/_MobileHeaders/Koop_eageit.png",
-            "mobilePos": "center"
-        },
-        "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338699/case-studies%202023/Koop/Koop-1_kgbvne.png"
-        },
-        "numContent": {
-            "intro": "Koop is a clothing resale marketplace that wants to make re-selling simple and reliable for the every day consumer. A lot of people aren’t connected to the culture of re-selling and sustainable fashion. Koop’s job is to bring those folks into the circular economy. They approached us to help them develop a visual and written brand for their marketing growth initiatives.",
-            "challenge": "How do we make an eco-friendly brand that leaves all of the “holier than-thou” tendencies of sustainability and fashion culture behind? How do we make something that a re-sale marketplace can grow into—speaking across generations and product categories?",
-            "dotstrip": "Make an eco-friendly brand that leaves “holier-than-thou” sustainability culture behind.",
-            "approach": "We benchmarked other major re-sale market places and fashion brands that were speaking to the broad audience that we wanted to connect to. From there, we looked at sustainability oriented brands and content creators to discover a visual (and written) approach that would break down barriers to sustainability for our customers while getting them excited about taking part in an important movement.",
-            "execution": "",
-            "outcome": ""
-        },
-        "gallery": [
-           {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338698/case-studies%202023/Koop/Koop-2_k6mjqk.png"
-            },
-            {
-                "type": "twoImg",
-                "media": [
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-3_sibtc5.png"
-                    },
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-4_f1p4t7.png"
-                    }
-                ]
-            }
-        ],
-        "LR": [
-            {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
-            }
-        ],
-        "gallery2": ""
-    },
     "ccc": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png",
@@ -2164,6 +2036,134 @@
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-5_lnkdd6.png"
             }
         ]
+    },
+    "koop": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/Koop_mrc1od.png",
+            "blurb": "Branding"
+        },
+        "seo": {
+            "title": "Koop",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/koop",
+        "color1": "#8E1D1D",
+        "color2": "#8E1D1D",
+        "name": "Koop",
+        "title": "Selling sustainable fashion to the buy-new generation.",
+        "foci": [
+            "Sustainable Business"
+        ],
+        "year": "2021",
+        "disciplines": [
+            "Brand Strategy",
+            "Brand Design"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338698/case-studies%202023/Koop/Koop-Header_apsf71.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340520/case-studies%202023/_MobileHeaders/Koop_eageit.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338699/case-studies%202023/Koop/Koop-1_kgbvne.png"
+        },
+        "numContent": {
+            "intro": "Koop is a clothing resale marketplace that wants to make re-selling simple and reliable for the every day consumer. A lot of people aren’t connected to the culture of re-selling and sustainable fashion. Koop’s job is to bring those folks into the circular economy. They approached us to help them develop a visual and written brand for their marketing growth initiatives.",
+            "challenge": "How do we make an eco-friendly brand that leaves all of the “holier than-thou” tendencies of sustainability and fashion culture behind? How do we make something that a re-sale marketplace can grow into—speaking across generations and product categories?",
+            "dotstrip": "Make an eco-friendly brand that leaves “holier-than-thou” sustainability culture behind.",
+            "approach": "We benchmarked other major re-sale market places and fashion brands that were speaking to the broad audience that we wanted to connect to. From there, we looked at sustainability oriented brands and content creators to discover a visual (and written) approach that would break down barriers to sustainability for our customers while getting them excited about taking part in an important movement.",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+           {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338698/case-studies%202023/Koop/Koop-2_k6mjqk.png"
+            },
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-3_sibtc5.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-4_f1p4t7.png"
+                    }
+                ]
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ],
+        "gallery2": ""
+    },
+    "regeneration": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/ReGeneration_ylhe2g.png",
+            "blurb": "Website"
+        },
+        "seo": {
+            "title": "regeneration",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/re_generation",
+        "color1": "#d52c35",
+        "color2": "#d52c35",
+        "name": "Re_Generation",
+        "title": "Building Canada’s largest platform to empower youth in sustainability and social impact.",
+        "foci": [
+            "Sustainability"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Copywriting",
+            "Web Design",
+            "Web Development"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_Header_sudyw8.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/ReGeneration_mphzyw.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_1_enrqxn.png"
+        },
+        "numContent": {
+            "intro": "Re_Generation had an ambitious vision: a website that could be a home for all students and young professional in Canada that wanted to commit their student lives and early careers to sustainability and social impact. They had 100s of pages of resources, data, and stories to get onto the website. We built a website that was beautiful, expansive, and resilient to change.",
+            "challenge": "How do we fit hundreds of pages of thinking, interviews, and storytelling onto one website. More importantly, how do we make it resilient to the inevitable changes and uploading that would come with a platforms of this scale.",
+            "dotstrip": "Build a huge platform that is resilient to change and many hands.",
+            "approach": "We started by writing copy that could encase the core information that would come from the think tank and that would change. We used our copywriting as a “frame” for the broader informational project. Then, we built a website that was clearly structured and modular. From there, we loaded it onto a WordPress website and trained the team to use it.",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339167/case-studies%202023/ReGeneration/ReGeneration_2_wtlt9g.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ],
+        "gallery2": ""
     },
     "sherpa": {
         "portfolio": {
@@ -2325,14 +2325,14 @@
             "Video"
         ],
         "header": {
-            "type": "img",
+            "type": "image",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338931/case-studies%202023/BSN/BSN-Header_atjevc.png",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/BSN_kk4roy.png",
             "mobilePos": "center"
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338931/case-studies%202023/BSN/BSN-Header_atjevc.png"
+            "media": "https://vimeo.com/manage/videos/797424302"
         },
         "numContent": {
             "intro": "We worked with McGill’s Black Students’ Network and Indigenous Students’ Alliance to produce a documentary about the history of slavery in Montreal and at McGIll specifically. Based on a report published by a team led by Prof. Charmaine Nelson called the “Bicentenary Report”.",
@@ -2434,11 +2434,11 @@
                 "media": [
                     {
                         "type": "loop",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339994/case-studies%202023/Chai%20Lifeline/Chai-2_h3pyqf.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340038/case-studies%202023/Chai%20Lifeline/Video-2_tlv7te.mp4"
                     },
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340038/case-studies%202023/Chai%20Lifeline/Video-2_tlv7te.mp4"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339994/case-studies%202023/Chai%20Lifeline/Chai-2_h3pyqf.png"
                     }
                 ]
             } 
@@ -2446,13 +2446,13 @@
         "LR": [
             {
                 "type": "loop",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Platform_d0ryie.png",
+                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340041/case-studies%202023/Chai%20Lifeline/Video-3_tgtneu.mp4",
                 "title": "Video",
                 "blurb": "We made short video ads that were targeted to different audiences based on their content."
             },
             {
                 "type": "image",
-                "media": "https://vimeo.com/763603161",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339992/case-studies%202023/Chai%20Lifeline/Chai-3_j1dash.png",
                 "title": "Static Ads",
                 "blurb": "We made a litany of static advertisements that pulled on the core themes of the videos, and were designed for retargeting."
             }
