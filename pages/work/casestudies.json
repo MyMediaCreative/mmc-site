@@ -2276,7 +2276,7 @@
         "gallery": [
             {
                 "type": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC2_cbjkch.png",
-                "media": ""
+                "media": "image"
             },
             {
                 "type": "twoImg",
@@ -2640,8 +2640,8 @@
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "",
-            "media": ""
+            "type": "vimeo",
+            "media": "https://vimeo.com/manage/videos/829511449"
         },
         "numContent": {
             "intro": "Help A Girl Out is a Toronto-based charity that is working to end the stigma and material conditions that lead to period poverty. Working with vulnerable communities across Canada and the world—they are championing a more sustainable approach to addressing period poverty, by sewing reusable pads. They approached us for a brand refresh, website redesign, and brand activation campaign.",
@@ -2870,7 +2870,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829541847"
         },
         "numContent": {
             "intro": "Divest McGill approached us to make a video that punctuated the lack of action and accountability that McGill University had taken with regards to its fossil fuel investments. On the heels of a multi-million dollar rebrand—we decided to parody this brand campaign to create something resonant (and viral).",
@@ -3276,7 +3276,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829543191"
         },
         "numContent": {
             "intro": "Répit-Ressource is a social economy organization that provides home and cleaning services to people facing accessibility barriers. There is always demand for the work they do—meaning that they have to attract hundreds of staff from across Montreal. They approached us about running a campaign that would attract new candidates by showcasing the flexibility that their work offers.",
@@ -3304,13 +3304,13 @@
         "LR": [
             {
                 "type": "vimeo",
-                "media": "",
+                "media": "https://vimeo.com/manage/videos/829543122",
                 "title": "Campaign Strategy",
                 "blurb": "We developed a vision for how to bring the stories of Répit’s employees to life in a way that would attract their ideal employee/candidate personas."
             },
             {
                 "type": "vimeo",
-                "media": "",
+                "media": "https://vimeo.com/manage/videos/829543044",
                 "title": "Videos",
                 "blurb": "We developed three videos for initial sharing with target candidates—that would raise the brand’s profile and resonate with the audience’s experience."
             },
@@ -3358,7 +3358,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829547252"
         },
         "numContent": {
             "intro": "Répit-Ressource has a very specific need: they need people who can truly care for others in their work. They need people who are passionate, patient, and kind to every client that they work with. They approached us to represent that care—and make a video campaign that would attract those (particularly empathetic) type of people.",
