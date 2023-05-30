@@ -92,7 +92,7 @@
         "gallery2": [
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645638916/case-studies/mada/MADA_1_bwspal.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338205/case-studies%202023/MADA/MADA_Feed_p7ygjq.png"
             }
         ]
     },
@@ -2493,7 +2493,7 @@
         },
         "mainMedia": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338916/case-studies%202023/Alchemy/Alchemy_Cards_eehkdf.png"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1680969533/case-studies%202023/Alchemy/Alchemy_Cards_Corrected_z7pbgf.png"
         },
         "numContent": {
             "intro": "Alchemy Group is a strategy and JEDI consulting group for nonprofits in Canada. Led by two seasoned nonprofit executives—Alchemy Group wanted a brand + website that reflected their experience, commitment to justice, and the little bit of magic that they bring to every engagement.",
@@ -3328,58 +3328,86 @@
             }
         ]
     },
-    "repitEmployee": {
+    "madaGala": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Repit1_cwf8lj.png",
-            "blurb": "Video"
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MADA2_hwej7m.png",
+            "blurb": "Strategy"
         },
         "seo": {
-            "title": "Répit-Ressource",
+            "title": "MADA Gala",
             "desc": ""
         },
-        "isBlack": false,
-        "path": "/repitEmp",
-        "color1": "#4d0849",
-        "color2": "#4d0849",
-        "name": "Répit-Ressource",
-        "title": "Attracting passionate people for jobs that require real care.",
+        "isBlack": true,
+        "path": "/madagala",
+        "color1": "#F7BB26",
+        "color2": "#F7BB26",
+        "name": "MADA Gala",
+        "title": "From broken hearts, to breaking bread.",
         "foci": [
-            "Accessibility"
+            "Anti-Poverty"
         ],
         "year": "2021",
         "disciplines": [
-            "Video Production"
+            "Campaign Strategy",
+            "Copywriting",
+            "Campaign Design",
+            "Video"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339188/case-studies%202023/Repit%20Ressouce/Repit-Header_dv0usa.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/RepitRessource_xmdxtz.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339504/case-studies%202023/MADA%20Gala/MADA-Header_ggcvqf.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340505/case-studies%202023/_MobileHeaders/MADA2_lbnujx.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "vimeo",
-            "media": "https://vimeo.com/829547252"
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339503/case-studies%202023/MADA%20Gala/MADA-Billboard_ssbyky.png"
         },
         "numContent": {
-            "intro": "Répit-Ressource has a very specific need: they need people who can truly care for others in their work. They need people who are passionate, patient, and kind to every client that they work with. They approached us to represent that care—and make a video campaign that would attract those (particularly empathetic) type of people.",
-            "challenge": "The challenge was: how do you represent care for clients? It’s not as simple as good benefits and pay. We had to make sure that this intangible feeling towards people and work showed up on screen in a 90-second video. We also had to make it so explicit that people would pick up on the values within the first couple seconds of the video.",
-            "dotstrip": "Attract employees that truly care about people and their work.",
-            "approach": "We did something a little out of the box: we got an illustrator to draw three employees’ favourite clients. Then we asked those employees to wear the portrait over their heart as they spoke about the client, and the things that they love about their work. <br/> <br/>Out of it, we got some beautiful sentiments and stories about Répit-Ressource’s clients, employees, and values. It was all tied together with one phrase: <br/>“Répit-Ressource. Work you keep close to your heart”. <br/>“Répit-Ressource. Un travaille qui vient du coeur.”",
-            "execution": "",
+            "intro": "The MADA Community Center, an anti-poverty organization based in Montreal, approached us to develop a visual brand, marketing, and videos for their annual Gala. The goal was to develop a unique style that would attract interest from high profile donors—all while being focused on the theme of the Gala: bread.",
+            "challenge": "The MADA Team was pretty set on a theme: bread. Of course, we needed to develop a line of messaging and a visual style that would speak to the high-profile nature of an event like this. The goal was to bring together leaders from across the community to support MADA in a major way. So our challenge was to do all of that—while building the messaging around the core theme: bread.",
+            "dotstrip": "Create messaging and a visual style that would interest high profile donors.",
+            "approach": "We worked through a couple ideas—but eventually came to the core idea: From Broken Hearts, To Breaking Bread. The story was clear: people had been isolated and hungry for the last year. COVID had kept people out of work and in their homes. MADA’s goal in the coming year was to bring people together. To, once again, break bread with the community they love. We ran with this theme of community, family, and hope throughout the rest of the project.",
+            "execution": "We threaded this messaging through several videos, placement ads, social posts, and pieces of individual collateral for the fundraising team to use.",
             "outcome": ""
         },
         "gallery": [
             {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/Quote-1_frlicg.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/Quote-2_xelnpw.png"
+                    }
+                ]
+            }, 
+            {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339188/case-studies%202023/Repit%20Ressouce/Repit-1_sd9jgr.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339503/case-studies%202023/MADA%20Gala/MADA-Sponsorship_a7u6bw.png"
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/MADA-Messaging_kmlrps.png",
+                "title": "Messaging",
+                "blurb": "We developed core messaging points and several pieces of collateral for the MADA team— so that they could leverage this theme to raise money for the organization."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
+                "title": "Video",
+                "blurb": "We made a video invitation that captured stories from the MADA community + the core messaging that we had laid out."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
+                "title": "Ads",
+                "blurb": "From this messaging, we built out several advertisements and social media posts that highlighted the stories of volunteers, recipients, and donors in the MADA community."
             }
         ],
         "gallery2": ""
@@ -3583,86 +3611,58 @@
         ],
         "gallery2": ""
     },
-    "madaGala": {
+    "repitEmployee": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MADA2_hwej7m.png",
-            "blurb": "Strategy"
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Repit1_cwf8lj.png",
+            "blurb": "Video"
         },
         "seo": {
-            "title": "MADA Gala",
+            "title": "Répit-Ressource",
             "desc": ""
         },
-        "isBlack": true,
-        "path": "/madagala",
-        "color1": "#F7BB26",
-        "color2": "#F7BB26",
-        "name": "MADA Gala",
-        "title": "From broken hearts, to breaking bread.",
+        "isBlack": false,
+        "path": "/repitEmp",
+        "color1": "#4d0849",
+        "color2": "#4d0849",
+        "name": "Répit-Ressource",
+        "title": "Attracting passionate people for jobs that require real care.",
         "foci": [
-            "Anti-Poverty"
+            "Accessibility"
         ],
         "year": "2021",
         "disciplines": [
-            "Campaign Strategy",
-            "Copywriting",
-            "Campaign Design",
-            "Video"
+            "Video Production"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339504/case-studies%202023/MADA%20Gala/MADA-Header_ggcvqf.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340505/case-studies%202023/_MobileHeaders/MADA2_lbnujx.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339188/case-studies%202023/Repit%20Ressouce/Repit-Header_dv0usa.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340509/case-studies%202023/_MobileHeaders/RepitRessource_xmdxtz.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339503/case-studies%202023/MADA%20Gala/MADA-Billboard_ssbyky.png"
+            "type": "vimeo",
+            "media": "https://vimeo.com/829547252"
         },
         "numContent": {
-            "intro": "The MADA Community Center, an anti-poverty organization based in Montreal, approached us to develop a visual brand, marketing, and videos for their annual Gala. The goal was to develop a unique style that would attract interest from high profile donors—all while being focused on the theme of the Gala: bread.",
-            "challenge": "The MADA Team was pretty set on a theme: bread. Of course, we needed to develop a line of messaging and a visual style that would speak to the high-profile nature of an event like this. The goal was to bring together leaders from across the community to support MADA in a major way. So our challenge was to do all of that—while building the messaging around the core theme: bread.",
-            "dotstrip": "Create messaging and a visual style that would interest high profile donors.",
-            "approach": "We worked through a couple ideas—but eventually came to the core idea: From Broken Hearts, To Breaking Bread. The story was clear: people had been isolated and hungry for the last year. COVID had kept people out of work and in their homes. MADA’s goal in the coming year was to bring people together. To, once again, break bread with the community they love. We ran with this theme of community, family, and hope throughout the rest of the project.",
-            "execution": "We threaded this messaging through several videos, placement ads, social posts, and pieces of individual collateral for the fundraising team to use.",
+            "intro": "Répit-Ressource has a very specific need: they need people who can truly care for others in their work. They need people who are passionate, patient, and kind to every client that they work with. They approached us to represent that care—and make a video campaign that would attract those (particularly empathetic) type of people.",
+            "challenge": "The challenge was: how do you represent care for clients? It’s not as simple as good benefits and pay. We had to make sure that this intangible feeling towards people and work showed up on screen in a 90-second video. We also had to make it so explicit that people would pick up on the values within the first couple seconds of the video.",
+            "dotstrip": "Attract employees that truly care about people and their work.",
+            "approach": "We did something a little out of the box: we got an illustrator to draw three employees’ favourite clients. Then we asked those employees to wear the portrait over their heart as they spoke about the client, and the things that they love about their work. <br/> <br/>Out of it, we got some beautiful sentiments and stories about Répit-Ressource’s clients, employees, and values. It was all tied together with one phrase: <br/>“Répit-Ressource. Work you keep close to your heart”. <br/>“Répit-Ressource. Un travaille qui vient du coeur.”",
+            "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "twoImg",
-                "media": [
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/Quote-1_frlicg.png"
-                    },
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/Quote-2_xelnpw.png"
-                    }
-                ]
-            }, 
-            {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339503/case-studies%202023/MADA%20Gala/MADA-Sponsorship_a7u6bw.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339188/case-studies%202023/Repit%20Ressouce/Repit-1_sd9jgr.png"
             }
         ],
         "LR": [
             {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339502/case-studies%202023/MADA%20Gala/MADA-Messaging_kmlrps.png",
-                "title": "Messaging",
-                "blurb": "We developed core messaging points and several pieces of collateral for the MADA team— so that they could leverage this theme to raise money for the organization."
-            },
-            {
-                "type": "vimeo",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
-                "title": "Video",
-                "blurb": "We made a video invitation that captured stories from the MADA community + the core messaging that we had laid out."
-            },
-            {
-                "type": "vimeo",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
-                "title": "Ads",
-                "blurb": "From this messaging, we built out several advertisements and social media posts that highlighted the stories of volunteers, recipients, and donors in the MADA community."
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
             }
         ],
         "gallery2": ""
