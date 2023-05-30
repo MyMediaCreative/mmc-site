@@ -196,7 +196,7 @@
             "Brand Design"
         ],
         "header": {
-            "type": "img",
+            "type": "image",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338633/case-studies%202023/SmartHospital/SH_Header_uphuhr.jpg",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340522/case-studies%202023/_MobileHeaders/Smarthospital_gr0r2w.png",
             "mobilePos": "center"
@@ -2734,7 +2734,7 @@
             "Web Development"
         ],
         "header": {
-            "type": "img",
+            "type": "image",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339230/case-studies%202023/SEIZE%20Website/Seize-Header_c81brn.png",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340519/case-studies%202023/_MobileHeaders/SEIZE_mrrark.png",
             "mobilePos": "center"
