@@ -327,30 +327,26 @@
             {
                 "type": "image",
                 "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338494/case-studies%202023/SEIZE/SEIZE_1_jg3uuw.png"
-            },
-            {
-                "type": "vimeo",
-                "media": "https://vimeo.com/681646443"
             }
         ],
         "LR": [
             {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338491/case-studies%202023/SEIZE/SEIZE_Flagship_gj1okd.png",
+                "type": "vimeo",
+                "media": "https://vimeo.com/681646473",
                 "title": "Flagship Video",
                 "blurb": "The flagship video told the whole story. 90-seconds that captured all of the reasons to support SEIZE and their mission to create a collective-led economy."
             },
             {
                 "type": "vimeo",
-                "media": "https://vimeo.com/681646473",
+                "media": "https://vimeo.com/681646443",
                 "title": "Short Videos",
                 "blurb": "We broke the video up into three shorter pieces that could be used as follow up collateral during the campaign. They each served a different purpose and focused on a different piece of messaging."
             }
         ],
         "gallery2": [
             {
-                "type": "vimeo",
-                "media": "https://vimeo.com/681646500"
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338491/case-studies%202023/SEIZE/SEIZE_Flagship_gj1okd.png"
             }
         ]
     },
