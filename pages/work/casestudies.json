@@ -433,7 +433,7 @@
     "theharbour": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1685477605/work/grid/Warriors-PortfolioPage_d9nc9v.png",
-            "blurb": "Helping 3000+ youth find their climate purpose with "
+            "blurb": "Helping 3000+ youth find their climate purpose with <br/>"
         },
         "seo": {
             "title": "Climate Warriors",
@@ -443,7 +443,7 @@
         "path": "/climatewarriors",
         "color1": "#E26D4E",
         "color2": "#E26D4E",
-        "name": "The Foundation for Environmental Stewardship",
+        "name": "The Foundation for<br/> Environmental Stewardship",
         "title": "Helping young people find their purpose in the climate movement.",
         "foci": [
             "Environment"
