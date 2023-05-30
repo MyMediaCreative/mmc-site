@@ -2741,7 +2741,7 @@
         },
         "mainMedia": {
             "type": "img",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339229/case-studies%202023/SEIZE%20Website/Seize-1_f2ynfr.png"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1680969404/case-studies%202023/SEIZE%20Website/Seize-1-corrected_ryz360.png"
         },
         "numContent": {
             "intro": "The Social Economy Incubator Zone (SEIZE) works with cooperative businesses in Montreal—helping them grow into strategically important industries so that they can displace profit-hungry mega-corporations. They reached out to us to upgrade their website based on a renewed vision and funding base.",
@@ -3654,13 +3654,13 @@
             },
             {
                 "type": "vimeo",
-                "media": "",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
                 "title": "Video",
                 "blurb": "We made a video invitation that captured stories from the MADA community + the core messaging that we had laid out."
             },
             {
                 "type": "vimeo",
-                "media": "",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
                 "title": "Ads",
                 "blurb": "From this messaging, we built out several advertisements and social media posts that highlighted the stories of volunteers, recipients, and donors in the MADA community."
             }
