@@ -98,7 +98,7 @@
     },
     "greenpeace": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680993908/work/grid/Greenpeace_lubpfv.png",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1685477604/work/grid/GP-PortfolioPage_i5szf0.png",
             "blurb": "Mobilizing 40,000+ people to protect Canadian biodiversity with "
         },
         "seo": {
@@ -430,88 +430,93 @@
             }
         ]
     },
-    "yic": {
+    "theharbour": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
-            "blurb": "Getting 900+ young<br/> entrepreneurs to pitch their <br/>big idea with "
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1685477605/work/grid/Warriors-PortfolioPage_d9nc9v.png",
+            "blurb": "Helping 3000+ youth find their climate purpose with "
         },
         "seo": {
-            "title": "Youth Impact Challenge",
+            "title": "Climate Warriors",
             "desc": ""
         },
         "isBlack": true,
-        "path": "/yic",
-        "color1": "#d86a59",
-        "color2": "#d86a59",
-        "name": "The Youth Impact Challenge",
-        "title": "Funding youth-led social impact initiatives.",
+        "path": "/climatewarriors",
+        "color1": "#E26D4E",
+        "color2": "#E26D4E",
+        "name": "The Foundation for Environmental Stewardship",
+        "title": "Helping young people find their purpose in the climate movement.",
         "foci": [
-            "Social Innovation"
+            "Environment"
         ],
         "year": "2022",
         "disciplines": [
+            "Video",
             "Web Design",
-            "Campaign Strategy",
-            "Video"
+            "Copywriting",
+            "Campaign Strategy"
+            
         ],
         "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340517/case-studies%202023/_MobileHeaders/InvestEco2_kskxsr.png",
+            "type": "video",
+            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861031/FES_Animation_trssex.mp4",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC_Feed_ao66ja.png"
+            "type": "vimeo",
+            "media": "https://vimeo.com/763619233"
         },
         "numContent": {
-            "intro": "Founded by InvestEco and Renewal Funds, the Youth Impact Challenge disburses thousands of dollars to young social innovators every year. They approached us to build their website and run an advertising campaign that would connect with young people across Canada.",
-            "challenge": "How do we get a diverse range of young people to enter the competition—as opposed to just existing entrepreneurs and high-achieving youth. We needed to create an accessible message that didn’t intimidate people who had never considered themselves for competitions like this before.",
-            "dotstrip": "Create an accessible message for a diverse audience of youth.",
-            "approach": "We started by benchmarking work in the sector, and defining the Youth Impact Challenge’s niche amongst a crowded field of youth innovation competitions. We decided to focus on community-oriented projects that prioritized impact over anything else. On top of that, we prioritized appealing to youth who were in the early stages of developing their passions and ideas.",
-            "execution": "We built a website and ad campaign that leveraged empathetic language and a bit of satire to draw in youth.",
-            "outcome": "We met our impressive application goals—engaging thousands of youth in the process. Executive Director Shitangshu Roy said this: 'We have had the privilege at the Youth Impact Challenge (YIC) to work with MMC since our founding in 2020, and have found their team to be incredible partners in helping strategize & optimize our marketing efforts. We especially appreciate their awareness of current trends, diligence in conducting best practice research & willingness to take risks. Indeed, since the start of our relationship, the team have shown consistent care in considering our evolving needs, flexibility in working with us through challenging times & a strong commitment to quality in the work that they ultimately deliver. And here, we want to give particular credit to Tristan for his creativity in finding unique solutions to complex marketing challenges & Tony for his exceptional ability to tell compelling stories through his art. Finally, beyond our professional relationship, we are also inspired by the advocacy of the MMC leadership team in their consistent advocacy of youth issues & demonstrated passion for climate action through efforts like their Climate Warriors quiz, with a clear sense of impact in driving the kind of work that they choose to do.' "
+            "intro": "In 2021, our team saw a statistic from Force of Nature: 74% of young people don’t know how to contribute to climate action. We thought that needed to change. We brainstormed ideas until coming up with one: what if we built a Myers-Briggs for the climate movement and tied in a set of documentaries to inspire youth?",
+            "challenge": "How do we undertake something this ambitious, effectively? We approached the Foundation for Environmental Stewardship with a proposal—and they eventually agreed to fund the creation of a platform for young people and a campaign to get that platform out there.",
+            "dotstrip": "Inspire youth to put their talents to work in the climate movement.",
+            "approach": "We decided that the platform needed a few things. Firstly, it needed to be fun and interesting. We worked for a while to create a quiz that engaged people, and effectively captured their personalities. Secondly, they needed to be connected to a way forward. So, we built tailored resource-packages, showed people documentaries about amazing activists, and provided them a clear call to action—all based on their quiz result.",
+            "execution": "Over six months, we consulted with 70+ climate leaders, collected 75+ resources, built an online platform from scratch, and produced four short documentaries about inspiring Canadian climate activists. In the end, 2000+ people took the quiz within a month and the documentaries have had an important impact on multiple campaigns being led by the activists we featured.",
+            "outcome": ""
         },
         "gallery": [
-            {
-                "type": "twoImg",
+           {
+                "type": "threeImg",
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-1_oqnuap.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-1_zq0rle.png"
                     },
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-2_vupepf.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-2_crp1nn.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-3_fu9z5r.png"
                     }
                 ]
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-3_tyq6qi.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-4_r8kpaz.png"
             }
         ],
         "LR": [
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Website_q7dyhb.png",
-                "title": "Website",
-                "blurb": "The Youth Impact Challenge website used bright colours, casual language, and pictures of a diverse range of excited young people to speak to its audience."
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Platform_d0ryie.png",
+                "title": "The Platform",
+                "blurb": "We wanted to build something fun and unique. We worked to build a quiz over a few months, tried to write summaries that were rooted in real empathy, and employed a collage style to reference the history of movement-building that we wanted to help people fit themselves into."
             },
             {
-                "type": "",
-                "media": "",
-                "title": "Video",
-                "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Static_kdyx9p.png",
-                "title": "Static Ads",
-                "blurb": "To compliment the videos, we created many static placement ads that hinged on the same core messages."
+                "type": "vimeo",
+                "media": "https://vimeo.com/763603161",
+                "title": "Documentaries",
+                "blurb": "We travelled across the east coast, interviewing four brilliant climate activists. We covered Land Back initiatives, nature-based solutions to climate change, the social economy, and the importance of building deep connections with the earth."
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-5_vsqwnc.png"
+            }
+            ]
     },
     "propelimpact": {
         "portfolio": {
@@ -622,93 +627,88 @@
             }
         ]
     },
-    "theharbour": {
+    "yic": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/ClimateWarriors_yjqzey.png",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/InvestEco2_bq0ol3.png",
             "blurb": "Campaign"
         },
         "seo": {
-            "title": "Climate Warriors",
+            "title": "Youth Impact Challenge",
             "desc": ""
         },
         "isBlack": true,
-        "path": "/climatewarriors",
-        "color1": "#E26D4E",
-        "color2": "#E26D4E",
-        "name": "The Foundation for Environmental Stewardship",
-        "title": "Helping young people find their purpose in the climate movement.",
+        "path": "/yic",
+        "color1": "#d86a59",
+        "color2": "#d86a59",
+        "name": "The Youth Impact Challenge",
+        "title": "Mobilizing 900+ young entrepreneurs to make a social impact.",
         "foci": [
-            "Environment"
+            "Social Innovation"
         ],
         "year": "2022",
         "disciplines": [
-            "Video",
             "Web Design",
-            "Copywriting",
-            "Campaign Strategy"
-            
+            "Campaign Strategy",
+            "Video"
         ],
         "header": {
-            "type": "video",
-            "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1684861031/FES_Animation_trssex.mp4",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/ClimateWarriors_dumywp.png",
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-Header_apmpyx.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340517/case-studies%202023/_MobileHeaders/InvestEco2_kskxsr.png",
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "vimeo",
-            "media": "https://vimeo.com/763619233"
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC_Feed_ao66ja.png"
         },
         "numContent": {
-            "intro": "In 2021, our team saw a statistic from Force of Nature: 74% of young people don’t know how to contribute to climate action. We thought that needed to change. We brainstormed ideas until coming up with one: what if we built a Myers-Briggs for the climate movement and tied in a set of documentaries to inspire youth?",
-            "challenge": "How do we undertake something this ambitious, effectively? We approached the Foundation for Environmental Stewardship with a proposal—and they eventually agreed to fund the creation of a platform for young people and a campaign to get that platform out there.",
-            "dotstrip": "Inspire youth to put their talents to work in the climate movement.",
-            "approach": "We decided that the platform needed a few things. Firstly, it needed to be fun and interesting. We worked for a while to create a quiz that engaged people, and effectively captured their personalities. Secondly, they needed to be connected to a way forward. So, we built tailored resource-packages, showed people documentaries about amazing activists, and provided them a clear call to action—all based on their quiz result.",
-            "execution": "Over six months, we consulted with 70+ climate leaders, collected 75+ resources, built an online platform from scratch, and produced four short documentaries about inspiring Canadian climate activists. In the end, 2000+ people took the quiz within a month and the documentaries have had an important impact on multiple campaigns being led by the activists we featured.",
-            "outcome": ""
+            "intro": "Founded by InvestEco and Renewal Funds, the Youth Impact Challenge disburses thousands of dollars to young social innovators every year. They approached us to build their website and run an advertising campaign that would connect with young people across Canada.",
+            "challenge": "How do we get a diverse range of young people to enter the competition—as opposed to just existing entrepreneurs and high-achieving youth. We needed to create an accessible message that didn’t intimidate people who had never considered themselves for competitions like this before.",
+            "dotstrip": "Create an accessible message for a diverse audience of youth.",
+            "approach": "We started by benchmarking work in the sector, and defining the Youth Impact Challenge’s niche amongst a crowded field of youth innovation competitions. We decided to focus on community-oriented projects that prioritized impact over anything else. On top of that, we prioritized appealing to youth who were in the early stages of developing their passions and ideas.",
+            "execution": "We built a website and ad campaign that leveraged empathetic language and a bit of satire to draw in youth.",
+            "outcome": "We met our impressive application goals—engaging thousands of youth in the process. Executive Director Shitangshu Roy said this: 'We have had the privilege at the Youth Impact Challenge (YIC) to work with MMC since our founding in 2020, and have found their team to be incredible partners in helping strategize & optimize our marketing efforts. We especially appreciate their awareness of current trends, diligence in conducting best practice research & willingness to take risks. Indeed, since the start of our relationship, the team have shown consistent care in considering our evolving needs, flexibility in working with us through challenging times & a strong commitment to quality in the work that they ultimately deliver. And here, we want to give particular credit to Tristan for his creativity in finding unique solutions to complex marketing challenges & Tony for his exceptional ability to tell compelling stories through his art. Finally, beyond our professional relationship, we are also inspired by the advocacy of the MMC leadership team in their consistent advocacy of youth issues & demonstrated passion for climate action through efforts like their Climate Warriors quiz, with a clear sense of impact in driving the kind of work that they choose to do.' "
         },
         "gallery": [
-           {
-                "type": "threeImg",
+            {
+                "type": "twoImg",
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-1_zq0rle.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340102/case-studies%202023/InvestEco%202/YIC-1_oqnuap.png"
                     },
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-2_crp1nn.png"
-                    },
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340071/case-studies%202023/Climate%20Warriors/Image-3_fu9z5r.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-2_vupepf.png"
                     }
                 ]
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-4_r8kpaz.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-3_tyq6qi.png"
             }
         ],
         "LR": [
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Platform_d0ryie.png",
-                "title": "The Platform",
-                "blurb": "We wanted to build something fun and unique. We worked to build a quiz over a few months, tried to write summaries that were rooted in real empathy, and employed a collage style to reference the history of movement-building that we wanted to help people fit themselves into."
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Website_q7dyhb.png",
+                "title": "Website",
+                "blurb": "The Youth Impact Challenge website used bright colours, casual language, and pictures of a diverse range of excited young people to speak to its audience."
             },
             {
-                "type": "vimeo",
-                "media": "https://vimeo.com/763603161",
-                "title": "Documentaries",
-                "blurb": "We travelled across the east coast, interviewing four brilliant climate activists. We covered Land Back initiatives, nature-based solutions to climate change, the social economy, and the importance of building deep connections with the earth."
-            }
-        ],
-        "gallery2": [
+                "type": "",
+                "media": "",
+                "title": "Video",
+                "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
+            },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340072/case-studies%202023/Climate%20Warriors/Image-5_vsqwnc.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340101/case-studies%202023/InvestEco%202/YIC-Static_kdyx9p.png",
+                "title": "Static Ads",
+                "blurb": "To compliment the videos, we created many static placement ads that hinged on the same core messages."
             }
-            ]
+        ],
+        "gallery2": ""
     },
     "csi": {
         "portfolio": {
@@ -2648,7 +2648,7 @@
             "challenge": "Help A Girl Out wanted to modernize and refine their brand. They had been doing a ton of work in communities for several years—and they were ready to level up. This meant focusing on building community partnerships, donor relationships, and strengthening their board of directors. They needed a brand and campaign that would help them do all of that.",
             "dotstrip": "Build a brand that would attract support from major donors and partners.",
             "approach": "We looked at a mix of successful anti-poverty charities and period product brands—to find a balance that would speak to audiences young and old (those in need of support and donors). From there, we built a website and campaign that reflected the direction that we discovered in our work. The campaign was #CallItWhatItIs. We asked young women from around the world what they had called their period, instead of period. We knew that there were bound to be a ton of euphemisms used to hide discussions about periods.",
-            "execution": "We executed the brand, website, and campaign.",
+            "execution": "",
             "outcome": "During our work with Help A Girl Out (in the month that we worked with them)—they saw a 66% increase in organic reach and a 58% increase in average engagement with their posts. During and since the launch they’ve had major press coverage and the campaign was been shared by Canadian influencers like Olympian."
         },
         "gallery": [
