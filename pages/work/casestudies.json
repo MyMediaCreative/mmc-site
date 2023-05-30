@@ -1386,7 +1386,7 @@
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338044/case-studies%202023/CHASM/CHASM3_mvdjnl.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1645638655/case-studies/chasm/CHASM3_mxjqwb.png"
                     },
                     {
                         "type": "image",
@@ -1576,7 +1576,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829511358/transcript?ts=48110"
         },
         "numContent": {
             "intro": "The Cultural Connection research group approached us to build a 2- minute animated explainer video that covered their core academic findings and the implications that these findings could have on young people’s mental health. We had to explain something rather hard to pin down: the impact of culture on mental health. We built a welcoming world to do just that.",
@@ -1852,7 +1852,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829539299"
         },
         "numContent": {
             "intro": "Lafiya Nigeria provides family-planning support to communities in rural Nigeria. In collaboration with local caregivers, they deploy an effective and under-utilized form of contraception that meets the unique needs of their target community. Ahead of a major public launch and fundraising push, they approached us to create a video that would tell their story and highlight their solution.",
@@ -2092,7 +2092,7 @@
     },
     "ccc": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png",
             "blurb": "Website"
         },
         "seo": {
@@ -2578,7 +2578,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829540962"
         },
         "numContent": {
             "intro": "The School of Music Montreal (SoMM) approached us to make a promotional video that would share the great work they’ve done, and attract new volunteer music teachers for their programs. We decided to spend a day with volunteers and kids in the classroom—capturing the magic of music, and how it can really help people grow.",
@@ -2927,7 +2927,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829547092"
         },
         "numContent": {
             "intro": "MADA is one of Montreal’s biggest anti-poverty organizations—specifically serving the city’s Jewish community. For their first major Passover event since COVID-19 they approached us to help them get the word out about the various services and support that anybody in the community could access. We decided to tell the story of some modern Passover miracles: food, community, and family.",
@@ -3161,7 +3161,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829541366"
         },
         "numContent": {
             "intro": "UpstartEd works in classrooms across Canada, preparing young folks to be the next generation of social innovators. They approached us to make a video to sum their flagship program. The video would be used to market the programs, and be the first thing that young people saw when they joined the Youth Explore experience.",
@@ -3217,7 +3217,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829540904"
         },
         "numContent": {
             "intro": "MealCare diverts food waste from large institutions, and makes sure that it gets into the hands of people that need it. In our video, we focused on the process of collecting excess food from university dining halls and getting it to a local Montreal food bank.",
@@ -3483,7 +3483,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829544694/transcript?ts=48920"
         },
         "numContent": {
             "intro": "StoryPlanet works to improve literacy rates among young children and empower youth with a core set of skills: imagination and storytelling. They approached us to interview several young program participants about their experiences with StoryPlanet, and the power of imagination that they’ve gained since participating.",
@@ -3495,7 +3495,7 @@
         },
         "gallery": [
             {
-                "type": "vimeo",
+                "type": "",
                 "media": ""
             }
         ],
@@ -3676,7 +3676,7 @@
             "title": "WalkSafe",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/walksafe",
         "color1": "#F2475A",
         "color2": "#F2475A",
@@ -3697,7 +3697,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829546940"
         },
         "numContent": {
             "intro": "Getting home is safer for some people than others. With that comes fear and insecurities. WalkSafe is a free service that gives people a buddy to walk home with. This way, people can feel safer and more confident if they have to get home late from class or the library. WalkSafe approached us to make a video that could advertise their services and express their value to potential beneficiaries.",
@@ -3734,7 +3734,7 @@
     },
     "k24": {
         "portfolio": {
-            "thumb": "",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/K24_ts3mxc.png",
             "blurb": "Video"
         },
         "seo": {
@@ -3762,7 +3762,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829540805"
         },
         "numContent": {
             "intro": "At the peak of the COVID-19 pandemic’s first wave, people from across Toronto came together to support Kitchen 24. Before the pandemic, it was an incubator for new food startups. Once the virus hit, though, it became a community committed to feeding the hungry—churning thousands of meals a day out of their state of the art facilities. We wanted to create a video that captured the project and their impact.",
@@ -3819,7 +3819,7 @@
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/manage/videos/829547400"
         },
         "numContent": {
             "intro": "The Projet Communautaire de Pierrefonds-West Island (PCPWI) has been supporting new immigrants and youth in their neighbourhood for more than 25 years. On the heels of a leadership overhaul and in celebration of their 25 year anniversary—PCPWI approached us to create a video that celebrated their accomplishments, and brought awareness to their programs.",
