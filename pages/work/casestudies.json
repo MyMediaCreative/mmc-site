@@ -196,7 +196,7 @@
             "Brand Design"
         ],
         "header": {
-            "type": "image",
+            "type": "img",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338633/case-studies%202023/SmartHospital/SH_Header_uphuhr.jpg",
             "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340522/case-studies%202023/_MobileHeaders/Smarthospital_gr0r2w.png",
             "mobilePos": "center"
@@ -2715,7 +2715,7 @@
             "blurb": "Website"
         },
         "seo": {
-            "title": "",
+            "title": "SEIZE Website",
             "desc": ""
         },
         "isBlack": true,
@@ -2740,7 +2740,7 @@
             "mobilePos": "center"
         },
         "mainMedia": {
-            "type": "img",
+            "type": "image",
             "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1680969404/case-studies%202023/SEIZE%20Website/Seize-1-corrected_ryz360.png"
         },
         "numContent": {
