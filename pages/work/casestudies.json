@@ -932,8 +932,8 @@
                 "blurb": "The Youth Impact Challenge website used bright colours, casual language, and pictures of a diverse range of excited young people to speak to its audience."
             },
             {
-                "type": "",
-                "media": "",
+                "type": "vimeo",
+                "media": "https://vimeo.com/832074865",
                 "title": "Video",
                 "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
             },
@@ -1798,7 +1798,7 @@
             },
             {
                 "type": "vimeo",
-                "media": "",
+                "media": "https://vimeo.com/832073696",
                 "title": "Psystem Listens",
                 "blurb": "We wanted to build a campaign that expanded on the world we were building with the brand—but one that would also get the average scroller to stop in their tracks. So we came up with an idea: “Like your phone, Psystem listens."
             },
@@ -2445,8 +2445,8 @@
         ],
         "LR": [
             {
-                "type": "loop",
-                "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340041/case-studies%202023/Chai%20Lifeline/Video-3_tgtneu.mp4",
+                "type": "vimeo",
+                "media": "https://vimeo.com/832074192",
                 "title": "Video",
                 "blurb": "We made short video ads that were targeted to different audiences based on their content."
             },
