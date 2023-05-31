@@ -15,7 +15,7 @@ const Home = ({ homepage }) => {
   let infaque = {
     name: "Centre for Social Innovation",
     title: <>Stories about the <em>better <br/>futures</em> you imagine...</>,
-    desc: <>Imagining a better future with<br/></>,
+    desc: <>Imagining a better future with<br/> the</>,
     vid:  "https://res.cloudinary.com/mymediacreative/video/upload/v1659119710/home/CSI_Homepage_Banner_gmn5vc.mp4",
     link: "csi",
     mobile: "https://res.cloudinary.com/mymediacreative/image/upload/v1684779897/home/Mobile_CSI_xlystz.png",
