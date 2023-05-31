@@ -1220,105 +1220,72 @@
             }
         ]
     },
-    "acgc": {
+    "ippnwc": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/ACGC_k1dfha.png",
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/IPPNWC_Header_fse62a.png",
             "blurb": "Video"
         },
         "seo": {
-            "title": "ACGC",
+            "title": "IPPNWC",
             "desc": ""
         },
-        "isBlack": true,
-        "path": "/acgc",
-        "color1": "#34c3e5",
-        "color2": "#34c3e5",
-        "name": "ACGC",
-        "title": "Telling the story of Canada’s young change makers.",
+        "isBlack": false,
+        "path": "/ippnwc",
+        "color1": "#213655",
+        "color2": "#213655",
+        "name": "International Physicians for the Prevention of Nuclear War",
+        "title": "Bringing young physicians into the peace movement.",
         "foci": [
-            "Social Innovation"
+            "Anti-Militarism"
         ],
-        "year": "2022",
+        "year": "2021",
         "disciplines": [
+            "Campaign Strategy",
+            "Copywriting",
             "Video"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338902/case-studies%202023/ACGC/ACGC-Header_vhverh.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/ACGC_gavhz0.png",
-            "mobilePos": "center"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338151/case-studies%202023/IPPNWC/IPPNWC_Header_elpvqw.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340503/case-studies%202023/_MobileHeaders/IPPNWC_j8mr76.png",
+            "mobilePos": "right"
         },
         "mainMedia": {
             "type": "vimeo",
-            "media": ""
+            "media": "https://vimeo.com/681653736"
         },
         "numContent": {
-            "intro": "The Alberta Council for Global Cooperation works to strengthen Canada’s ties to international initiatives to make the world a better place. In this case, they approached us about making several videos for the Canada Youth SDG Awards. They wanted 10 videos—1 for each of the award winners. Given the national scope of the project, we thought we’d lean into an “animated explainer” approach.",
-            "challenge": "We had about three weeks and a couple Zoom interviews to pull together ten videos that would really speak to the experiences of a large diversity of youth-led initiatives. Ranging from organizing around climate advocacy to combatting period poverty—we had to get our bearings quickly, and produce something great out of very little.",
-            "dotstrip": "Create 10 videos on a huge range of projects out of Zoom footage and animation.",
-            "approach": "We decided to sit down with every one of the winning teams on Zoom to learn more about them, and collect narration for the videos. From that point, we built out an art direction that evoked the style of explainer videos that are popular across the internet. From there, we leveraged narration and those interviews to tell ten stories that each gave the winners their special moment.",
-            "execution": "",
-            "outcome": ""
+            "intro": "International Physicians for the Prevention of Nuclear War (IPPNW) is a two-time Nobel Peace Prize Winning movement of medical practitioners advocating against militarism and war. IPPNW Canada reached out to us to run a campaign that would draw medical students (among other young people) into their mentorship programs. The goal was to spread a 21st century message that could help the organization find the next generation of peace advocates. To do that we built a set of campaign videos, social media posts, and an email campaign.",
+            "challenge": "The broad donor and support base for IPPNWC was cultivated during the peak of the peace movement in the 1970s and 1980s. Today, young people have shifted their focus to other global issues like climate change and social inequality. The challenge for us was to bring a modern twist to the peace movement that would resonate with, and mobilize, young activists (specifically medical students).",
+            "dotstrip": "Find a vital 21st century message for the peace movement and IPPNWC.",
+            "approach": "At the time, COVID-19 was most of what people could think about. There wasn’t lot of space left for any other social issues—so we leaned into that. We focused on creating a video that likened the nuclear weapons crisis to the global health crisis that we had been in the midst of for more than a year at that point. We also pointed to the unprecedented capacity of global institutions to roll out effective solutions to both crises—in the case of COVID-19, the vaccine and in the case of nuclear weapons, non-proliferation treaties. Finally, we leveraged the elevated importance of health care workers’ opinions in the midst of a global pandemic to create a sense of moral authority in the messaging.",
+            "execution": "To roll out this campaign strategy we built three videos, three social posts, and an email campaign with a focus on the messaging. The video was designed to make the audience think we were talking about COVID—and then reveal that we were, in fact, referring to was a global nuclear crisis. We did this to expose the parallels between the two crisis—and to invoke the active global response to COVID as proof that we needed a similarly forceful response to nuclear proliferation. Our email campaign used similar messaging point—but when on to discuss the hope that exists in the movement. We pointed to a history of successful activism and the passion of youth to show our audience the light at the end of the tunnel.",
+            "outcome": "When surveyed, 92% of medical students said that they would be highly likely to share the campaigns flagship video with their peers—and seek out further information on the subject. Qualitatively, medical students pointed to the novelty of the campaign and the important role that it played putting the issue on their radar. In the end, the campaign was successful in driving new interest among medical students to IPPNWC’s Fellowships and programs."
         },
         "gallery": [
             {
-                "type": "threeImg",
-                "media": [
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    },
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    },
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    }
-                ]
-            },
-            {
-                "type": "threeImg",
-                "media": [
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    },
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    },
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    }
-                ]
-            },
-            {
-                "type": "threeImg",
-                "media": [
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    },
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    },
-                    {
-                        "type": "vimeo",
-                        "media": ""
-                    }
-                ]
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338151/case-studies%202023/IPPNWC/IPPNWC_2_eiq1qx.png"
             }
         ],
         "LR": [
             {
-                "type": "",
-                "media": "",
-                "title": "",
-                "blurb": ""
+                "type": "vimeo",
+                "media": "https://vimeo.com/681652705",
+                "title": "Flagship Video",
+                "blurb": "This flagship video used news footage, stock imagery, and a core monologue to mobilize young people around the principles of the peace movement."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681652482 ",
+                "title": "Social Media Videos",
+                "blurb": "We created several shorter videos for use across social media. One of the core videos focused on the history of successful activism that ran through IPPNWC. This was done to inspire hope that there was a viable path forward."
+            },
+            {
+                "type": "vimeo",
+                "media": "https://vimeo.com/681652601",
+                "title": "Email Campaign",
+                "blurb": "Our email campaign to existing donors was designed to shine a light on the power of youth in this movement (if properly activated and supported). It also spoke to the active youth-focused programs IPPNWC was running to do just that."
             }
         ],
         "gallery2": ""
@@ -1883,76 +1850,6 @@
             }
             ]
     },
-    "ippnwc": {
-        "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/IPPNWC_Header_fse62a.png",
-            "blurb": "Video"
-        },
-        "seo": {
-            "title": "IPPNWC",
-            "desc": ""
-        },
-        "isBlack": false,
-        "path": "/ippnwc",
-        "color1": "#213655",
-        "color2": "#213655",
-        "name": "International Physicians for the Prevention of Nuclear War",
-        "title": "Bringing young physicians into the peace movement.",
-        "foci": [
-            "Anti-Militarism"
-        ],
-        "year": "2021",
-        "disciplines": [
-            "Campaign Strategy",
-            "Copywriting",
-            "Video"
-        ],
-        "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338151/case-studies%202023/IPPNWC/IPPNWC_Header_elpvqw.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340503/case-studies%202023/_MobileHeaders/IPPNWC_j8mr76.png",
-            "mobilePos": "right"
-        },
-        "mainMedia": {
-            "type": "vimeo",
-            "media": "https://vimeo.com/681653736"
-        },
-        "numContent": {
-            "intro": "International Physicians for the Prevention of Nuclear War (IPPNW) is a two-time Nobel Peace Prize Winning movement of medical practitioners advocating against militarism and war. IPPNW Canada reached out to us to run a campaign that would draw medical students (among other young people) into their mentorship programs. The goal was to spread a 21st century message that could help the organization find the next generation of peace advocates. To do that we built a set of campaign videos, social media posts, and an email campaign.",
-            "challenge": "The broad donor and support base for IPPNWC was cultivated during the peak of the peace movement in the 1970s and 1980s. Today, young people have shifted their focus to other global issues like climate change and social inequality. The challenge for us was to bring a modern twist to the peace movement that would resonate with, and mobilize, young activists (specifically medical students).",
-            "dotstrip": "Find a vital 21st century message for the peace movement and IPPNWC.",
-            "approach": "At the time, COVID-19 was most of what people could think about. There wasn’t lot of space left for any other social issues—so we leaned into that. We focused on creating a video that likened the nuclear weapons crisis to the global health crisis that we had been in the midst of for more than a year at that point. We also pointed to the unprecedented capacity of global institutions to roll out effective solutions to both crises—in the case of COVID-19, the vaccine and in the case of nuclear weapons, non-proliferation treaties. Finally, we leveraged the elevated importance of health care workers’ opinions in the midst of a global pandemic to create a sense of moral authority in the messaging.",
-            "execution": "To roll out this campaign strategy we built three videos, three social posts, and an email campaign with a focus on the messaging. The video was designed to make the audience think we were talking about COVID—and then reveal that we were, in fact, referring to was a global nuclear crisis. We did this to expose the parallels between the two crisis—and to invoke the active global response to COVID as proof that we needed a similarly forceful response to nuclear proliferation. Our email campaign used similar messaging point—but when on to discuss the hope that exists in the movement. We pointed to a history of successful activism and the passion of youth to show our audience the light at the end of the tunnel.",
-            "outcome": "When surveyed, 92% of medical students said that they would be highly likely to share the campaigns flagship video with their peers—and seek out further information on the subject. Qualitatively, medical students pointed to the novelty of the campaign and the important role that it played putting the issue on their radar. In the end, the campaign was successful in driving new interest among medical students to IPPNWC’s Fellowships and programs."
-        },
-        "gallery": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338151/case-studies%202023/IPPNWC/IPPNWC_2_eiq1qx.png"
-            }
-        ],
-        "LR": [
-            {
-                "type": "vimeo",
-                "media": "https://vimeo.com/681652705",
-                "title": "Flagship Video",
-                "blurb": "This flagship video used news footage, stock imagery, and a core monologue to mobilize young people around the principles of the peace movement."
-            },
-            {
-                "type": "vimeo",
-                "media": "https://vimeo.com/681652482 ",
-                "title": "Social Media Videos",
-                "blurb": "We created several shorter videos for use across social media. One of the core videos focused on the history of successful activism that ran through IPPNWC. This was done to inspire hope that there was a viable path forward."
-            },
-            {
-                "type": "vimeo",
-                "media": "https://vimeo.com/681652601",
-                "title": "Email Campaign",
-                "blurb": "Our email campaign to existing donors was designed to shine a light on the power of youth in this movement (if properly activated and supported). It also spoke to the active youth-focused programs IPPNWC was running to do just that."
-            }
-        ],
-        "gallery2": ""
-    },
     "ccc": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png",
@@ -2084,6 +1981,109 @@
                     {
                         "type": "image",
                         "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338696/case-studies%202023/Koop/Koop-4_f1p4t7.png"
+                    }
+                ]
+            }
+        ],
+        "LR": [
+            {
+                "type": "",
+                "media": "",
+                "title": "",
+                "blurb": ""
+            }
+        ],
+        "gallery2": ""
+    },
+    "acgc": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/ACGC_k1dfha.png",
+            "blurb": "Video"
+        },
+        "seo": {
+            "title": "ACGC",
+            "desc": ""
+        },
+        "isBlack": true,
+        "path": "/acgc",
+        "color1": "#34c3e5",
+        "color2": "#34c3e5",
+        "name": "ACGC",
+        "title": "Telling the story of Canada’s young change makers.",
+        "foci": [
+            "Social Innovation"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Video"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338902/case-studies%202023/ACGC/ACGC-Header_vhverh.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340501/case-studies%202023/_MobileHeaders/ACGC_gavhz0.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "vimeo",
+            "media": ""
+        },
+        "numContent": {
+            "intro": "The Alberta Council for Global Cooperation works to strengthen Canada’s ties to international initiatives to make the world a better place. In this case, they approached us about making several videos for the Canada Youth SDG Awards. They wanted 10 videos—1 for each of the award winners. Given the national scope of the project, we thought we’d lean into an “animated explainer” approach.",
+            "challenge": "We had about three weeks and a couple Zoom interviews to pull together ten videos that would really speak to the experiences of a large diversity of youth-led initiatives. Ranging from organizing around climate advocacy to combatting period poverty—we had to get our bearings quickly, and produce something great out of very little.",
+            "dotstrip": "Create 10 videos on a huge range of projects out of Zoom footage and animation.",
+            "approach": "We decided to sit down with every one of the winning teams on Zoom to learn more about them, and collect narration for the videos. From that point, we built out an art direction that evoked the style of explainer videos that are popular across the internet. From there, we leveraged narration and those interviews to tell ten stories that each gave the winners their special moment.",
+            "execution": "",
+            "outcome": ""
+        },
+        "gallery": [
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    }
+                ]
+            },
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    }
+                ]
+            },
+            {
+                "type": "threeImg",
+                "media": [
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
+                    },
+                    {
+                        "type": "vimeo",
+                        "media": ""
                     }
                 ]
             }
