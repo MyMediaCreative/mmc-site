@@ -133,7 +133,7 @@
         "numContent": {
             "intro": "Greenpeace Canada approached us to support the rollout of two separate campaigns. The first was focused on developing stronger protections for Canada’s biodiversity through legislative action. The other was a call for large Canadian banks to stop supporting the development of fossil fuel projects. We sprung into action to develop short, high-converting content to drive petition sign ups.",
             "challenge": "We needed to develop a litany of messages and images so that Greenpeace Canada could test the efficacy of various approaches. In every case, we needed to drive a conversion in about 10 seconds. The big challenge was building 16+ pieces of collateral—all of which had a quick hook to drive conversion.",
-            "dotstrip": "Get 50,000+ signatures calling for biodiversity protection",
+            "dotstrip": "Get 50,000 signatures calling for biodiversity protection",
             "approach": "We started by looking for messages and images that were bound to be high converting. We combed through images of cute wildlife, shocking imagery of humanity’s impact on the environment, and various cultural references that would get someone to stop scrolling on their feed. Once we had collected some core images and ideas—we executed rapidly on a litany of messages.",
             "execution": "We created a variety of static and video advertisements that experimented with different messages, and hooked people quickly.",
             "outcome": "The campaign has ~50,000 signatures calling for stronger biodiversity protection legislation. Miriam Wilson, the Digital Engagement Manager at Greenpeace Canada said this: 'The My Media team were a pleasure to work with from start to finish — they're passionate, enthusiastic, and inspired as well as highly organised and efficient. They found creative ways to produce imaginative, ambitious, and high-quality deliverables within our budget, and developed some of our year's best-performing content.' "
@@ -1850,80 +1850,93 @@
             }
             ]
     },
-    "ccc": {
+    "chailifeline": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png",
-            "blurb": "Website"
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Chai_kbylgc.png",
+            "blurb": "Campaign"
         },
         "seo": {
-            "title": "Community Climate Council",
-            "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png"
+            "title": "Chai Lifeline",
+            "desc": ""
         },
-        "isBlack": false,
-        "path": "/ccc",
-        "color1": "#6FCCA1",
-        "color2": "#6FCCA1",
-        "name": "Community Climate Council",
-        "title": "Local action for a more habitable planet.",
+        "isBlack": true,
+        "path": "/chailifeline",
+        "color1": "#A0BA46",
+        "color2": "#A0BA46",
+        "name": "Chai Lifeline",
+        "title": "Community support for families facing childhood illness.",
         "foci": [
-            "Environment"
+            "Health"
         ],
-        "year": "2023",
+        "year": "2022",
         "disciplines": [
-            "Brand Design",
-            "Web Design"
+            "Campaign Strategy",
+            "Copywriting",
+            "Video",
+            "Graphic Design"
+            
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-Header_smqu0r.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CCC_awead4.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339993/case-studies%202023/Chai%20Lifeline/ChaiLifeline-Cover_mruin9.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340515/case-studies%202023/_MobileHeaders/Chai_ittdvn.png",
             "mobilePos": "center"
         },
         "mainMedia": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-1_ufaiep.png"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339993/case-studies%202023/Chai%20Lifeline/ChaiLifeline-Main_pylwvr.png"
         },
         "numContent": {
-            "intro": "The Community Climate Council (CCC) supports local climate and environmental action in Ontario—with a focus on mobilizing and educating young people for a more habitable planet. They approached us about refining their existing brand and building a website that would speak to their important work.",
-            "challenge": "The goal was to create a website that would engage volunteers from all age-groups despite the youth-led nature of the organization.",
-            "dotstrip": "Mobilize volunteers across the age spectrum for climate action.",
-            "approach": "We started by refining the brand that the CCC already had in place—adding some colours and fleshing out the visual style with typography and imagery. From there, we built a simple website that spoke to potential volunteers.",
-            "execution": "The website featured many on the ground photos from climate action strikes that the CCC has run before, and is littered with CTAs that will drive volunteers to the organization.",
+            "intro": "Chai Lifeline Canada provides support for families facing childhood illness. They approached us about running an awareness campaign for families in Montreal—with the goal of ensuring that as many people in the local community knew about their free services as possible.",
+            "challenge": "How do we target such a particular audience in a way that actually connects, as opposed to being overly depressing or unrealistically optimistic?",
+            "dotstrip": "Find a balance between optimism and honesty.",
+            "approach": "We decided to let experiences with childhood illness inform our approach. We interviewed people and laid out a narrative that would speak to the unique, but shared, struggles of parents whose children were face to face with childhood illness.",
+            "execution": "In order to diversify our ad spend, we made videos and static placements for sharing across Google, YouTube, and Facebook. We bolstered that with a search campaign that would feed us data for retargeting.",
             "outcome": ""
         },
         "gallery": [
-            {
+           {
                 "type": "twoImg",
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339633/case-studies%202023/CCC/CCC-3_yx0sxl.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339992/case-studies%202023/Chai%20Lifeline/Chai-1_fxjyhr.png"
                     },
                     {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-2_b482da.png"
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340044/case-studies%202023/Chai%20Lifeline/Video-1_rwotdp.mp4"
                     }
                 ]
             },
             {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-4_phkgen.png"
-            }
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "loop",
+                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340038/case-studies%202023/Chai%20Lifeline/Video-2_tlv7te.mp4"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339994/case-studies%202023/Chai%20Lifeline/Chai-2_h3pyqf.png"
+                    }
+                ]
+            } 
         ],
         "LR": [
             {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339633/case-studies%202023/CCC/CCC-Website_yjkz8x.png",
-                "title": "Website",
-                "blurb": "We built a simple, clean, website that would drive new volunteers to the organization."
-            }
-        ],
-        "gallery2": [
+                "type": "vimeo",
+                "media": "https://vimeo.com/832074192",
+                "title": "Video",
+                "blurb": "We made short video ads that were targeted to different audiences based on their content."
+            },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-5_lnkdd6.png"
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339992/case-studies%202023/Chai%20Lifeline/Chai-3_j1dash.png",
+                "title": "Static Ads",
+                "blurb": "We made a litany of static advertisements that pulled on the core themes of the videos, and were designed for retargeting."
             }
-        ]
+        ],
+        "gallery2": ""
     },
     "koop": {
         "portfolio": {
@@ -2362,93 +2375,80 @@
         ],
         "gallery2": ""
     },
-    "chailifeline": {
+    "ccc": {
         "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Chai_kbylgc.png",
-            "blurb": "Campaign"
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png",
+            "blurb": "Website"
         },
         "seo": {
-            "title": "Chai Lifeline",
-            "desc": ""
+            "title": "Community Climate Council",
+            "desc": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/CCC_mcjreo.png"
         },
-        "isBlack": true,
-        "path": "/chailifeline",
-        "color1": "#A0BA46",
-        "color2": "#A0BA46",
-        "name": "Chai Lifeline",
-        "title": "Community support for families facing childhood illness.",
+        "isBlack": false,
+        "path": "/ccc",
+        "color1": "#6FCCA1",
+        "color2": "#6FCCA1",
+        "name": "Community Climate Council",
+        "title": "Local action for a more habitable planet.",
         "foci": [
-            "Health"
+            "Environment"
         ],
-        "year": "2022",
+        "year": "2023",
         "disciplines": [
-            "Campaign Strategy",
-            "Copywriting",
-            "Video",
-            "Graphic Design"
-            
+            "Brand Design",
+            "Web Design"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339993/case-studies%202023/Chai%20Lifeline/ChaiLifeline-Cover_mruin9.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340515/case-studies%202023/_MobileHeaders/Chai_ittdvn.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-Header_smqu0r.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340514/case-studies%202023/_MobileHeaders/CCC_awead4.png",
             "mobilePos": "center"
         },
         "mainMedia": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339993/case-studies%202023/Chai%20Lifeline/ChaiLifeline-Main_pylwvr.png"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-1_ufaiep.png"
         },
         "numContent": {
-            "intro": "Chai Lifeline Canada provides support for families facing childhood illness. They approached us about running an awareness campaign for families in Montreal—with the goal of ensuring that as many people in the local community knew about their free services as possible.",
-            "challenge": "How do we target such a particular audience in a way that actually connects, as opposed to being overly depressing or unrealistically optimistic?",
-            "dotstrip": "Find a balance between optimism and honesty.",
-            "approach": "We decided to let experiences with childhood illness inform our approach. We interviewed people and laid out a narrative that would speak to the unique, but shared, struggles of parents whose children were face to face with childhood illness.",
-            "execution": "In order to diversify our ad spend, we made videos and static placements for sharing across Google, YouTube, and Facebook. We bolstered that with a search campaign that would feed us data for retargeting.",
+            "intro": "The Community Climate Council (CCC) supports local climate and environmental action in Ontario—with a focus on mobilizing and educating young people for a more habitable planet. They approached us about refining their existing brand and building a website that would speak to their important work.",
+            "challenge": "The goal was to create a website that would engage volunteers from all age-groups despite the youth-led nature of the organization.",
+            "dotstrip": "Mobilize volunteers across the age spectrum for climate action.",
+            "approach": "We started by refining the brand that the CCC already had in place—adding some colours and fleshing out the visual style with typography and imagery. From there, we built a simple website that spoke to potential volunteers.",
+            "execution": "The website featured many on the ground photos from climate action strikes that the CCC has run before, and is littered with CTAs that will drive volunteers to the organization.",
             "outcome": ""
         },
         "gallery": [
-           {
-                "type": "twoImg",
-                "media": [
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339992/case-studies%202023/Chai%20Lifeline/Chai-1_fxjyhr.png"
-                    },
-                    {
-                        "type": "loop",
-                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340044/case-studies%202023/Chai%20Lifeline/Video-1_rwotdp.mp4"
-                    }
-                ]
-            },
             {
                 "type": "twoImg",
                 "media": [
                     {
-                        "type": "loop",
-                        "media": "https://res.cloudinary.com/mymediacreative/video/upload/v1676340038/case-studies%202023/Chai%20Lifeline/Video-2_tlv7te.mp4"
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339633/case-studies%202023/CCC/CCC-3_yx0sxl.png"
                     },
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339994/case-studies%202023/Chai%20Lifeline/Chai-2_h3pyqf.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-2_b482da.png"
                     }
                 ]
-            } 
-        ],
-        "LR": [
-            {
-                "type": "vimeo",
-                "media": "https://vimeo.com/832074192",
-                "title": "Video",
-                "blurb": "We made short video ads that were targeted to different audiences based on their content."
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339992/case-studies%202023/Chai%20Lifeline/Chai-3_j1dash.png",
-                "title": "Static Ads",
-                "blurb": "We made a litany of static advertisements that pulled on the core themes of the videos, and were designed for retargeting."
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-4_phkgen.png"
             }
         ],
-        "gallery2": ""
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339633/case-studies%202023/CCC/CCC-Website_yjkz8x.png",
+                "title": "Website",
+                "blurb": "We built a simple, clean, website that would drive new volunteers to the organization."
+            }
+        ],
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339634/case-studies%202023/CCC/CCC-5_lnkdd6.png"
+            }
+        ]
     },
     "alchemy": {
         "portfolio": {

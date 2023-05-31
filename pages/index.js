@@ -15,7 +15,7 @@ const Home = ({ homepage }) => {
   let infaque = {
     name: "Centre for Social Innovation",
     title: <>Stories about the <em>better <br/>futures</em> you imagine...</>,
-    desc: <>Imagining headlines <br/>from a better future with<br/></>,
+    desc: <>Imagining a better future with<br/></>,
     vid:  "https://res.cloudinary.com/mymediacreative/video/upload/v1659119710/home/CSI_Homepage_Banner_gmn5vc.mp4",
     link: "csi",
     mobile: "https://res.cloudinary.com/mymediacreative/image/upload/v1684779897/home/Mobile_CSI_xlystz.png",
@@ -31,7 +31,7 @@ const Home = ({ homepage }) => {
     mobilePosition: "47%",
   };
   let sh = {
-    name: "Smart Hospital Project",
+    name: "Montreal Children's Hospital",
     title: <>Stories that ignite<br/> our <em>passion</em>...</>,
     desc: <>Making innovation feel safe for parents<br/> with the</>,
     vid:  "https://res.cloudinary.com/mymediacreative/video/upload/v1659219192/home/Home_-_Case_3_kvl1ok.mp4",
