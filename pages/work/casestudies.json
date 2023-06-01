@@ -2393,7 +2393,7 @@
             "blurb": "Strategy • Brand • Website"
         },
         "seo": {
-            "title": "",
+            "title": "Alchemy Group",
             "desc": ""
         },
         "isBlack": true,
@@ -3331,13 +3331,13 @@
             },
             {
                 "type": "vimeo",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
+                "media": "https://vimeo.com/829540734",
                 "title": "Video",
                 "blurb": "We made a video invitation that captured stories from the MADA community + the core messaging that we had laid out."
             },
             {
                 "type": "vimeo",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1685475016/SH_Bag_new_qyt8fp.png",
+                "media": "https://vimeo.com/829540370",
                 "title": "Ads",
                 "blurb": "From this messaging, we built out several advertisements and social media posts that highlighted the stories of volunteers, recipients, and donors in the MADA community."
             }
@@ -3350,7 +3350,7 @@
             "blurb": "Brand"
         },
         "seo": {
-            "title": "",
+            "title": "homie",
             "desc": ""
         },
         "isBlack": true,
