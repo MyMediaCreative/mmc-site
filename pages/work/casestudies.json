@@ -937,75 +937,6 @@
         ],
         "gallery2": ""
     },
-    "mino": {
-        "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mino_wf1os7.png",
-            "blurb": "Strategy • Brand • Website • Campaign"
-        },
-        "seo": {
-            "title": "Mino Care",
-            "desc": ""
-        },
-        "isBlack": false,
-        "path": "/minocare",
-        "color1": "#531642",
-        "color2": "#531642",
-        "name": "Mino Care",
-        "title": "Better perinatal care for racialized parents in Toronto.",
-        "foci": [
-            "Health"
-        ],
-        "year": "2022",
-        "disciplines": [
-            "Brand Strategy",
-            "Brand Design",
-            "Web Design",
-            "Copywriting"
-        ],
-        "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340143/case-studies%202023/Mino/Mino-Header_uylzix.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340523/case-studies%202023/_MobileHeaders/Mino_gmkwrd.png",
-            "mobilePos": "center"
-        },
-        "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340144/case-studies%202023/Mino/Mino-1_yzbqkc.png"
-        },
-        "numContent": {
-            "intro": "Mino is a social enterprise that provides culturally-safe perinatal care options to racialized parents in Toronto, free of charge. They approached us in 2022 as Mommy Monitor. To go along with their new name, they wanted to undertake a rebrand and design a new website.",
-            "challenge": "Mino has a ton of ambition, and their digital presence simply didn’t reflect that. That’s why they approached us to develop a brand that would not only speak to their current patients—but also allow them to grow unencumbered.",
-            "dotstrip": "Position Mino for long term growth into new markets and service areas.",
-            "approach": "We decided to pursue a very human approach. We researched comparators and listened to the story that the Mino team wanted to tell through their brand. Inspired by the Dahomey Amazons, the Mino team wanted a presence that highlighted the power of the people they served.",
-            "execution": "With plenty of input from the Mino, we went ahead with the development of a brand. Once this was approved, we built out a robust website that covered dozens of service areas, highlighted Mino’s digital product, and could host the wealth of educational content that the Mino team had for their audience.",
-            "outcome": "Elsie Amoako, Mino's CEO, said this: 'Working with Tristan and the My Media team came at the perfect time-as I had been trying to connect with other companies with our rebrand but was unsuccessful. But when I began working with My Media they were so thoughtful, patient and open to our startup and what we valued. Their attentiveness and hard work delivered an amazing outcome in a short period of time and we will continue to work with them for the foreseeable future.' "
-        },
-        "gallery": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-2_wo5lcr.png"
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340141/case-studies%202023/Mino/Mino-4_rg74gi.png"
-            }
-        ],
-        "LR": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340139/case-studies%202023/Mino/Mino-Brand_ooqmtx.png",
-                "title": "Branding",
-                "blurb": "Inspired by the stories of the Dahomey Amazon—this brand is simple and human. Earthy tones avoid the overly sanitized feel of many healthcare companies. Clean type and imagery evokes the professionalism that you would want from any care provider."
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-Website_b6broq.png",
-                "title": "Website",
-                "blurb": "Inspired by comparators in the healthcare industry, this website provides a seamless route to care for parents and explains the unique offerings that Mino brings to the table."
-            }
-        ],
-        "gallery2": ""
-    },
     "infaque": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1645638141/work/grid/Infaque_Header_yg68ju.png",
@@ -1689,7 +1620,7 @@
     "psystem": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645638142/work/grid/Psystem_Header_aiwhko.png",
-            "blurb": "Branding"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "Psystem",
@@ -1853,7 +1784,7 @@
     "chailifeline": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Chai_kbylgc.png",
-            "blurb": "Campaign"
+            "blurb": "Strategy • Video • Campaign"
         },
         "seo": {
             "title": "Chai Lifeline",
@@ -1941,7 +1872,7 @@
     "koop": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/Koop_mrc1od.png",
-            "blurb": "Branding"
+            "blurb": "Strategy • Brand"
         },
         "seo": {
             "title": "Koop",
@@ -2172,7 +2103,7 @@
     "sherpa": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Sherpa_rfqn6k.png",
-            "blurb": "Design"
+            "blurb": "Report"
         },
         "seo": {
             "title": "McGill University & SHERPA",
@@ -2395,6 +2326,7 @@
         ],
         "year": "2023",
         "disciplines": [
+            "Copywriting",
             "Brand Design",
             "Web Design"
         ],
@@ -2453,7 +2385,7 @@
     "alchemy": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/Alchemy_qhpsfn.png",
-            "blurb": "Strategy, Brand and Website"
+            "blurb": "Strategy • Brand • Website"
         },
         "seo": {
             "title": "",
@@ -2598,7 +2530,7 @@
     "hago": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/HAGO_btooen.png",
-            "blurb": "Website"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "Help A Girl Out",
@@ -2904,7 +2836,7 @@
         "path": "/madapassover",
         "color1": "#0b283c",
         "color2": "#0b283c",
-        "name": "MADA",
+        "name": "MADA - Passover",
         "title": "Letting people know that there is help out there on the holidays.",
         "foci": [
             "Anti-Poverty",
@@ -2951,7 +2883,7 @@
     "ecthp": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/EthicalCoach_Header_ufw90l.png",
-            "blurb": "Branding"
+            "blurb": "Report"
         },
         "seo": {
             "title": "EthicalCoach",
@@ -3012,7 +2944,7 @@
     "mpa": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MPA_gywnzx.png",
-            "blurb": "Branding"
+            "blurb": "Brand"
         },
         "seo": {
             "title": "McGill Policy Association",
@@ -3072,7 +3004,7 @@
     "thrive": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Thrive_lperph.png",
-            "blurb": "Video"
+            "blurb": "Brand"
         },
         "seo": {
             "title": "Thrive",
@@ -3248,10 +3180,10 @@
             "desc": ""
         },
         "isBlack": true,
-        "path": "/repithiring",
+        "path": "/repitmoment",
         "color1": "#4d0849",
         "color2": "#4d0849",
-        "name": "Répit-Ressource",
+        "name": "Répit-Ressource - A Moment in Life",
         "title": "A moment in the life of a Répit-Ressource employee.",
         "foci": [
             "Accessibility"
@@ -3326,7 +3258,7 @@
     "madaGala": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/MADA2_hwej7m.png",
-            "blurb": "Strategy"
+            "blurb": "Strategy • Video • Campaign"
         },
         "seo": {
             "title": "MADA Gala",
@@ -3410,7 +3342,7 @@
     "homie": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/Homie_okfe16.png",
-            "blurb": "Branding"
+            "blurb": "Brand"
         },
         "seo": {
             "title": "",
@@ -3535,7 +3467,7 @@
     "ecwild": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/EthicalCoach-Wild_cf1kas.png",
-            "blurb": "Report Design"
+            "blurb": "Report"
         },
         "seo": {
             "title": "EthicalCoach X WILD",
@@ -3609,7 +3541,7 @@
     "repitEmployee": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Repit1_cwf8lj.png",
-            "blurb": "Video"
+            "blurb": "Strategy • Video • Campaign"
         },
         "seo": {
             "title": "Répit-Ressource",
@@ -3619,7 +3551,7 @@
         "path": "/repitEmp",
         "color1": "#4d0849",
         "color2": "#4d0849",
-        "name": "Répit-Ressource",
+        "name": "Répit-Ressource - A Work From the Heart",
         "title": "Attracting passionate people for jobs that require real care.",
         "foci": [
             "Accessibility"
@@ -3738,8 +3670,8 @@
         },
         "isBlack": true,
         "path": "/k24",
-        "color1": "",
-        "color2": "",
+        "color1": "#737F85",
+        "color2": "#737F85",
         "name": "Kitchen 24",
         "title": "Uplifting the community that came together to feed the hungry.",
         "foci": [
@@ -3843,7 +3775,7 @@
     "digitalEra": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967928/work/grid/DigitalEra_kiuugo.png",
-            "blurb": "Branding"
+            "blurb": "Brand • Website"
         },
         "seo": {
             "title": "Digital Era",
@@ -3912,6 +3844,75 @@
                 "media": "",
                 "title": "",
                 "blurb": ""
+            }
+        ],
+        "gallery2": ""
+    },
+    "mino": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mino_wf1os7.png",
+            "blurb": "Strategy • Brand • Website • Campaign"
+        },
+        "seo": {
+            "title": "Mino Care",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/minocare",
+        "color1": "#531642",
+        "color2": "#531642",
+        "name": "Mino Care",
+        "title": "Better perinatal care for racialized parents in Toronto.",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Brand Strategy",
+            "Brand Design",
+            "Web Design",
+            "Copywriting"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340143/case-studies%202023/Mino/Mino-Header_uylzix.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340523/case-studies%202023/_MobileHeaders/Mino_gmkwrd.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340144/case-studies%202023/Mino/Mino-1_yzbqkc.png"
+        },
+        "numContent": {
+            "intro": "Mino is a social enterprise that provides culturally-safe perinatal care options to racialized parents in Toronto, free of charge. They approached us in 2022 as Mommy Monitor. To go along with their new name, they wanted to undertake a rebrand and design a new website.",
+            "challenge": "Mino has a ton of ambition, and their digital presence simply didn’t reflect that. That’s why they approached us to develop a brand that would not only speak to their current patients—but also allow them to grow unencumbered.",
+            "dotstrip": "Position Mino for long term growth into new markets and service areas.",
+            "approach": "We decided to pursue a very human approach. We researched comparators and listened to the story that the Mino team wanted to tell through their brand. Inspired by the Dahomey Amazons, the Mino team wanted a presence that highlighted the power of the people they served.",
+            "execution": "With plenty of input from the Mino, we went ahead with the development of a brand. Once this was approved, we built out a robust website that covered dozens of service areas, highlighted Mino’s digital product, and could host the wealth of educational content that the Mino team had for their audience.",
+            "outcome": "Elsie Amoako, Mino's CEO, said this: 'Working with Tristan and the My Media team came at the perfect time-as I had been trying to connect with other companies with our rebrand but was unsuccessful. But when I began working with My Media they were so thoughtful, patient and open to our startup and what we valued. Their attentiveness and hard work delivered an amazing outcome in a short period of time and we will continue to work with them for the foreseeable future.' "
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-2_wo5lcr.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340141/case-studies%202023/Mino/Mino-4_rg74gi.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340139/case-studies%202023/Mino/Mino-Brand_ooqmtx.png",
+                "title": "Branding",
+                "blurb": "Inspired by the stories of the Dahomey Amazon—this brand is simple and human. Earthy tones avoid the overly sanitized feel of many healthcare companies. Clean type and imagery evokes the professionalism that you would want from any care provider."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-Website_b6broq.png",
+                "title": "Website",
+                "blurb": "Inspired by comparators in the healthcare industry, this website provides a seamless route to care for parents and explains the unique offerings that Mino brings to the table."
             }
         ],
         "gallery2": ""
