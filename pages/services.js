@@ -110,7 +110,7 @@ const Services = () => {
                 </div>
                 <div className="links">
                     <a href="/work/ECTHP" className="arrow-link" >EthicalCoach</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="/work/cera" className="arrow-link" >CERA</a>
+                    <a href="/work/cera" className="arrow-link" >Canadian Centre for Housing Rights</a>
                 </div>
             </div>
         </div>
