@@ -2784,7 +2784,7 @@
             "title": "POP Montreal",
             "desc": ""
         },
-        "isBlack": true,
+        "isBlack": false,
         "path": "/pop",
         "color1": "#f46b33",
         "color2": "#f46b33",
@@ -2808,17 +2808,21 @@
             "media": "https://vimeo.com/732517103"
         },
         "numContent": {
-            "intro": "2021 was Pop Montreal's 20th festival, and their first",
-            "challenge": "",
-            "dotstrip": "",
-            "approach": "",
+            "intro": "2021 was POP Montreal’s 20th festival, and their first major in-person festival since the COVID-19 pandemic. They reached out to us to capture that excitement—to paint a portrait of the festival filled with joy, and excitement, about coming back to live music after months indoors. Attending the festival for all three days, we really felt (and captured) that.",
+            "challenge": "The reality is, the tunes were f*cking sweet. In between shots we were moving and grooving. The beat would be pick up, the guitar would wail, and we would have to resist the deeply human urge to move our feet to the rythm. Why? Because if we danced, the footage would be toast. The challenge was keeping still (and getting beautiful shots) while these amazing artists filled the streets of Montreal with music and joy.",
+            "dotstrip": "Try not to dance to the sweet tunes to avoid ruining our footage.",
+            "approach": "Despite the sweet tunes, professionalism prevailed. We attended the festival for three days—immersing ourselves in the music + people that make it special. We pulled together the footage that we captured over those three days and, in just 4 days, we turned around a three-minute recap video.",
             "execution": "",
             "outcome": ""
         },
         "gallery": [
             {
-                "type": "",
-                "media": ""
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338445/case-studies%202023/POP/POP_1_spv3ez.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338447/case-studies%202023/POP/POP_2_oosi0x.png"
             }
         ],
         "LR": [
