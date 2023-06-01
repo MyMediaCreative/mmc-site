@@ -512,7 +512,7 @@
     "propelimpact": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/PropelImpact_hmn4xw.png",
-            "blurb": "Branding • Web • Communications"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "Propel Impact",
@@ -688,7 +688,7 @@
     "csi": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967927/work/grid/CSI_stsnow.png",
-            "blurb": "Communications • Video"
+            "blurb": "Strategy • Video • Campaign"
         },
         "seo": {
             "title": "Centre for Social Innovation",
@@ -794,7 +794,7 @@
     "signalytic": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967931/work/grid/Signalytic_vnjiwj.png",
-            "blurb": "Communications • Web"
+            "blurb": "Strategy • Website"
         },
         "seo": {
             "title": "Signalytic",
@@ -857,7 +857,7 @@
     "yic": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/InvestEco2_bq0ol3.png",
-            "blurb": "Strategy • Copywriting • Ad Design • Web Design"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "Youth Impact Challenge",
@@ -940,7 +940,7 @@
     "mino": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mino_wf1os7.png",
-            "blurb": "Strategy • Copywriting • Brand Design • Web Design"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "Mino Care",
@@ -1009,7 +1009,7 @@
     "infaque": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1645638141/work/grid/Infaque_Header_yg68ju.png",
-            "blurb": "Strategy • Copywriting • Brand Design • Ad Design • Web Design"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "Infāque",
@@ -1112,7 +1112,7 @@
     "nofish": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/NoFish_Header_umrpak.png",
-            "blurb": "Strategy"
+            "blurb": "Strategy • Campaign"
         },
         "seo": {
             "title": "NoFish",
@@ -1223,7 +1223,7 @@
     "ippnwc": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/IPPNWC_Header_fse62a.png",
-            "blurb": "Video"
+            "blurb": "Strategy • Video • Campaign"
         },
         "seo": {
             "title": "IPPNWC",
@@ -1293,7 +1293,7 @@
     "chasm": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645638141/work/grid/CHASM_Header_ghro3j.png",
-            "blurb": "Website"
+            "blurb": "Strategy • Website"
         },
         "seo": {
             "title": "CHASM",
@@ -1366,7 +1366,7 @@
     "indigirecruit": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/c_scale,w_700/v1645733960/work/grid/IndigIrecruit_Header_pnxibt.png",
-            "blurb": "Branding"
+            "blurb": "Brand"
         },
         "seo": {
             "title": "IndigIrecruit",
@@ -1585,106 +1585,106 @@
     "thesalon": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Salon_omex4b.png",
-            "blurb": "Branding • Strategy • Copywriting"
+            "blurb": "Strategy • Brand • Website • Campaign"
         },
         "seo": {
             "title": "The Salon",
             "desc": ""
         },
         "isBlack": false,
-        "path": "/propelimpact",
+        "path": "/thesalon",
         "color1": "#025753",
         "color2": "#025753",
         "name": "The Salon",
-        "title": "Experiential learning for the impact-driven economy.",
+        "title": "Bringing a vibrant Pittsburgh space to life.",
         "foci": [
-            "Social Innovation",
-            "Education"
+            "Arts and Culture"
         ],
         "year": "2022",
         "disciplines": [
             "Brand Strategy",
             "Brand Design",
-            "Web Design",
             "Copywriting",
+            "Web Design",
             "Campaign Strategy",
-            "Video"
+            "Ad Design"
         ],
         "header": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340171/case-studies%202023/Propel%20Impact/Propel-Cover_tgunq1.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340521/case-studies%202023/_MobileHeaders/PropelImpact_jo18wa.png",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339631/case-studies%202023/Salon/Salon-Header_o84zfi.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340511/case-studies%202023/_MobileHeaders/Salon_o7f2jw.png",
             "mobilePos": "center"
         },
         "mainMedia": {
             "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340168/case-studies%202023/Propel%20Impact/Propel-Main_i2sw9f.png"
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339632/case-studies%202023/Salon/Salon-1_y2izqh.png"
         },
         "numContent": {
-            "intro": "Propel Impact is Canada’s largest experiential learning platform for social innovation and social finance. As part of the merger between Social Innovation Academy and the National Social Value Fund, we were approached to define and launch the new brand that would support the new organization.",
-            "challenge": "How do we build a brand that captures the essence of both Social Innovation Academy and the National Social Value Fund—building a narrative bridge between the two organizations that would speak to alumni, participants, and funders?",
+            "intro": "The Salon is a space in Pittsburgh that brings brilliant women together to experience new things, ideas, and people. It is a room for work, play, and deep discussion. Their programming and content compliments a vibrant community—their brand needed to as well. The Salon approached us to develop a brand strategy, a visual refresh of their brand, and to roll all of this out through a website + brand activation campaign.",
+            "challenge": "How do we create a brand that is modern and honest—tying a huge variety of programs together under one umbrella? How do we create an experience that feels refined and special—while being accessible for all kinds of women? How do we centre local women at all times—creating space for them to own the brand whenever they lead programming at The Salon?",
             "dotstrip": "Build a brand that brought together two long-standing organizations.",
-            "approach": "We employed a very user-research led approach to our work with Propel Impact. We began with rigorous reviews of their existing brands, communications, and programs. From there, we ran a survey and spoke to several alumni. It was on this research foundation that we were able to build a brand narrative that we knew would help Propel Impact make an important statement in the sector.",
-            "execution": "With a strong brand strategy in hand, we were able to build a visual brand that really spoke to a young, diverse, audience of potential social innovators. We created something vibrant, but professional. It effectively blended visual inspiration from more progressive corporate brands with elements from grassroots social change organizations. We were off to the races.",
-            "outcome": ""
+            "approach": "We started with the space and the programs. What did the space make people feel, and what was the intention behind the design decisions that make The Salon what it is? Then, we looked at the programming. What programming performed best with people, what performed the worst? What stood out about the top performing programs? We then went on to pair the values that guided the space’s design with analysis of what was driving programs to perform particularly well. We came out with a set of Experience Principles and a whole suite of program positioning materials that would appeal to The Salon’s audience.",
+            "execution": "Once we had built out Experience Principles and program positioning materials, we trained The Salon team on how to use them. We threaded these principles and learnings into a visual brand refresh and a tone + voice document for the team. Equipped with a new visual style, writing guidelines, and training on The Salon brand—the team was ready to go. We assisted them by providing strategy for activating the brand and designing a brand new website that reflected the refresh. Finally, we activated the brand on socials and on The Salon’s newsletter.",
+            "outcome": "Within the first couple weeks of The Salon moving away from their old website they saw a ~5% increase in conversion to sales and doubled their sales MoM. The brand brought a level of clarity to The Salon’s programming and perspective—attracting new members, partners, and event sponsors in the months after the brand’s relaunch."
         },
         "gallery": [
-           {
-                "type": "twoImg",
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-2_kl1zcf.png"
+            },
+            {
+                "type": "threeImg",
                 "media": [
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Propel-1_arwxjz.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-3_abmlkk.png"
                     },
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Propel-2_clcyha.png"
-                    }
-                ]
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340170/case-studies%202023/Propel%20Impact/Propel-3_dzpvvc.png"
-            },
-             {
-                "type": "twoImg",
-                "media": [
-                    {
-                        "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Propel-4_zq7s7n.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-4_cww7hk.png"
                     },
                     {
                         "type": "image",
-                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340173/case-studies%202023/Propel%20Impact/Propel-5_uz4n3a.png"
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-5_tpjl9x.png"
                     }
                 ]
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340170/case-studies%202023/Propel%20Impact/Propel-6_ae32ls.png"
             }
         ],
         "LR": [
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340168/case-studies%202023/Propel%20Impact/Branding_fhu3ty.png",
-                "title": "Branding",
-                "blurb": "We created a visual brand that spoke to the audience and set Propel Impact apart from its predecessors in a vibrant way."
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339631/case-studies%202023/Salon/Salon-Logo_itswgj.png",
+                "title": "Brand Refresh",
+                "blurb": "We provided a refreshed brand with new assets, a set of brand guidelines, and tone/voice guidelines for the team. These would be implemented on social and the website."
             },
             {
                 "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340167/case-studies%202023/Propel%20Impact/Website_oh7wqr.png",
-                "title": "Website",
-                "blurb": "We built a very human website that we knew potential fellows would see themselves in."
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-Web_m8hfom.png",
+                "title": "Website Redesign",
+                "blurb": "We overhauled The Salon’s website—optimizing for newsletter and sales conversion. In the re-organization we also integrated some new concept and visual ideas to express the brand refresh."
             },
             {
-                "type": "loop",
-                "media": "",
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-Social_ow1rln.png",
                 "title": "Brand Activation",
-                "blurb": "To announce the brand to the world, we worked alongside the Propel Impact team to launch a week-long social media campaign that sparked a ton of interest in the sector."
+                "blurb": "We built out a strategy and several posts to activate the brand across social media."
             }
         ],
-        "gallery2": ""
+        "gallery2":[
+            {
+                "type": "twoImg",
+                "media": [
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-Ad2_g4vnbo.png"
+                    },
+                    {
+                        "type": "image",
+                        "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676339630/case-studies%202023/Salon/Salon-Ad1_jrmmgg.png"
+                    }
+                ]
+            }
+        ]
     },
     "psystem": {
         "portfolio": {
