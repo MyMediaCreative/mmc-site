@@ -2048,7 +2048,7 @@
             "blurb": "Website"
         },
         "seo": {
-            "title": "regeneration",
+            "title": "re–generation",
             "desc": ""
         },
         "isBlack": true,
@@ -2235,7 +2235,12 @@
                 "blurb": ""
             }
         ],
-        "gallery2": ""
+        "gallery2": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676338742/case-studies%202023/MPCC/MPCC2_cbjkch.png"
+            }
+        ]
     },
     "bsn": {
         "portfolio": {
