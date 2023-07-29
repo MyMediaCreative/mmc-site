@@ -854,6 +854,75 @@
             }
         ]
     },
+    "mino": {
+        "portfolio": {
+            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mino_wf1os7.png",
+            "blurb": "Strategy • Brand • Website • Campaign"
+        },
+        "seo": {
+            "title": "Mino Care",
+            "desc": ""
+        },
+        "isBlack": false,
+        "path": "/minocare",
+        "color1": "#531642",
+        "color2": "#531642",
+        "name": "Mino Care",
+        "title": "Better perinatal care for racialized parents in Toronto.",
+        "foci": [
+            "Health"
+        ],
+        "year": "2022",
+        "disciplines": [
+            "Brand Strategy",
+            "Brand Design",
+            "Web Design",
+            "Copywriting"
+        ],
+        "header": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340143/case-studies%202023/Mino/Mino-Header_uylzix.png",
+            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340523/case-studies%202023/_MobileHeaders/Mino_gmkwrd.png",
+            "mobilePos": "center"
+        },
+        "mainMedia": {
+            "type": "image",
+            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340144/case-studies%202023/Mino/Mino-1_yzbqkc.png"
+        },
+        "numContent": {
+            "intro": "Mino is a social enterprise that provides culturally-safe perinatal care options to racialized parents in Toronto, free of charge. They approached us in 2022 as Mommy Monitor. To go along with their new name, they wanted to undertake a rebrand and design a new website.",
+            "challenge": "Mino has a ton of ambition, and their digital presence simply didn’t reflect that. That’s why they approached us to develop a brand that would not only speak to their current patients—but also allow them to grow unencumbered.",
+            "dotstrip": "Position Mino for long term growth into new markets and service areas.",
+            "approach": "We decided to pursue a very human approach. We researched comparators and listened to the story that the Mino team wanted to tell through their brand. Inspired by the Dahomey Amazons, the Mino team wanted a presence that highlighted the power of the people they served.",
+            "execution": "With plenty of input from the Mino, we went ahead with the development of a brand. Once this was approved, we built out a robust website that covered dozens of service areas, highlighted Mino’s digital product, and could host the wealth of educational content that the Mino team had for their audience.",
+            "outcome": "Elsie Amoako, Mino's CEO, said this: <br/><br/>&quot;Working with Tristan and the My Media team came at the perfect time-as I had been trying to connect with other companies with our rebrand but was unsuccessful. But when I began working with My Media they were so thoughtful, patient and open to our startup and what we valued. Their attentiveness and hard work delivered an amazing outcome in a short period of time and we will continue to work with them for the foreseeable future.&quot;"
+        },
+        "gallery": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-2_wo5lcr.png"
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340141/case-studies%202023/Mino/Mino-4_rg74gi.png"
+            }
+        ],
+        "LR": [
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340139/case-studies%202023/Mino/Mino-Brand_ooqmtx.png",
+                "title": "Branding",
+                "blurb": "Inspired by the stories of the Dahomey Amazon—this brand is simple and human. Earthy tones avoid the overly sanitized feel of many healthcare companies. Clean type and imagery evokes the professionalism that you would want from any care provider."
+            },
+            {
+                "type": "image",
+                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-Website_b6broq.png",
+                "title": "Website",
+                "blurb": "Inspired by comparators in the healthcare industry, this website provides a seamless route to care for parents and explains the unique offerings that Mino brings to the table."
+            }
+        ],
+        "gallery2": ""
+    },
     "yic": {
         "portfolio": {
             "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967929/work/grid/InvestEco2_bq0ol3.png",
@@ -924,7 +993,7 @@
             },
             {
                 "type": "vimeo",
-                "media": "https://vimeo.com/832074865",
+                "media": "https://vimeo.com/681650354",
                 "title": "Video",
                 "blurb": "We ran a set of video advertisements that were both high-energy and satirical to spread the message."
             },
@@ -3844,75 +3913,6 @@
                 "media": "",
                 "title": "",
                 "blurb": ""
-            }
-        ],
-        "gallery2": ""
-    },
-    "mino": {
-        "portfolio": {
-            "thumb": "https://res.cloudinary.com/mymediacreative/image/upload/v1680967930/work/grid/Mino_wf1os7.png",
-            "blurb": "Strategy • Brand • Website • Campaign"
-        },
-        "seo": {
-            "title": "Mino Care",
-            "desc": ""
-        },
-        "isBlack": false,
-        "path": "/minocare",
-        "color1": "#531642",
-        "color2": "#531642",
-        "name": "Mino Care",
-        "title": "Better perinatal care for racialized parents in Toronto.",
-        "foci": [
-            "Health"
-        ],
-        "year": "2022",
-        "disciplines": [
-            "Brand Strategy",
-            "Brand Design",
-            "Web Design",
-            "Copywriting"
-        ],
-        "header": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340143/case-studies%202023/Mino/Mino-Header_uylzix.png",
-            "mobile": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340523/case-studies%202023/_MobileHeaders/Mino_gmkwrd.png",
-            "mobilePos": "center"
-        },
-        "mainMedia": {
-            "type": "image",
-            "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340144/case-studies%202023/Mino/Mino-1_yzbqkc.png"
-        },
-        "numContent": {
-            "intro": "Mino is a social enterprise that provides culturally-safe perinatal care options to racialized parents in Toronto, free of charge. They approached us in 2022 as Mommy Monitor. To go along with their new name, they wanted to undertake a rebrand and design a new website.",
-            "challenge": "Mino has a ton of ambition, and their digital presence simply didn’t reflect that. That’s why they approached us to develop a brand that would not only speak to their current patients—but also allow them to grow unencumbered.",
-            "dotstrip": "Position Mino for long term growth into new markets and service areas.",
-            "approach": "We decided to pursue a very human approach. We researched comparators and listened to the story that the Mino team wanted to tell through their brand. Inspired by the Dahomey Amazons, the Mino team wanted a presence that highlighted the power of the people they served.",
-            "execution": "With plenty of input from the Mino, we went ahead with the development of a brand. Once this was approved, we built out a robust website that covered dozens of service areas, highlighted Mino’s digital product, and could host the wealth of educational content that the Mino team had for their audience.",
-            "outcome": "Elsie Amoako, Mino's CEO, said this: <br/><br/>&quot;Working with Tristan and the My Media team came at the perfect time-as I had been trying to connect with other companies with our rebrand but was unsuccessful. But when I began working with My Media they were so thoughtful, patient and open to our startup and what we valued. Their attentiveness and hard work delivered an amazing outcome in a short period of time and we will continue to work with them for the foreseeable future.&quot;"
-        },
-        "gallery": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-2_wo5lcr.png"
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340141/case-studies%202023/Mino/Mino-4_rg74gi.png"
-            }
-        ],
-        "LR": [
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340139/case-studies%202023/Mino/Mino-Brand_ooqmtx.png",
-                "title": "Branding",
-                "blurb": "Inspired by the stories of the Dahomey Amazon—this brand is simple and human. Earthy tones avoid the overly sanitized feel of many healthcare companies. Clean type and imagery evokes the professionalism that you would want from any care provider."
-            },
-            {
-                "type": "image",
-                "media": "https://res.cloudinary.com/mymediacreative/image/upload/v1676340138/case-studies%202023/Mino/Mino-Website_b6broq.png",
-                "title": "Website",
-                "blurb": "Inspired by comparators in the healthcare industry, this website provides a seamless route to care for parents and explains the unique offerings that Mino brings to the table."
             }
         ],
         "gallery2": ""
